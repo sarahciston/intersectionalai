@@ -1,0 +1,2 @@
+title: A Techie's Guide to Intersectional AI
+theme: slideshow

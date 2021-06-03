@@ -1,5 +1,5 @@
-title: Intersectional AI
+title: Intersectional AI Toolkit
 theme: slideshow
 subdomain: iai
 badge: show
-description: This is your site description which can be edited in the _sv_settings.txt file, another Small Victory.
+description: a zine collection and code library for artists, activists, engineers, and you
