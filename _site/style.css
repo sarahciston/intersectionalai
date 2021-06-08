@@ -85,6 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
 }
+
 @media screen and (max-width: 640px) {
   h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
@@ -95,9 +96,11 @@ h1 {
   font-size: 60px;
   margin: 60px 0;
 }
+
 h1 a {
   color: #d42;
 }
+
 h1 a:hover {
   color: #c30;
 }
@@ -116,6 +119,7 @@ h1 a:hover {
   height: 360px;
   overflow: hidden;
 }
+
 @media screen and (max-width: 640px) {
   #home .post {
     margin: 0 20px;
@@ -141,9 +145,11 @@ h1 a:hover {
   margin-bottom: 20px;
   letter-spacing: -.03em;
 }
+
 #home h1.site-name a {
   color: #555;
 }
+
 @media screen and (max-width: 640px) {
   #home h1.site-name {
     margin: 30px 20px 0;
@@ -177,6 +183,7 @@ p {
   max-width: 310px;
   margin-bottom: 120px;
 }
+
 @media screen and (max-width: 640px) {
   #home p.site-description {
     margin: 30px 20px 60px 20px;
@@ -192,6 +199,7 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
+
 a:hover, a:active {
   color: #c30;
 }
@@ -273,6 +281,7 @@ img {
   padding: 20px 0 0;
   border-bottom: 1px solid #ccc;
 }
+
 @media screen and (max-width: 640px) {
   .masthead {
     text-align: center;
@@ -286,6 +295,7 @@ img {
   margin-right: 15px;
   margin-bottom: 15px;
 }
+
 @media screen and (max-width: 640px) {
   .site-avatar {
     float: none;
@@ -293,6 +303,7 @@ img {
     margin: 0 0 0 10px;
   }
 }
+
 .site-avatar img {
   border-radius: 26px;
 }
@@ -300,6 +311,7 @@ img {
 .site-info {
   float: left;
 }
+
 @media screen and (max-width: 640px) {
   .site-info {
     float: none;
@@ -322,6 +334,7 @@ img {
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 @media screen and (max-width: 640px) {
   .site-description {
     margin: 3px 0;
@@ -334,6 +347,7 @@ nav {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
 }
+
 @media screen and (max-width: 640px) {
   nav {
     float: none;
@@ -341,6 +355,7 @@ nav {
     display: block;
   }
 }
+
 nav a {
   margin-left: 20px;
   color: #777;
@@ -348,6 +363,7 @@ nav a {
   display: block;
   float: right;
 }
+
 @media screen and (max-width: 640px) {
   nav a {
     display: inline-block;
@@ -371,6 +387,7 @@ nav a {
   padding: 0.1em 1em;
   color: #777;
 }
+
 .post .eyebrow {
   font-size: 12px;
   line-height: 30px;
@@ -379,27 +396,33 @@ nav a {
   margin-bottom: 6px;
   border-top: 1px solid #999;
 }
+
 .post .comments {
   margin-top: 10px;
 }
+
 .post .small-link {
   font-size: 11px;
   color: #999;
   display: block;
 }
+
 .post .small-link:hover {
   color: #d42;
 }
+
 .post .large-link {
   font-size: 20px;
   color: #555;
   font-weight: 500;
 }
+
 .post .primary-link {
   color: #000;
   font-size: 13px;
   font-weight: 500;
 }
+
 .post .spacer {
   padding-right: 8px;
   margin-right: 8px;
@@ -780,3 +803,5 @@ code {
 .highlight .il {
   color: #2AA198;
 }
+
+/*# sourceMappingURL=style.css.map */

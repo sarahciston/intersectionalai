@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/jekyll-grid/sitemap.xml
+Sitemap: http://sarahciston.github.io/intersectionalai/sitemap.xml
