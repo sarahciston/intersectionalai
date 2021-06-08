@@ -7,14 +7,14 @@
 title: Intersectional AI Toolkit
 
 # Short bio or description (displayed in the header)
-description: ideas, ethics, & tactics for more equitable tech from queer, anti-racist, & feminist communities
+description: ideas, ethics, & tactics for more equitable tech from queer, anti-racist, & feminist communities | a zine collection and code library for artists, activists, engineers, and you
 
 # Just the Docs
 # color_scheme: "light" #"dark"
 # search_enabled: false
-# remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
-remote_theme: femmebot/jekyll-grid
+# remote_theme: femmebot/jekyll-grid # doesn't work as remote theme mb? 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: 

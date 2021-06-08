@@ -1,2 +1,2 @@
 ## Intersectional AI Toolkit
-### a zine library and code library
+### a zine collection and code library for artists, activists, engineers, and you

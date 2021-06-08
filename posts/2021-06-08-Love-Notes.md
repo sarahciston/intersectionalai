@@ -2,8 +2,9 @@
 layout: post
 title: Love Notes to IAI
 desc: Intersectional AI is already thriving. Here's a peek at some of the badass folks making it happen!
+has_children: true
 proj-url: 
-proj-num: 02
+order: 02
 date: 2021-06-08
 ---
 
