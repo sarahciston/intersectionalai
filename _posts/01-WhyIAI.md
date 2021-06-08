@@ -4,6 +4,7 @@ title: Why IAI
 desc: AI is broken. Why Intersectionality can help!
 proj-url: 
 proj-num: 01
+date: 2021-06-08
 ---
 
 
