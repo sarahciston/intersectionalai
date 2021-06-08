@@ -1,2 +1,0 @@
-title: Love Notes to Intersectional AI
-theme: slideshow

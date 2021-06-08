@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Another Project Title
-desc: Another excerpt or project description goes here
-proj-url: https://github.com/femmebot/jekyll-grid
-proj-num: 02
+title: Why IAI
+desc: AI is broken. Why Intersectionality can help!
+proj-url: 
+proj-num: 01
 ---
 
 
 
-## H2 Heading Looks Like This
+## Why we need Intersectional AI
 
 Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. 
 
