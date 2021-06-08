@@ -11,6 +11,8 @@ description: ideas, ethics, & tactics for more equitable tech from queer, anti-r
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: 
 
+theme: just-the-docs
+
 #
 # Flags below are optional
 #
@@ -66,6 +68,7 @@ gems:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - github-pages
+  - just-the-docs
 
 # Exclude these files from your production _site
 exclude:
