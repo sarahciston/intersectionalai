@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-to-Z
+title: IAI A-to-Z
 nav_order: 1
 date: 2021-06-08
 ---

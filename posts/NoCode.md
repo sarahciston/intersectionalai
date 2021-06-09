@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding for Non-Coders
+title: Artists & Activists for IAI
 nav_order: 05
 date: 2021-06-08
 desc: Where do I even start?

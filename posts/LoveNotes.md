@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love Notes to IAI
+title: Who 💜s IAI
 nav_order: 03
 date: 2021-06-08
 desc: Intersectional AI is already thriving. Here's a peek at some of the badass folks making it happen!
@@ -25,7 +25,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Color Coded LA](https://colorcoded.la/)
 * Superrr, School of MAAA, other Berlin spaces
 * Not My AI, other international examples
-
+* [Indigenous AI](https://www.indigenous-ai.net/)
 
 ### Intersectional Tools & Resources 
 simple databases are the key to everything, separating data layer from business layer
