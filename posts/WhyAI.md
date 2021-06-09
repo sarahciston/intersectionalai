@@ -7,6 +7,8 @@ date: 2021-06-08
 desc: AI is broken. Why Intersectionality can help
 ---
 
+<main class="zine">
+<section class="zine-page page-1" markdown="1">
 ## Why (we need) Intersectional AI
 
 ### AI is broken. Why Intersectionality can help
@@ -24,4 +26,6 @@ desc: AI is broken. Why Intersectionality can help
   10. Race-Critical Code Studies
   11. Restorative Processing, infrastructures of care
 
+</section>
+</main>
 
