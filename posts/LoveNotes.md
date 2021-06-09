@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Love Notes to IAI
-has_children: true
 nav_order: 03
 date: 2021-06-08
 desc: Intersectional AI is already thriving. Here's a peek at some of the badass folks making it happen!

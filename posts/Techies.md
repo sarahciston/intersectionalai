@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Techies for IAI
-has_children: true
 nav_order: 06
 date: 2021-06-08
 desc: Where do I even start?
