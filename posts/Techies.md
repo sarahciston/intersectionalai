@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding for Non-Coders
+title: Techies for IAI
 has_children: true
 nav_order: 06
 date: 2021-06-08
@@ -8,8 +8,6 @@ desc: Where do I even start?
 ---
 
 ## An Engineer's Guide to Intersectional AI
-
-[TOC]
 
 ### Why Listen to Artists? Arts, Social Science, & Humanities for Technologies in 8 Pages
 

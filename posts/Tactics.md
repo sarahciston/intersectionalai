@@ -8,8 +8,6 @@ date: 2021-06-08
 
 ## Tactics for Intersectional AI
 
-[TOC]
-
 ### So You Want to Make Better AI: Practical Strategies
 
   1. No coding required, bring your friends

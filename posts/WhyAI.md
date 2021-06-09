@@ -9,8 +9,6 @@ desc: AI is broken. Why Intersectionality can help
 
 ## Why (we need) Intersectional AI
 
-[TOC]
-
 ### AI is broken. Why Intersectionality can help
 
 >(Critical Theory, So Whats)

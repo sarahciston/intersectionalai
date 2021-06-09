@@ -9,8 +9,6 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 
 ## Love Notes to Intersectional AI
 
-[TOC]
-
 Many, many people believe better AI futures are possible and your inspiration for IAI can draw on a wide range of practitioners already in action:  
 
   * Afrotechtopia

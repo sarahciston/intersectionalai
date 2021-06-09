@@ -7,7 +7,8 @@
 title: Intersectional AI Toolkit
 
 # Short bio or description (displayed in the header)
-description: ideas, ethics, & tactics for more equitable tech from queer, anti-racist, & feminist communities | a zine collection and code library for artists, activists, engineers, and you
+description: ideas, ethics, & tactics for more equitable tech from queer, anti-racist, & feminist communities
+#  | a zine collection and code library for artists, activists, engineers, and you
 
 # Just the Docs
 color_scheme: "light" #"dark"
@@ -27,8 +28,7 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "add comments, make your own version on GitHub":
     - "//github.com/sarahciston/intersectionalai"
-  "about the curators":
-    - "https://sarahciston.com"
+
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

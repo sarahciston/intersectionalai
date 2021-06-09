@@ -9,8 +9,6 @@ desc: Where do I even start?
 
 ## Intersectional AI A-to-Z 
 
-[TOC]
-
 This glossary of terms for Intersectional AI A-to-Z is a great place to get started. By all means only one attempt at defining these ideas, and an invitation for conversations and amendments, these concepts show the complexity of the topic seen from multiple angles; meanwhile, I argue it's important to try to break down these concepts into plain language in order to offer more openings for folks to join these conversations. Please chime in, ask questions, help make these definitions better!
 
   1. A: algorithm / adversarial network 	| agency / anonymity / autonomy / access

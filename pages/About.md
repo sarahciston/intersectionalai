@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-nav_order: 0
+title: About
+nav_order: 000
 date: 2021-06-08
 ---
 

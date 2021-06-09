@@ -9,8 +9,6 @@ desc: Where do I even start?
 
 ## Caring with & for Intersectional AI
 
-[TOC]
-
 ### Ethics & Communities
 
 >Creative Code Collective & Collective Digital Care (Values & Approaches) (Ethics)
