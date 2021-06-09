@@ -26,8 +26,12 @@ remote_theme: pmarsceill/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
-  "add comments, make your own version on GitHub":
+  "Print Your Own":
+    - "TK"
+  "Fork it on GitHub":
     - "//github.com/sarahciston/intersectionalai"
+  # "markdown cheatsheet":
+  #   - "https://devhints.io/markdown"
 
 
 # Makes Aux links open in a new tab. Default is false
