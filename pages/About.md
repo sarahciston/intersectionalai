@@ -8,6 +8,7 @@ date: 2021-06-08
 
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
+
 # Design Notes for IAI
 
 ### What is an *Intersectional AI Toolkit*?

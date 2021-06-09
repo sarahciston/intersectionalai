@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Coding for Non-Coders
-has_children: true
 nav_order: 05
 date: 2021-06-08
 desc: Where do I even start?

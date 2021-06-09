@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Caring with IAI
+title: Ethics for IAI
 has_children: true
 nav_order: 04
 date: 2021-06-08

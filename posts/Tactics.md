@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Tactics for IAI
-has_children: true
-nav_order: 02
+nav_order: 03
 date: 2021-06-08
 ---
 
@@ -11,6 +10,7 @@ date: 2021-06-08
 ## Tactics for Intersectional AI
 
 ### So You Want to Make Better AI: Practical Strategies
+
 </section>
 
 <section class="zine-page page-2" markdown="1">

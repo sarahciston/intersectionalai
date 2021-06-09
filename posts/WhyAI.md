@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why IAI 
-has_children: true 
 nav_order: 01
 date: 2021-06-08
 desc: AI is broken. Why Intersectionality can help

@@ -1,9 +1,8 @@
 ---
-layout | post
-title | A-to-Z
-nav_order | 00
-date | 2021-06-08
-desc | Where do I even start?
+layout: post
+title: A-to-Z
+nav_order: 1
+date: 2021-06-08
 ---
 
 <main class="zine">
