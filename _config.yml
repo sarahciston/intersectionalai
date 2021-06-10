@@ -28,7 +28,7 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "PRINT Your Own":
     - "TK"
-  "EDIT it on GitHub":
+  "EDIT on GitHub":
     - "//github.com/sarahciston/intersectionalai"
   # "markdown cheatsheet":
   #   - "https://devhints.io/markdown"
@@ -48,7 +48,7 @@ gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-footer_content: "Distributed by an <a href=\"https://anticapitalist.software\">Anti-Capitalist Software License.</a>"
+# footer_content: "Distributed by an <a href=\"https://anticapitalist.software\">Anti-Capitalist Software License.</a>"
 # Footer last edited timestamp
 
 # SEARCH 
