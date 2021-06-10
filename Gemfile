@@ -12,4 +12,5 @@ group :jekyll_plugins do
         # gem 'jemoji'
         # gem 'jekyll-sitemap'
         gem 'github-pages'
+        gem 'webrick'
     end
