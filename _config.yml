@@ -136,3 +136,81 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+## prose.io config
+prose:
+  # rooturl: 'posts' #add space for pages too? separate to make private? do i need prose for this site more/less?
+  siteurl: 'https://sarahciston.github.io/sarahciston/intersectionalai'
+  media: 'assets/img'
+  metadata:
+    posts:
+      - name: "layout"
+        field: 
+          element: "select"
+          value: "default"
+          options: 
+            - name: "default"
+              value: "default"
+            - name: "post"
+              value: "post"
+            - name: "page"
+              value: "page"
+      # - name: "layout"
+      #   field: 
+      #     element: "hidden"
+      #     value: "default" #"posts"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+          value: CURRENT_DATETIME
+          type: "text"
+      - name: "nav_order"
+        field:
+          element: "number"
+          label: "nav_order"
+          type: "number"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          type: "text"
+      - name: "desc"
+        field:
+          element: "textarea"
+          label: "desc"
+          type: "textarea"
+          help: "a brief description of the post, a subhead or dek"
+      - name: "author"
+        field: 
+          element: "hidden"
+          value: CURRENT_USER
+    pages:
+      - name: "layout"
+        field: 
+          element: "select"
+          value: "default"
+          options: 
+            - name: "default"
+              value: "default"
+            - name: "post"
+              value: "post"
+            - name: "page"
+              value: "page"
+      # - name: "layout"
+      #   field: 
+      #     element: "hidden"
+      #     value: "pages"
+      - name: "nav_order"
+        field:
+          element: "number"
+          label: "nav_order"
+          type: "number"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          type: "text"
+    users:
+      - login: "sarahciston"
+        user: "Sarah Ciston"

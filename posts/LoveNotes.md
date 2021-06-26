@@ -18,8 +18,8 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * Data for Black lives
 * @datahealing & @cyberdoula (permission from all)
 * Deep lab
-* Queer.AI
-* Tiny Tech Zines
+* [Queer.AI]()
+  
 * Virtual Care Lab
 * Feminist.AI
 * [Color Coded LA](https://colorcoded.la/)
@@ -27,8 +27,21 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * Not My AI, other international examples
 * [Indigenous AI](https://www.indigenous-ai.net/)
 
+#### Visual, GANs, Deep Fakes, 
+* [Drag Deep Fakes](https://www.youtube.com/watch?v=qQSSl533rb8) Screen Walks. (2021, April 7). Screen Walk with Jake Elwes, Zizi and Me. https://www.youtube.com/watch?v=qQSSl533rb8
+
+#### Misc tech & publishing
+* [Tiny Tech Zines]()
+
+>(should all these go in the ccc resource guide & link from there)
+>simple databases are the key to everything, separating data layer from business layer
+### Additional (not AI specifically but in the spirit of Intersectional Tech)
+#### federated, servers
+* [Homebrew Server Club](https://homebrewserver.club/)
+* [Lurk](https://lurk.org/)
+* deplatforming: [Switching.Software](https://switching.software/list/all-in-one-services/)
+
 ### Intersectional Tools & Resources 
-simple databases are the key to everything, separating data layer from business layer
 - [Threads](https://cyber.harvard.edu/projects/threads) anonymity in forums tool by Berkman Klein
 - [Data Library of Context](https://civicsoftwarefoundation.org/library/)
 - [If AI, Then Feminist](https://netzforma.org/publikation-wenn-ki-dann-feministisch-impulse-aus-wissenschaft-und-aktivismus) (german language book)
@@ -45,6 +58,7 @@ Many of these were used to make this here zine collection
 - [p5.js]()
 - [Github Pages]()
 - [Glitch]()
+- [Bindery.js]() or [Pages.js]() or [html2print by OSP](http://osp.kitchen/tools/html2print/)
 
   * Credits & thanks: MA+P, CCC & ppl, HIIG, HiDW, HaCCS, F.AI, Ch510, P5js
 
