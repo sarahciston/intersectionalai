@@ -1,10 +1,5 @@
 <!-- ## Intersectional AI Toolkit -->
 
----
-layout: pages
-desc: homepage
----
-
 <main>
 <section class="zine-page page-1" markdown="1">
 
@@ -38,7 +33,9 @@ See [Notes](pages/Notes.md) for more on the making of this collection-in-progres
   
 ### Code resource hub
   
-#### The code resource hub will be an ever-growing community-sourced collection of video tutorials, code libraries, inspiring projects, and so forth, which have been curated by members of [Creative Code Collective] and friends. These will point you to the many different kinds of projects, tools, and research being made around Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired; get cracking making your own!
+#### The code resource hub will be an ever-growing community-sourced collection of video tutorials, code libraries, and inspiring projects. 
+
+These have been curated by members of [Creative Code Collective][CCC] and friends. These will point you to the many different kinds of projects, tools, and research being made around Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired; get cracking making your own!
 
 ---
 
@@ -75,5 +72,6 @@ There are many ways to contribute. One of the most immediate is to join in the c
 Distributed by an [Anti-Capitalist Software License](https://anticapitalist.software").
 {:.caption }
 
+[CCC]: https://creativecodecollective.com
 </section>
 </main>
