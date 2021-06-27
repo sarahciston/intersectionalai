@@ -16,4 +16,25 @@ desc: Where do I even start?
 >I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
 
 </section>
+
+<section class="zine-page page-2" markdown="1">
+</section>
+
+<section class="zine-page page-3" markdown="1">
+</section>
+
+<section class="zine-page page-4" markdown="1">
+</section>
+
+<section class="zine-page page-5" markdown="1">
+</section>
+
+<section class="zine-page page-6" markdown="1">
+</section>
+
+<section class="zine-page page-7" markdown="1">
+</section>
+
+<section class="zine-page page-8" markdown="1">
+</section>
 </main>

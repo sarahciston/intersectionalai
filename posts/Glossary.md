@@ -41,6 +41,24 @@ Y | y as output? 	| ?
 Z | ? 	| zine (publishing practices)
 
 </section>
+
+<section class="zine-page page-3" markdown="1">
+</section>
+
+<section class="zine-page page-4" markdown="1">
+</section>
+
+<section class="zine-page page-5" markdown="1">
+</section>
+
+<section class="zine-page page-6" markdown="1">
+</section>
+
+<section class="zine-page page-7" markdown="1">
+</section>
+
+<section class="zine-page page-8" markdown="1">
+</section>
 </main>
 
 *[adversarial network]: A type of machine learning often used to generate new data, such as images (GAN = Generative Adversarial Network). It requires two parts: one trained on existing data, and another trying to generate new data that can fool the first part. 

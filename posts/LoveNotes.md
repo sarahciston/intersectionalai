@@ -6,12 +6,14 @@ date: 2021-06-08
 desc: Intersectional AI is already thriving. Here's a peek at some of the badass folks making it happen!
 ---
 
+<!-- need to redistribute, change order, decide which to feature, describe, guest discussion -->
+
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 ## Love Notes to Intersectional AI
 
 </section>
-
+<section class="zine-page page-2" markdown="1">
 Many, many people believe better AI futures are possible and your inspiration for IAI can draw on a wide range of practitioners already in action:  
 
 * Afrotechtopia
@@ -27,12 +29,14 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * Not My AI, other international examples
 * [Indigenous AI](https://www.indigenous-ai.net/)
 
+</section>
+<section class="zine-page page-3" markdown="1">
+
 #### Visual, GANs, Deep Fakes, 
 * [Drag Deep Fakes](https://www.youtube.com/watch?v=qQSSl533rb8) Screen Walks. (2021, April 7). Screen Walk with Jake Elwes, Zizi and Me. https://www.youtube.com/watch?v=qQSSl533rb8
 
 #### Misc tech & publishing
 * [Tiny Tech Zines]()
-
 >(should all these go in the ccc resource guide & link from there)
 >simple databases are the key to everything, separating data layer from business layer
 ### Additional (not AI specifically but in the spirit of Intersectional Tech)
@@ -40,6 +44,9 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Homebrew Server Club](https://homebrewserver.club/)
 * [Lurk](https://lurk.org/)
 * deplatforming: [Switching.Software](https://switching.software/list/all-in-one-services/)
+
+</section>
+<section class="zine-page page-4" markdown="1">
 
 ### Intersectional Tools & Resources 
 - [Threads](https://cyber.harvard.edu/projects/threads) anonymity in forums tool by Berkman Klein
@@ -61,6 +68,17 @@ Many of these were used to make this here zine collection
 - [Bindery.js]() or [Pages.js]() or [html2print by OSP](http://osp.kitchen/tools/html2print/)
 
   * Credits & thanks: MA+P, CCC & ppl, HIIG, HiDW, HaCCS, F.AI, Ch510, P5js
+</section>
 
+<section class="zine-page page-5" markdown="1">
+</section>
 
+<section class="zine-page page-6" markdown="1">
+</section>
+
+<section class="zine-page page-7" markdown="1">
+</section>
+
+<section class="zine-page page-8" markdown="1">
+</section>
 </main>

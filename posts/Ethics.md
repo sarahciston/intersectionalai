@@ -17,4 +17,25 @@ desc: Where do I even start?
 (Could combine with love notes or with tactics)
 
 </section>
+
+<section class="zine-page page-2" markdown="1">
+</section>
+
+<section class="zine-page page-3" markdown="1">
+</section>
+
+<section class="zine-page page-4" markdown="1">
+</section>
+
+<section class="zine-page page-5" markdown="1">
+</section>
+
+<section class="zine-page page-6" markdown="1">
+</section>
+
+<section class="zine-page page-7" markdown="1">
+</section>
+
+<section class="zine-page page-8" markdown="1">
+</section>
 </main>

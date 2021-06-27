@@ -22,9 +22,32 @@ date: 2021-06-08
   6. Hosting a feminist server
   7. Queer reverb, queer refusal
    ![queerreverb](../assets/img/QueerReverb.png)
+   {: .img-small }
+
   8. AI as a craft, nonviolent creative code, CCC
   9.  How ~~not~~ to structure your organization
   10. Types of creative-critical-code interventions: what can you imagine? what will you make?
 
+</section>
+
+<section class="zine-page page-2" markdown="1">
+</section>
+
+<section class="zine-page page-3" markdown="1">
+</section>
+
+<section class="zine-page page-4" markdown="1">
+</section>
+
+<section class="zine-page page-5" markdown="1">
+</section>
+
+<section class="zine-page page-6" markdown="1">
+</section>
+
+<section class="zine-page page-7" markdown="1">
+</section>
+
+<section class="zine-page page-8" markdown="1">
 </section>
 </main>
