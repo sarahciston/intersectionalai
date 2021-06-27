@@ -21,8 +21,9 @@ date: 2021-06-08
   5. 7 tenants of data feminism
   6. Hosting a feminist server
   7. Queer reverb, queer refusal
+   ![queerreverb](../assets/img/QueerReverb.png)
   8. AI as a craft, nonviolent creative code, CCC
-  9. How ~~not~~ to structure your organization
+  9.  How ~~not~~ to structure your organization
   10. Types of creative-critical-code interventions: what can you imagine? what will you make?
 
 </section>
