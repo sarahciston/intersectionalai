@@ -1,23 +1,30 @@
 <!-- ## Intersectional AI Toolkit -->
 
+---
+layout: pages
+desc: homepage
+---
+
 <main>
 <section class="zine-page page-1" markdown="1">
 
 ## What is an *Intersectional AI Toolkit*?
 
-#### a zine collection and code library for artists, activists, engineers, and you
+#### a zine collection and code resource hub for artists, activists, engineers, and you
 
-The Intersectional AI Toolkit is a zine collection and code library for artists, activists, engineers, and you. It shows how established queer, anti-racist, anti-ableist, feminist ethics and tactics contribute necessary perspectives to the digital systems that affect us all, while offering approachable guides to both intersectionality and AI. This endeavor works from the hope that code can feel approachable for everyone and can move us toward care and repair, rather than perpetuating power imbalances—and lessons from intersectionality. 
+The Intersectional AI Toolkit gathers ideas, ethics, and tactics for creating and supporting more ethical, equitable tech. It shows how established queer, anti-racist, anti-ableist, feminist communities contribute necessary perspectives to reshaping the digital systems that affect us all. The toolkit also offers approachable guides to both intersectionality and AI. This endeavor works from the hope that code can feel approachable for everyone, can move us toward care and repair—rather than perpetuating power imbalances—and can do so by embodying lessons from intersectionality.
 
-Of course, this toolkit is not the first or only resource on intersectionality or AI. Instead, it gathers together some of the amazing people, ideas, and forces working to re-examine the foundational assumptions built into these technologies, in order to make them more ethical and equitable. In the tradition of '90s zine aesthetics and politics, it celebrates these efforts by sharing them—connecting concepts, creators, tools, and tactics across disciplines and counter-histories—hoping to spark further conversation and collaboration. It does so imperfectly and incompletely, showing rough edges and edit marks, in the belief that no text is final, all code can be forked, and everything is better with friends. 
+Of course, this toolkit is not the first or only resource on intersectionality or AI. Instead, it gathers together some of the amazing people, ideas, and forces working to re-examine the foundational assumptions built into these technologies, in order to make them more ethical and equitable. In the tradition of '90s zine aesthetics and politics, it celebrates these efforts by sharing them—connecting concepts, creators, tools, and tactics across disciplines and counter-histories—hoping to spark further conversation and collaboration. It does so imperfectly and incrementally, showing rough edges and edit marks, in the belief that no text is final, all code can be forked, and everything is better with friends. 
 
-Please join in by exploring the toolkit, commenting with your questions or thoughts, or remixing it into your own offshoot text. No experience is necessary to participate; all backgrounds are welcome!
+Please join in by exploring the toolkit, commenting with your questions or thoughts, or remixing it into your own new text(s). No experience is necessary to participate; all backgrounds and perspectives are welcome!
 
 ---
 
 ## What's included? 
 
-#### Subject to change, but for now it's eight "issues" printable as double-sided zines--and readable, remixable, shareable. More resources to come!
+### Zine collection 
+
+#### The zine collection is planned out as eight issues—printable as double-sided zines—and readable, remixable, shareable. More resources to come!
 
 **1 & 2.** [A-to-Z IAI](posts/Glossary.md)
 
@@ -28,6 +35,10 @@ Please join in by exploring the toolkit, commenting with your questions or thoug
 **7 & 8.** [Artists'](posts/NoCode.md) & [Engineers'](posts/Techies.md) Guides to IAI
 
 See [Notes](pages/Notes.md) for more on the making of this collection-in-progress and read below about how you can help it grow.
+  
+### Code resource hub
+  
+#### The code resource hub will be an ever-growing community-sourced collection of video tutorials, code libraries, inspiring projects, and so forth, which have been curated by members of [Creative Code Collective] and friends. These will point you to the many different kinds of projects, tools, and research being made around Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired; get cracking making your own!
 
 ---
 
@@ -66,10 +77,3 @@ Distributed by an [Anti-Capitalist Software License](https://anticapitalist.soft
 
 </section>
 </main>
-
-
-
-
-
-
-
