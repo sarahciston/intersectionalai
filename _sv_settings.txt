@@ -1,5 +1,0 @@
-title: Intersectional AI Toolkit
-theme: slideshow
-subdomain: iai
-badge: show
-description: a zine collection and code library for artists, activists, engineers, and you
