@@ -37,13 +37,15 @@ Many, many people believe better AI futures are possible and your inspiration fo
 
 #### Misc tech & publishing
 * [Tiny Tech Zines]()
->(should all these go in the ccc resource guide & link from there)
+>**(should all these go in the ccc resource guide & link from there)**
 >simple databases are the key to everything, separating data layer from business layer
+
 ### Additional (not AI specifically but in the spirit of Intersectional Tech)
 #### federated, servers
 * [Homebrew Server Club](https://homebrewserver.club/)
 * [Lurk](https://lurk.org/)
 * deplatforming: [Switching.Software](https://switching.software/list/all-in-one-services/)
+* [SFPC](https://sfpc.io/)
 
 </section>
 <section class="zine-page page-4" markdown="1">
@@ -57,6 +59,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
 - [JUST AI](https://www.adalovelaceinstitute.org/just-ai/)
 - [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
 - [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition
+- [Internet Teapot](https://internetteapot.com/) and [Algorithms of Late Capitalism Zines](https://algorithmsoflatecapitalism.tumblr.com/zines), esp. special edition: ["\[D/R\]econstructing AI"](https://href.li/?https://firebasestorage.googleapis.com/v0/b/internet-teapot.appspot.com/o/ALC%20-%20Dreams%20of%20Visionary%20Fiction.pdf?alt=media&token=4c3a9d31-922d-4dbe-9c6f-42fbd69fe312)
 
 ### Web/Code Tools
 Many of these were used to make this here zine collection
@@ -71,6 +74,10 @@ Many of these were used to make this here zine collection
 </section>
 
 <section class="zine-page page-5" markdown="1">
+
+### In Berlin / Other People's Lists
+- [CreativeCode.Berlin](https://github.com/CreativeCodeBerlin/creative-coding-minilist)
+
 </section>
 
 <section class="zine-page page-6" markdown="1">
