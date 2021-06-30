@@ -29,6 +29,9 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * Not My AI, other international examples
 * [Indigenous AI](https://www.indigenous-ai.net/)
 
+
+* [MOTIF feminist futures](https://feministfutures.net/)
+
 </section>
 <section class="zine-page page-3" markdown="1">
 
@@ -60,6 +63,12 @@ Many, many people believe better AI futures are possible and your inspiration fo
 - [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
 - [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition
 - [Internet Teapot](https://internetteapot.com/) and [Algorithms of Late Capitalism Zines](https://algorithmsoflatecapitalism.tumblr.com/zines), esp. special edition: ["\[D/R\]econstructing AI"](https://href.li/?https://firebasestorage.googleapis.com/v0/b/internet-teapot.appspot.com/o/ALC%20-%20Dreams%20of%20Visionary%20Fiction.pdf?alt=media&token=4c3a9d31-922d-4dbe-9c6f-42fbd69fe312)
+- [A is for Another: A Dictionary of AI](https://aisforanother.net/pages/site.html)
+- [A New AI Lexicon](https://medium.com/a-new-ai-lexicon/) from AI Now Institute, specifically the first sequence of CARE
+- [In Solidarity](https://github.com/marketplace/in-solidarity)
+
+### Learning AI
+- [Elements of AI](https://course.elementsofai.com/)
 
 ### Web/Code Tools
 Many of these were used to make this here zine collection

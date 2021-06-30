@@ -10,14 +10,19 @@ desc: Where do I even start?
 <section class="zine-page page-1" markdown="1">
 ## Code Basics for Cute Babes
 
-![nocode](../assets/img/NoCodingRequired.png)
-
 >A Non-Coder's Guide to Coding for Intersectional AI
 >I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
 
 </section>
 
 <section class="zine-page page-2" markdown="1">
+
+### Fierce & Scrappy, Floppy & 
+
+### Languages, Tools, Libraries, Oh My
+
+#### Which tools for which jobs?
+
 </section>
 
 <section class="zine-page page-3" markdown="1">

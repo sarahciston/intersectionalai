@@ -7,47 +7,62 @@ date: 2021-06-08
 
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
-## Tactics for Intersectional AI
 
+## Tactics for Intersectional AI
 ### So You Want to Make Better AI: Practical Strategies
 
-</section>
+![nocode](../assets/img/NoCodingRequired.png)
 
-<section class="zine-page page-2" markdown="1">
-  1. No coding required, bring your friends
-  2. AI to-do list
-  3. Black feminist ethics & tactics
-  4. Embodying anti-white-supremacist values
-  5. 7 tenants of data feminism
-  6. Hosting a feminist server
-  7. Queer reverb, queer refusal
-   ![queerreverb](../assets/img/QueerReverb.png)
-   {: .img-small }
-
-  8. AI as a craft, nonviolent creative code, CCC
-  9.  How ~~not~~ to structure your organization
-  10. Types of creative-critical-code interventions: what can you imagine? what will you make?
+#### No coding required, bring your friends
 
 </section>
 
 <section class="zine-page page-2" markdown="1">
+
+### Black feminist ethics & tactics
+
+- guest authors []
+  
 </section>
 
 <section class="zine-page page-3" markdown="1">
+
+### Embodying anti-white-supremacist values
+
 </section>
 
 <section class="zine-page page-4" markdown="1">
+
+### 7 tenants of data feminism
+         - "all work in the world, is undertaken by individuals. [...] Rather than viewing these postionalities as threats or as influences that might have biased our work, we embraced them as offering a set of valuable perspectives that could frame our work." (D'Ignazio & Klein 83)
 </section>
 
 <section class="zine-page page-5" markdown="1">
+
+  4. Hosting a feminist server
+  7.  How ~~not~~ to structure your hacker organization
+  6. AI as a craft, nonviolent creative code, CCC
+  8.  Types of creative-critical-code interventions: what can you imagine? what will you make?
+
 </section>
 
 <section class="zine-page page-6" markdown="1">
+
+### Crip Codes & Indigenous AI with Luke Fischbeck
+
 </section>
 
 <section class="zine-page page-7" markdown="1">
+
+### Queer reverb, queer refusal
+   ![queerreverb](../assets/img/QueerReverb.png)
+   {: .img-small }
+
 </section>
 
 <section class="zine-page page-8" markdown="1">
+
+### AI To-Do List
+
 </section>
 </main>
