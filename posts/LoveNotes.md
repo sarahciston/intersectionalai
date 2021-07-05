@@ -8,6 +8,8 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 
 <!-- need to redistribute, change order, decide which to feature, describe, guest discussion -->
 
+<!-- is the love note zine a list that refers out to the code resource hub instead? -->
+
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 ## Love Notes to Intersectional AI
@@ -16,61 +18,79 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 <section class="zine-page page-2" markdown="1">
 Many, many people believe better AI futures are possible and your inspiration for IAI can draw on a wide range of practitioners already in action:  
 
-* Afrotechtopia
-* Data for Black lives
+* [Afrotechtopia](https://www.afrotectopia.org/)
+* [Data for Black lives](https://d4bl.org/)
 * @datahealing & @cyberdoula (permission from all)
-* Deep lab
-* [Queer.AI]()
-  
+* Deep Lab
 * Virtual Care Lab
-* Feminist.AI
-* [Color Coded LA](https://colorcoded.la/)
 * Superrr, School of MAAA, other Berlin spaces
-* Not My AI, other international examples
-* [Indigenous AI](https://www.indigenous-ai.net/)
-
+* [Not My AI], other international examples
 
 * [MOTIF feminist futures](https://feministfutures.net/)
 
 </section>
 <section class="zine-page page-3" markdown="1">
 
-#### Visual, GANs, Deep Fakes, 
-* [Drag Deep Fakes](https://www.youtube.com/watch?v=qQSSl533rb8) Screen Walks. (2021, April 7). Screen Walk with Jake Elwes, Zizi and Me. https://www.youtube.com/watch?v=qQSSl533rb8
 
-#### Misc tech & publishing
-* [Tiny Tech Zines]()
+
 >**(should all these go in the ccc resource guide & link from there)**
 >simple databases are the key to everything, separating data layer from business layer
 
-### Additional (not AI specifically but in the spirit of Intersectional Tech)
-#### federated, servers
-* [Homebrew Server Club](https://homebrewserver.club/)
-* [Lurk](https://lurk.org/)
-* deplatforming: [Switching.Software](https://switching.software/list/all-in-one-services/)
-* [SFPC](https://sfpc.io/)
+
 
 </section>
 <section class="zine-page page-4" markdown="1">
 
-### Intersectional Tools & Resources 
-- [Threads](https://cyber.harvard.edu/projects/threads) anonymity in forums tool by Berkman Klein
-- [Data Library of Context](https://civicsoftwarefoundation.org/library/)
-- [If AI, Then Feminist](https://netzforma.org/publikation-wenn-ki-dann-feministisch-impulse-aus-wissenschaft-und-aktivismus) (german language book)
-- [Tiny Tools Directory](https://tinytools.directory/) gathers open source tools, small, free or experimental
-- [Anti Capitalist Software License](https://anticapitalist.software/)
-- [JUST AI](https://www.adalovelaceinstitute.org/just-ai/)
-- [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
-- [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition
+## Intersectional Tools & Resources 
+### Featured
+* [Indigenous AI](https://www.indigenous-ai.net/)
+* [If AI, Then Feminist](https://netzforma.org/publikation-wenn-ki-dann-feministisch-impulse-aus-wissenschaft-und-aktivismus) (german language book)
 - [Internet Teapot](https://internetteapot.com/) and [Algorithms of Late Capitalism Zines](https://algorithmsoflatecapitalism.tumblr.com/zines), esp. special edition: ["\[D/R\]econstructing AI"](https://href.li/?https://firebasestorage.googleapis.com/v0/b/internet-teapot.appspot.com/o/ALC%20-%20Dreams%20of%20Visionary%20Fiction.pdf?alt=media&token=4c3a9d31-922d-4dbe-9c6f-42fbd69fe312)
-- [A is for Another: A Dictionary of AI](https://aisforanother.net/pages/site.html)
-- [A New AI Lexicon](https://medium.com/a-new-ai-lexicon/) from AI Now Institute, specifically the first sequence of CARE
-- [In Solidarity](https://github.com/marketplace/in-solidarity)
+- [Algo.Rules](https://algorules.org/en/home)
 
 ### Learning AI
 - [Elements of AI](https://course.elementsofai.com/)
+- [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
 
-### Web/Code Tools
+### Approaches
+- [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition
+- [Tiny Tools Directory](https://tinytools.directory/) gathers open source tools, small, free or experimental
+* deplatforming: [Switching.Software](https://switching.software/list/all-in-one-services/)
+* [Queer.AI](https://queer.ai/) "conversational agents for the advancement of new eroticisms
+* [Civic Data Library of Context](https://www.civicdatalibrary.org/)
+
+### Examples/Projects
+#### Computer Vision
+* [Drag Deep Fakes](https://www.youtube.com/watch?v=qQSSl533rb8) Screen Walks. (2021, April 7). Screen Walk with Jake Elwes, Zizi and Me. https://www.youtube.com/watch?v=qQSSl533rb8 #vision #deepfake #gan
+
+### Zines, Principles, Readings
+* [A is for Another: A Dictionary of AI](https://aisforanother.net/pages/site.html)
+* [A New AI Lexicon](https://medium.com/a-new-ai-lexicon/) from AI Now Institute, specifically the first sequence of CARE
+* [Detroit Digital Justice Coalition Principles](http://detroitdjc.org/principles/) Access, Participation, Common Ownership, Healthy Communities
+* [Tiny Tech Zines](https://tinytechzines.org/)
+* [Our Data Bodies' Digital Defense Playbook](https://www.odbproject.org/tools/)
+* [Feminist Data Set & Toolkit](https://carolinesinders.com/feminist-data-set/) Caroline Sinders
+
+### Tools
+- [Anti Capitalist Software License](https://anticapitalist.software/)
+- [In Solidarity](https://github.com/marketplace/in-solidarity)
+- [Threads](https://cyber.harvard.edu/projects/threads) anonymity in forums tool by Berkman Klein
+
+### Teaching
+* [Critical Coding Cookbook](https://parsonsdt.github.io/critical-coding-cookbook/)
+
+### Orgs
+* [Feminist.AI](https://feminist.ai)
+* [Color Coded LA](https://colorcoded.la)
+* [JUST AI](https://www.adalovelaceinstitute.org/just-ai/)
+orcoded.la/)
+
+#### Additional (not AI specifically but in the spirit of Intersectional Tech)
+* [Homebrew Server Club](https://homebrewserver.club/)
+* [Lurk](https://lurk.org/)
+* [SFPC](https://sfpc.io/)
+
+#### Web/Code Tools
 Many of these were used to make this here zine collection
 - [Markdown Cheatsheet](https://devhints.io/markdown)
 - [ZineMachine](https://zine-machine.glitch.me/)
@@ -79,7 +99,10 @@ Many of these were used to make this here zine collection
 - [Glitch]()
 - [Bindery.js]() or [Pages.js]() or [html2print by OSP](http://osp.kitchen/tools/html2print/)
 
-  * Credits & thanks: MA+P, CCC & ppl, HIIG, HiDW, HaCCS, F.AI, Ch510, P5js
+#### Misc tech & publishing fyis
+* [How to make a zine](https://thecreativeindependent.com/guides/how-to-make-a-zine/)
+<!-- * [exercise exactly 4 min per day](https://substack.net/zine/exercise-exactly-4-minutes-per-day.html) visual example -->
+  
 </section>
 
 <section class="zine-page page-5" markdown="1">
@@ -96,5 +119,9 @@ Many of these were used to make this here zine collection
 </section>
 
 <section class="zine-page page-8" markdown="1">
+* Credits & thanks: MA+P, CCC & ppl, HIIG, HiDW, HaCCS, F.AI, Ch510, P5js
+* [Creative Code Collective Resource Hub](https://creativecodecollective/resources)
 </section>
 </main>
+
+[Interspecies Internet](https://www.interspecies.io/about)

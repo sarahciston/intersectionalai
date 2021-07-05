@@ -43,12 +43,20 @@ date: 2021-06-08
   7.  How ~~not~~ to structure your hacker organization
   6. AI as a craft, nonviolent creative code, CCC
   8.  Types of creative-critical-code interventions: what can you imagine? what will you make?
+  9.  Because we could imagine it differently
+      1.  Distributed computing, federated networks then & now []()
+      2.  [The Contingent Internet](https://dspace.mit.edu/bitstream/handle/1721.1/115284/daed_a_00361.pdf?sequence=1&isAllowed=y) via Jeanette Hofmann's work
+  10. 
 
 </section>
 
 <section class="zine-page page-6" markdown="1">
 
 ### Crip Codes & Indigenous AI with Luke Fischbeck
+
+ethical commitment to accessibility 
+and also, margin to center supporting all
+and also, shaping AI broadly
 
 </section>
 

@@ -16,6 +16,10 @@ date: 2021-06-08
 
 I scoured the entire internet for the perfect platform to write and code together, to create this making-of-a-project project, this code-zine-oroboros. And wouldn't you know it, I am back at the same freaking tool I started with ten months ago, the same template, the same questions. 
 
+<!-- formatting [exercise exactly 4 min per day](https://substack.net/zine/exercise-exactly-4-minutes-per-day.html) visual example -->
+
+<!-- comments via hypothesis styled, re luke -->
+
 </section>
 
 <section class="zine-page page-2" markdown="1">

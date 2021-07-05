@@ -66,3 +66,9 @@ Z | ? 	| zine (publishing practices)
 *[bias]: In a machine learning problem, bias is the technical definition for XXXXX. | In social situations, bias occurs XXXXXX.
 *[code of conduct]: Usually written together by a group, these guidelines outline expectations for behavior and procedures for when members of a community don't meet those expectations. While some argue for structureless, free-speech zones online, many counter that a lack of guidelines highlights power dynamics existing in broader culture (Dunbar-Hester 2020).
 
+
+
+> via [Elements of AI](https://course.elementsofai.com/1/1) "to list properties that are characteristic to AI, in this case autonomy and adaptivity. Autonomy: The ability to perform tasks in complex environments without constant guidance by a user. Adaptivity; The ability to improve performance by learning from experience.
+> "When defining and talking about AI we have to be cautious as many of the words that we use can be quite misleading. Common examples are learning, understanding, and intelligence. [...]
+>"intelligence is not a single dimension like temperature."
+
