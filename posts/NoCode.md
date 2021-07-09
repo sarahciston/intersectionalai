@@ -24,6 +24,10 @@ desc: Where do I even start?
 #### Which tools for which jobs?
 
 #### Demistifying
+[Sharon Lee De La Cruz: Can computers understand slang?](https://www.youtube.com/watch?v=CFT6w9NKfCs)
+Code Slang: crowdsourced library, flexible, visual output. "Retaining a culture, meeting people where they're at, celebrating the way we communicate."
+& the [Digital Citizens Lab]() 
+<!-- all dead links? -->
 
 </section>
 

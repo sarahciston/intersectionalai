@@ -72,5 +72,8 @@ and also, shaping AI broadly
 
 ### AI To-Do List
 
+### [How to Write Non-Violent Creative Code](https://contributors-zine.p5js.org/#reflection-olivia-mckayla-ross)
+#### P5 contributors facilitated by [Olivia McKayla Ross]()
+
 </section>
 </main>

@@ -53,15 +53,29 @@ Many, many people believe better AI futures are possible and your inspiration fo
 - [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
 
 ### Approaches
-- [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition
-- [Tiny Tools Directory](https://tinytools.directory/) gathers open source tools, small, free or experimental
-* deplatforming: [Switching.Software](https://switching.software/list/all-in-one-services/)
 * [Queer.AI](https://queer.ai/) "conversational agents for the advancement of new eroticisms
 * [Civic Data Library of Context](https://www.civicdatalibrary.org/)
+
+    #### AI-adjacent but Intersectional Tech
+    * [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition #tutorial
+    * [Tiny Tools Directory](https://tinytools.directory/) gathers open source tools, small, free or experimental #compendium #collection #tool
+    * [Cyberfeminist Index](https://cyberfeminismindex.com/) #cyberfeminism #compendium #collection
+    * [Switching.Software](https://switching.software/list/all-in-one-services/) #deplatforming
+
 
 ### Examples/Projects
 #### Computer Vision
 * [Drag Deep Fakes](https://www.youtube.com/watch?v=qQSSl533rb8) Screen Walks. (2021, April 7). Screen Walk with Jake Elwes, Zizi and Me. https://www.youtube.com/watch?v=qQSSl533rb8 #vision #deepfake #gan
+* [Library of Missing Datasets](https://github.com/MimiOnuoha/missing-datasets) #datacollection (Mimi Onuoha, see also [*A People's Guide to AI*](https://mimionuoha.com/a-peoples-guide-to-ai), no longer available)
+
+#### Conversational Agents
+* [Syb Trans Voice Interface](http://syb.feministchatbot.com/)
+  * collection of data practices
+  * disclosure of team, iterative process
+  * personality
+  * [Feminist Internet](https://www.feministinternet.com/) "There is no feminism, only possible feminisms. There is no internet, only possible internets."
+  * [Feminist Guide to AI Bias (chatbot)](http://about.f-xa.co/2/)
+  * [Designing Feminist Chatbots](https://drive.google.com/file/d/0B036SlUSi-z4UkkzYUVGTGdocXc/view?resourcekey=0-DS-Lj4uCk2VHf1cuogGNfg) by Josie Swords @swordstoyoung
 
 ### Zines, Principles, Readings
 * [A is for Another: A Dictionary of AI](https://aisforanother.net/pages/site.html)
@@ -70,11 +84,13 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Tiny Tech Zines](https://tinytechzines.org/)
 * [Our Data Bodies' Digital Defense Playbook](https://www.odbproject.org/tools/)
 * [Feminist Data Set & Toolkit](https://carolinesinders.com/feminist-data-set/) Caroline Sinders
+* [How to Write Non-Violent Creative Code](https://contributors-zine.p5js.org/#reflection-olivia-mckayla-ross)
+* [We Need to Talk AI: A Comic Essay](https://weneedtotalk.ai/)
 
 ### Tools
-- [Anti Capitalist Software License](https://anticapitalist.software/)
-- [In Solidarity](https://github.com/marketplace/in-solidarity)
-- [Threads](https://cyber.harvard.edu/projects/threads) anonymity in forums tool by Berkman Klein
+* [Anti Capitalist Software License](https://anticapitalist.software/)
+* [In Solidarity](https://github.com/marketplace/in-solidarity)
+* [Threads](https://cyber.harvard.edu/projects/threads) anonymity in forums tool by Berkman Klein
 
 ### Teaching
 * [Critical Coding Cookbook](https://parsonsdt.github.io/critical-coding-cookbook/)
@@ -92,12 +108,13 @@ orcoded.la/)
 
 #### Web/Code Tools
 Many of these were used to make this here zine collection
-- [Markdown Cheatsheet](https://devhints.io/markdown)
-- [ZineMachine](https://zine-machine.glitch.me/)
-- [p5.js]()
-- [Github Pages]()
-- [Glitch]()
-- [Bindery.js]() or [Pages.js]() or [html2print by OSP](http://osp.kitchen/tools/html2print/)
+* [Markdown Cheatsheet](https://devhints.io/markdown)
+* [ZineMachine](https://zine-machine.glitch.me/)
+* [p5.js]()
+* [p5.js Contributors Zine](https://contributors-zine.p5js.org/#read)
+* [Github Pages]()
+* [Glitch]()
+* [Bindery.js]() or [Pages.js]() or [html2print by OSP](http://osp.kitchen/tools/html2print/)
 
 #### Misc tech & publishing fyis
 * [How to make a zine](https://thecreativeindependent.com/guides/how-to-make-a-zine/)
@@ -108,7 +125,8 @@ Many of these were used to make this here zine collection
 <section class="zine-page page-5" markdown="1">
 
 ### In Berlin / Other People's Lists
-- [CreativeCode.Berlin](https://github.com/CreativeCodeBerlin/creative-coding-minilist)
+* [CreativeCode.Berlin](https://github.com/CreativeCodeBerlin/creative-coding-minilist)
+* []
 
 </section>
 

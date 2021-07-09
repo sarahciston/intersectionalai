@@ -7,9 +7,16 @@ date: 2021-06-08
 
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
+
 ## Intersectional AI A-to-Z 
 
 This glossary of terms for Intersectional AI A-to-Z is a great place to get started. By all means only one attempt at defining these ideas, and an invitation for conversations and amendments, these concepts show the complexity of the topic seen from multiple angles; meanwhile, I argue it's important to try to break down these concepts into plain language in order to offer more openings for folks to join these conversations. Please chime in, ask questions, help make these definitions better!
+
+### Other Glossaries
+
+* [You and AI Festival Glossary](https://www.onassis.org/whats-on/festival-you-and-ai-through-the-algorithmic-lens/exhibition/glossary) and [Bibliography](https://www.onassis.org/whats-on/festival-you-and-ai-through-the-algorithmic-lens/survival-guide-)
+* 
+
 </section>
 
 <section class="zine-page page-2" markdown="1">

@@ -11,6 +11,14 @@ date: 2021-06-08
 
 # Process Notes for IAI
 
+### 2021.07.06
+#### open questions, uncertainties
+is this a toolkit, or would another term be better? There's a lot about the instrumentality of "toolkit" I don't like. 
+
+An index? Does speak to the cataloguing process that much of this has become—and I do love alliteration. But oh, there's the already fantastic [Cyberfeminist Index](https://cyberfeminismindex.com/).
+
+Previous discussions have included a suite (of tactical media), a caldron, a labyrinth, a garden, a resource hub. A collection, a gathering, an accretion. A murder of crows. A super-organism of spores. #what-would-adrienne-marie-brown-do to signal the emergence, the strategy, the community, the honoring of its multiplicitous, polyvocal parts?
+
 ### 2021.06.09
 #### started from the bottom now we're... back again
 
