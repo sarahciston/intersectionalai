@@ -20,6 +20,7 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 </section>
 
 <section class="zine-page page-2" markdown="1">
+
 A | algorithm / adversarial network / api	| adversity / agency / anonymity / autonomy / access
 B | bias (technical)	| bias (social)
 C | convolutional neural net / confidence interval | care / code of conduct / community
@@ -38,8 +39,8 @@ O | overfitting & underfitting / open-source / OOP | otherness / OOO / ??
 P | privacy / Python 	| ???
 Q | quantified  	| queer 
 R | regression vs classification 	| race as a technology 
-S | supervised vs unsupervised 	| sustainability 
-T | tensor / transformer / turing test	| trans* rights  (turing/test connects these?)
+S | supervised vs unsupervised 	| **sustainability** 
+T | tensor / transformer / turing test	| trans* rights  (turing/test connects these?) / transfeminism
 U | uncertainty / unix&linux 	| union / user-creator / ?? 
 V | variance 	| value????
 W | (bag-of-)words / ?	| white supremacy / white feminism

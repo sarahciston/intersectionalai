@@ -61,6 +61,8 @@ Many, many people believe better AI futures are possible and your inspiration fo
     * [Tiny Tools Directory](https://tinytools.directory/) gathers open source tools, small, free or experimental #compendium #collection #tool
     * [Cyberfeminist Index](https://cyberfeminismindex.com/) #cyberfeminism #compendium #collection
     * [Switching.Software](https://switching.software/list/all-in-one-services/) #deplatforming
+    * [Oracle for Transfeminist Technologies](https://www.transfeministech.codingrights.org/) by [Coding Rights'](http://codingrights.org/) Joana Varon and Clara Juliano
+    
 
 
 ### Examples/Projects
@@ -86,6 +88,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Feminist Data Set & Toolkit](https://carolinesinders.com/feminist-data-set/) Caroline Sinders
 * [How to Write Non-Violent Creative Code](https://contributors-zine.p5js.org/#reflection-olivia-mckayla-ross)
 * [We Need to Talk AI: A Comic Essay](https://weneedtotalk.ai/)
+* * [Feminist Principles of the Internet](https://feministinternet.org/)
 
 ### Tools
 * [Anti Capitalist Software License](https://anticapitalist.software/)
@@ -99,7 +102,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Feminist.AI](https://feminist.ai)
 * [Color Coded LA](https://colorcoded.la)
 * [JUST AI](https://www.adalovelaceinstitute.org/just-ai/)
-orcoded.la/)
+* [Coding Rights'](http://codingrights.org/)
 
 #### Additional (not AI specifically but in the spirit of Intersectional Tech)
 * [Homebrew Server Club](https://homebrewserver.club/)
