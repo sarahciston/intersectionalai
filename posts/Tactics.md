@@ -9,10 +9,11 @@ date: 2021-06-08
 <section class="zine-page page-1" markdown="1">
 
 ## Tactics for Intersectional AI
+
+![No Coding Required](../assets/img/LC-NoCoding.png){: .img-small }
+{: .img-small }
+
 ### So You Want to Make Better AI: Practical Strategies
-
-![nocode](../assets/img/NoCodingRequired.png)
-
 #### No coding required, bring your friends
 
 </section>
@@ -34,7 +35,9 @@ date: 2021-06-08
 <section class="zine-page page-4" markdown="1">
 
 ### 7 tenants of data feminism
-         - "all work in the world, is undertaken by individuals. [...] Rather than viewing these postionalities as threats or as influences that might have biased our work, we embraced them as offering a set of valuable perspectives that could frame our work." (D'Ignazio & Klein 83)
+  
+  > "all work in the world, is undertaken by individuals. [...] Rather than viewing these postionalities as threats or as influences that might have biased our work, we embraced them as offering a set of valuable perspectives that could frame our work." (D'Ignazio & Klein 83)
+
 </section>
 
 <section class="zine-page page-5" markdown="1">
@@ -63,8 +66,9 @@ and also, shaping AI broadly
 <section class="zine-page page-7" markdown="1">
 
 ### Queer reverb, queer refusal
-   ![queerreverb](../assets/img/QueerReverb.png)
-   {: .img-small }
+
+![Queer Reverb](../assets/img/LC-QueerReverb.png)
+{: .img-small }
 
 </section>
 

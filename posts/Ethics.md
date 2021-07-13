@@ -14,7 +14,9 @@ desc: Where do I even start?
 
 >Creative Code Collective & Collective Digital Care (Values & Approaches) (Ethics)
 
-(Could combine with love notes or with tactics)
+![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png)
+{: .img-small }
+<!-- (Could combine with love notes, with tactics, or with community guidelines) -->
 
 </section>
 

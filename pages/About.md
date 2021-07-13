@@ -21,15 +21,24 @@ This toolkit is a research project started by Sarah Ciston, but it includes the 
 
 ### Individual contributors
 
-Leigh Montavon, hand lettering
+- Leigh Montavon, hand-lettering
+<!-- - Xin Xin -->
+<!-- - Luke -->
+<!-- - Illustrator(s) -->
+<!-- - Katherine Yang,  -->
+<!-- - Lubna ,  -->
+<!-- - Maurice ,  -->
 
 ### Institutional support
 
-Alexander von Humboldt Institute for Internet and Society, virtual fellowship, 2021
+- Alexander von Humboldt Institute for Internet and Society, virtual fellowship, 2021
+*with additional thanks to [MOTIF](https://motif-institute.com/), [netzforma*](https://netzforma.org/), and [SUPERRR](https://superrr.net/)*
+<!-- - Andrew W. Mellon Foundation, USC Humanities in a Digital World Program, PhD fellowship, 2021–2023  -->
+<!-- - USC Media Arts + Practice Division, School of Cinematic Arts, PhD fellowship 2017- -->
 
 ## Contact 
 
-<a href="mailto:ciston@usc.edu">ciston@usc.edu</a>
+If you would like to contribute, please contact Sarah at <a href="mailto:ciston@usc.edu">ciston@usc.edu</a>
 
 ## Data & Privacy
 <!-- could become a how-to for CCC plus Code of Conduct -->

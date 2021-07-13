@@ -14,7 +14,7 @@ desc: AI is broken. Why Intersectionality can help
 #### AI is broken. What is Intersectionality and how can it help?
 <!-- >(Critical Theory, So Whats) -->
 
-<!-- ![alt-text]()  -->
+<!-- ![Intersectionality Wheel]()--> 
 <!-- duckworth intersectionality wheel? -->
   
 </section>
@@ -33,7 +33,9 @@ e.g. Christina zur Nedden and Ariana Dongus reported on [involuntary biomentric 
 Intersectionality, recently clarified by Dr. Kimberlé Crenshaw who coined the term in 1989, "deals with the interactive effects of multiple forms of discrimination—racism, patriarchy, sexism, misogyny, homophobia. [...] Most importantly, Intersectionality is a frame to tell us what's wrong with the way certain discriminations are thought about. [...] Our understanding of racism [and] sexism is incomplete if it doesn't attend to the intersection of both."[^Crenshaw2021]
 
 "To fully understand how to do equality, [...] you have to see how institutions and vulnerabilities are structured in intersecting ways."[^Crenshaw2021]
-{: .margin-above="-50px" }
+<!-- {: .margin-above="-50px" } -->
+
+![Black Feminist Ethics and Tactics](../../assets/img/LC-BlackFeministEthicsTactics.png) 
 
 "The fundamental thing to remember is that for the most part 'Isms'—racism, classism—are often framed through the experiences of those who are dominant within the group, and more times than not that's men. And because we don't understand racism as it plays out between women, or racism as creating burdens on someone that others don't have,  because we don't have that understanding, we often run up against the limitations of that frame when it's disproportionately women of a particular background or context who are being impacted by something."[^Crenshaw2021]
 

@@ -8,14 +8,21 @@ desc: Where do I even start?
 
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
+
 ## An Engineer's Guide to Intersectional AI
 
-### Why Listen to Artists? Arts, Social Science, & Humanities for Technologies in 8 Pages
+![AI To-Do List](../assets/img/LC-AIToDoList.png)
+{: .img-small }
 
-### Intersectionality for Cuties of All Kinds
 
 </section>
 <section class="zine-page page-2" markdown="1">
+
+### Why Listen to Artists? 
+#### Arts, Social Science, & Humanities for Technologies in 8 Pages
+
+### Intersectionality for Cuties of All Kinds
+
   1. Why take intersectional approaches?
   2. Why take artistic approaches?
 
