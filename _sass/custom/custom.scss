@@ -4,21 +4,26 @@
   We've included some classes to get you going
 */
 
-.site-title {
-  color: $btn-primary-color !important;
-  // color: orange;  #7253ed; //custom isn't importing?
+// .site-title {
+//   color: $btn-primary-color !important;
+//   // color: orange;  #7253ed; //custom isn't importing?
+// }
+
+#menu-button {
+  color: $link-color !important;
 }
+
 
 caption {
   @include fs-2;
   // font-size: 9px;
 }
 
-img {
-  // display: block;
-  // margin-left: auto;
-  // margin-right: auto;
-}
+// img {
+//   // display: block;
+//   // margin-left: auto;
+//   // margin-right: auto;
+// }
 
 .small {
   width: 100px;

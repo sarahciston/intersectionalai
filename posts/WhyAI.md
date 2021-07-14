@@ -67,6 +67,9 @@ Intersectionality, recently clarified by Dr. Kimberlé Crenshaw who coined the t
 [^Crenshaw2021]: Crenshaw, K. (2021, March 29). What Does Intersectionality Mean? : 1A. https://www.npr.org/2021/03/29/982357959/what-does-intersectionality-mean
 
 </section>
+
+<hr>
+
 <section class="zine-page page-3" markdown="1">
 
 ## What Intersectionality Offers to Technology
