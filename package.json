@@ -1,0 +1,22 @@
+{
+  "name": "Intersectional AI Toolkit",
+  "version": "0.0.1",
+  "description": "a zine collection and code resource hub",
+  "repository": "sarahciston/intersectionalai",
+  "license": "Anti-Capitalist Software License",
+  "devDependencies": {
+    "@primer/css": "^14.4.0",
+    "prettier": "^2.0.5",
+    "stylelint": "^13.6.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-primer": "^9.0.0",
+    "stylelint-prettier": "^1.1.2",
+    "stylelint-selector-no-utility": "^4.0.0"
+  },
+  "scripts": {
+    "test": "stylelint '**/*.scss'",
+    "format": "prettier --write '**/*.{scss,js,json}'",
+    "stylelint-check": "stylelint-config-prettier-check"
+  },
+  "dependencies": {}
+}

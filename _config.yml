@@ -11,7 +11,7 @@ description: ideas, ethics, & tactics for more equitable tech from queer, anti-r
 #  | a zine collection and code library for artists, activists, engineers, and you
 
 # Just the Docs
-color_scheme: "light" #"dark"
+color_scheme: "light" #"light" #"dark"
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 # remote_theme: femmebot/jekyll-grid # doesn't work as remote theme mb? 

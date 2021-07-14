@@ -22,6 +22,7 @@ This toolkit is a research project started by Sarah Ciston, but it includes the 
 ### Individual contributors
 
 - Leigh Montavon, hand-lettering
+- Julie Gough, Illustrated Women in History, portrait drawing
 <!-- - Xin Xin -->
 <!-- - Luke -->
 <!-- - Illustrator(s) -->

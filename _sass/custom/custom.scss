@@ -5,14 +5,32 @@
 */
 
 .site-title {
-  color: #7253ed;
+  color: $btn-primary-color !important;
+  // color: orange;  #7253ed; //custom isn't importing?
 }
 
-.caption {
-  font-size: 9px;
+caption {
+  @include fs-2;
+  // font-size: 9px;
 }
 
-.img-small {
-  width: 200px;
-  height: auto;
+img {
+  // display: block;
+  // margin-left: auto;
+  // margin-right: auto;
 }
+
+.small {
+  width: 100px;
+  // height: auto;
+}
+
+// .float-left
+// img.left {
+//   float: left;
+// }
+
+// .float-right
+// img.right {
+//   float: right;
+// }

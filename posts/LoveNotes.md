@@ -10,6 +10,8 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 
 <!-- is the love note zine a list that refers out to the code resource hub instead? -->
 
+
+
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 ## Love Notes to Intersectional AI
@@ -42,7 +44,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
 <section class="zine-page page-4" markdown="1">
 
 ## Intersectional Tools & Resources 
-### Featured
+<!-- ### Featured -->
 * [Indigenous AI](https://www.indigenous-ai.net/)
 * [If AI, Then Feminist](https://netzforma.org/publikation-wenn-ki-dann-feministisch-impulse-aus-wissenschaft-und-aktivismus) (german language book)
 - [Internet Teapot](https://internetteapot.com/) and [Algorithms of Late Capitalism Zines](https://algorithmsoflatecapitalism.tumblr.com/zines), esp. special edition: ["\[D/R\]econstructing AI"](https://href.li/?https://firebasestorage.googleapis.com/v0/b/internet-teapot.appspot.com/o/ALC%20-%20Dreams%20of%20Visionary%20Fiction.pdf?alt=media&token=4c3a9d31-922d-4dbe-9c6f-42fbd69fe312)
@@ -69,6 +71,13 @@ Many, many people believe better AI futures are possible and your inspiration fo
 #### Computer Vision
 * [Drag Deep Fakes](https://www.youtube.com/watch?v=qQSSl533rb8) Screen Walks. (2021, April 7). Screen Walk with Jake Elwes, Zizi and Me. https://www.youtube.com/watch?v=qQSSl533rb8 #vision #deepfake #gan
 * [Library of Missing Datasets](https://github.com/MimiOnuoha/missing-datasets) #datacollection (Mimi Onuoha, see also [*A People's Guide to AI*](https://mimionuoha.com/a-peoples-guide-to-ai), no longer available)
+  
+<!-- * Aarati Akkapeddi - using libraries image processing colonial archives in india
+* Shirley Leung - fed ML Asian American female futurity
+* Tona Lopez - Philipines insta, 
+* Caroline Sinders
+* Ashley Jane Lewis
+* Suzanne Kite, indigenous AI -->
 
 #### Conversational Agents
 * [Syb Trans Voice Interface](http://syb.feministchatbot.com/)
@@ -103,6 +112,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Color Coded LA](https://colorcoded.la)
 * [JUST AI](https://www.adalovelaceinstitute.org/just-ai/)
 * [Coding Rights'](http://codingrights.org/)
+* [Black in AI](https://blackinai.github.io/)
 
 #### Additional (not AI specifically but in the spirit of Intersectional Tech)
 * [Homebrew Server Club](https://homebrewserver.club/)
