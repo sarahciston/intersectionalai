@@ -129,6 +129,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - github-pages
   - just-the-docs
+  - jekyll-remote-theme
 
 # Exclude these files from your production _site
 exclude:
