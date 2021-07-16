@@ -41,7 +41,7 @@ Intersectionality, recently clarified by Dr. Kimberlé Crenshaw who coined the t
 
 "Intersectionality is an institutionalized historical advantage for white men. [...] We see hierarchy and we see the way things are supposed to be through a lens that's already intersectional. ~~It's only when there are people who are challenging that, saying it's unfair or unjust, that people see a problem [...].~~ So yes, intersectionality marks power, as well as exclusion. If we take it seriously it gives us a clue about the ways we need to rethink how our institutions function, what it values, what it should value, in order to make more equitable more institutional practices."[^Crenshaw2021]
 
-![Dr. Kimberlé Crenshaw](assets/../../assets/img/Crenshaw-IWIH-Gough.png){: .float-right small }
+![Dr. Kimberlé Crenshaw](assets/../../assets/img/Crenshaw-IWIH-Gough.png){: .small float-right }
 <!-- {: .small .right } -->
 
 [Dr. Kimberlé Crenshaw, 2015, Illustrated Women in History](https://illustratedwomeninhistory.com/kimberle-crenshaw-is-an-american-scholar-in-the/)
