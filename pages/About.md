@@ -4,8 +4,8 @@ title: About
 nav_order: 50
 nav_exclude: true
 date: 2021-07-06
-
 ---
+{::options parse_block_html="true" parse_span_html="true" /}
 
 
 <main class="zine">

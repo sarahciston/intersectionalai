@@ -5,6 +5,7 @@ nav_order: 01
 date: 2021-06-26
 desc: AI is broken. Why Intersectionality can help
 ---
+{::options parse_block_html="true" parse_span_html="true" /}
 
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
@@ -39,12 +40,17 @@ Intersectionality, recently clarified by Dr. Kimberlé Crenshaw who coined the t
 
 "The fundamental thing to remember is that for the most part 'Isms'—racism, classism—are often framed through the experiences of those who are dominant within the group, and more times than not that's men. And because we don't understand racism as it plays out between women, or racism as creating burdens on someone that others don't have,  because we don't have that understanding, we often run up against the limitations of that frame when it's disproportionately women of a particular background or context who are being impacted by something."[^Crenshaw2021]
 
+<div class="small float-left mr-4">
+
+![Dr. Kimberlé Crenshaw](assets/../../assets/img/Crenshaw-IWIH-Gough.png)
+<!-- {: .small .float-left .mr-4 } -->
+
+[Dr. Kimberlé Crenshaw, 2015, Illustrated Women in History](https://illustratedwomeninhistory.com/kimberle-crenshaw-is-an-american-scholar-in-the/){: .small .float-left .mr-4 } -->
+
+</div>
+
 "Intersectionality is an institutionalized historical advantage for white men. [...] We see hierarchy and we see the way things are supposed to be through a lens that's already intersectional. ~~It's only when there are people who are challenging that, saying it's unfair or unjust, that people see a problem [...].~~ So yes, intersectionality marks power, as well as exclusion. If we take it seriously it gives us a clue about the ways we need to rethink how our institutions function, what it values, what it should value, in order to make more equitable more institutional practices."[^Crenshaw2021]
 
-![Dr. Kimberlé Crenshaw](assets/../../assets/img/Crenshaw-IWIH-Gough.png){: .small float-right }
-<!-- {: .small .right } -->
-
-[Dr. Kimberlé Crenshaw, 2015, Illustrated Women in History](https://illustratedwomeninhistory.com/kimberle-crenshaw-is-an-american-scholar-in-the/)
 
 <caption>—Dr. Kimberlé Crenshaw</caption>
 

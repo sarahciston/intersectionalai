@@ -5,6 +5,7 @@ nav_order: 03
 date: 2021-06-08
 desc: Intersectional AI is already thriving. Here's a peek at some of the badass folks making it happen!
 ---
+{::options parse_block_html="true" parse_span_html="true" /}
 
 <!-- need to redistribute, change order, decide which to feature, describe, guest discussion -->
 

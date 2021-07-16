@@ -4,12 +4,23 @@ title: Process Notes
 nav_order: 30
 date: 2021-07-12
 ---
-
+{::options parse_block_html="true" parse_span_html="true" /}
 
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 
 # Process Notes for IAI
+
+### 2021.07.15
+#### the shape of the container matters
+
+toolkit | **care package** | compendium | index | **inventory** | database
+**knapsack** | totebag | reader | omnibus | catalogue | resource
+gazetteer | directory | register | roster | anthology | suite
+lexicon | glossary | sewing basket | convolutes | caldron | labyrinth
+tapestry | tangle | coven | web | hub | **support** network
+**kit** | library/ian | jellyfish | circuit | forum | **matrix** 
+zine | **portal** | knowledge base | aid society | _____ | 
 
 ### 2021.07.12
 #### open questions, who is intersectionality 'for'?
