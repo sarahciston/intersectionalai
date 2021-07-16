@@ -20,7 +20,8 @@ gazetteer | directory | register | roster | anthology | suite
 lexicon | glossary | sewing basket | convolutes | caldron | labyrinth
 tapestry | tangle | coven | web | hub | **support** network
 **kit** | library/ian | jellyfish | circuit | forum | **matrix** 
-zine | **portal** | knowledge base | aid society | _____ | 
+zine | **portal** | knowledge base | aid society | framework | schema 
+scaffolding | lattice | meshwork |  openwork... reticulation... reticule...
 
 ### 2021.07.12
 #### open questions, who is intersectionality 'for'?
