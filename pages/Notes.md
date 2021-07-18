@@ -23,6 +23,19 @@ tapestry | tangle | coven | web | hub | **support** network
 zine | **portal** | knowledge base | aid society | framework | schema 
 scaffolding | lattice | meshwork |  openwork... reticulation... reticule...
 
+* inventory
+  * a collection or compendium, 
+  * but also a taking stock and a reckoning, 
+  * and also invent-ory—what can be imagined or made new from what is
+* care package
+  * collected from and offered to others who are dispersed
+* portal
+  * connecting as in ports
+  * sending through to other realms, transformation
+* reticule/reticulate
+  * reticulate: crossing veins, fibers, or lines as in a net or a network
+  * reticule: a small handbag, drawn together with string 
+
 ### 2021.07.12
 #### open questions, who is intersectionality 'for'?
 
