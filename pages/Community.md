@@ -33,33 +33,22 @@ If you have contributed to this project from another location, please add a land
 
 * scrappy artistic strategies, not perfect code[^ccc] #nocodesnobs[^p5]
 * growth, not perfection[^ccc] #newKidLove[^p5]
-* community, not competition (an open-source attitude)[^ccc]
+* collaboration, not competition[^ccc]
 * we all have skills to teach each other[^ccc] 
-
-* all practice is theory–practice[^ccc]
-
+* we meet people where they are. we don't assume knowledge or imply hierarchies of skills. we are not snobs about coding, scholarship, or other forms of knowledge.[^p5]
+* we value processes as much as, or more than, outcomes[^amb]
+* all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality 
+* #blacklivesmatter #translivesmatter #indigenouslivesmatter we engage tension; don't indulge drama[^amb] 
 * we focus on strategies rather than issues, solutions rather than problems[^AMC]
-* we spend more time building than attacking[^AMC]
-* we emphasize our own power and legitimacy[^AMC]
- 
-* we value the process as much as, or more than, the outcomes. [^amb]
-* assume best intent, attend to impact[^amb]
-* confidentiality–take the lessons, leave the details[^amb]
-* yes/and, both/and[^amb]
-* listen from the inside out, from the bottom up[^amb] (listen from the heart, speak from the heart, be spontaneous, be brief[^Council])
-* engage tension, don’t indulge drama[^amb]
-* W.A.I.T.—Why Am I Talking[^amb]
-* make space, take space—to help balance the verbose and the reticent[^amb]
+* listen from the heart, speak from the heart, be spontaneous, be brief[^Council]
+* assume best intent and attend to impact[^amb]
+* we accept responsibility for our actions and take care to make amends when we are wrong[^p5] 
+* we take the lessons, leave the details (confidentiality)[^amb]
 * we center care[^AMC]—self care and community care[^amb] 
 
-* we meet people where they are. we do not assume knowledge or imply hierarchies of skills. we are not snobs about coding, scholarship, or other forms of knowledge.[^p5]
-* we are here to listen and learn from each other; therefore we appreciate and accommodate people’s identities and life experiences, as they are different from ours.
-* We are respectful and kind in our speech and actions. We refrain from demeaning, discriminatory, or harassing behavior and speech.[^BerlinCoC]
-* We attempt collaboration before conflict.[^BerlinCoC] Misunderstandings and disagreements do happen. When conflicts arise, we resolve them maintaining courtesy, respect, and dignity, even when emotions are heightened.
-* We accept responsibility for our actions and take care to make amends when we are wrong.[^p5]
-* We are mindful of our fellow participants and alert community facilitators if we notice a dangerous situation, someone in distress, or violations of these guidelines, even if they seem inconsequential.[^W3C] 
-* We welcome each co-organizer’s input and we update these guidelines to support the needs of our community as they evolve.
-Thank you to the organizations from which these guidelines are drawn: Berlin Code of Conduct, Center for Council, Letters for Black Lives, P5.js, W3C.
+These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve.
+
+Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,[^amb] Allied Media Conference,[^AMC] Berlin Code of Conduct,[^BerlinCoC] Center for Council,[^Council] P5.js,[^p5] W3C,[^W3C] and Creative Code Collective.[^ccc]
 
 
 [^amb]: brown, a.m. (2017). Emergent Strategies. AK Press. Visit [adrienne maree brown](http://adriennemareebrown.net/)
@@ -68,6 +57,7 @@ Thank you to the organizations from which these guidelines are drawn: Berlin Cod
 [^Council]: [Center for Council](https://www.centerforcouncil.org/)
 [^ccc]: [Creative Code Collective](https://creativecodecollective.com)
 [^p5]: [p5js](https://p5js.org/community/)
+[^W3C]:
 
 #### Data & Privacy
 
