@@ -61,6 +61,8 @@ Thank you to the individuals and organizations who developed these principles an
 
 #### Data & Privacy
 
+This site does not track or gather any data on its viewers. If you choose to comment or edit this work, you'll be agreeing to Github's terms of service and potentially sharing data while on that site, but no additional information is collected here unless explicitly requested and always optional.
+
 </section>
 
 <section class="zine-page page-3" markdown="1">
@@ -87,7 +89,7 @@ Thank you to the individuals and organizations who developed these principles an
 
 ### Contact 
 
-If you would like to contribute, please contact Sarah at <a href="mailto:ciston@usc.edu">ciston@usc.edu</a>
+If you would like to contribute, please contact Sarah at <a href="mailto:ciston@usc.edu">ciston@usc.edu</a> with your github username.
 
 ### Project origins
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Techies for IAI
+title: Make AI Weird Again
 nav_order: 06
+nav_exclude: true
 date: 2021-06-08
 desc: Where do I even start?
 ---
@@ -12,6 +13,7 @@ desc: Where do I even start?
 
 ## An Engineer's Guide to Intersectional AI
 
+
 ![AI To-Do List](../assets/img/LC-AIToDoList.png)
 {: .img-small }
 
@@ -20,7 +22,9 @@ desc: Where do I even start?
 <section class="zine-page page-2" markdown="1">
 
 ### Why Listen to Artists? 
-#### Arts, Social Science, & Humanities for Technologies in 8 Pages
+#### Arts, Social Science, & Humanities for Technologies in 8 Pages !?
+
+<!-- What should this cover? -->
 
 ### Intersectionality for Cuties of All Kinds
 

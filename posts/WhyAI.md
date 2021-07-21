@@ -45,7 +45,7 @@ Intersectionality, recently clarified by Dr. Kimberlé Crenshaw who coined the t
 ![Dr. Kimberlé Crenshaw](assets/../../assets/img/Crenshaw-IWIH-Gough.png)
 <!-- {: .small .float-left .mr-4 } -->
 
-[Dr. Kimberlé Crenshaw, 2015, Illustrated Women in History](https://illustratedwomeninhistory.com/kimberle-crenshaw-is-an-american-scholar-in-the/){: .small .float-left .mr-4 } -->
+[Dr. Kimberlé Crenshaw, 2015, <br>Illustrated Women in History](https://illustratedwomeninhistory.com/kimberle-crenshaw-is-an-american-scholar-in-the/){: .small .float-left .mr-4 } 
 
 </div>
 

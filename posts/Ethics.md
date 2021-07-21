@@ -2,6 +2,7 @@
 layout: post
 title: Ethics for IAI
 nav_order: 04
+nav_exclude: true
 date: 2021-06-08
 desc: Where do I even start?
 ---

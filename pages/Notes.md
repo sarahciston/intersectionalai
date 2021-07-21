@@ -9,7 +9,8 @@ date: 2021-07-12
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 
-# Process Notes for IAI
+# sarah's readme
+#### ongoing process notes
 
 ### 2021.07.15
 #### the shape of the container matters

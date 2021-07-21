@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Artists & Activists for IAI
+title: Code Basics for IAI
 nav_order: 05
-date: 2021-06-08
+date: 2021-07-20
 desc: Where do I even start?
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
@@ -10,7 +10,9 @@ desc: Where do I even start?
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 
-## Code Basics for Cute Babes
+## Code Basics for Cute Babes Who Want to Save AI
+
+### Don't let { curly braces } intimidate you
 
 >A Non-Coder's Guide to Coding for Intersectional AI
 >I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
@@ -19,11 +21,13 @@ desc: Where do I even start?
 
 <section class="zine-page page-2" markdown="1">
 
-### Fierce & Scrappy, Floppy & 
+### Fierce & Scrappy
+
+### Four Basic Concepts
 
 ### Languages, Tools, Libraries, Oh My
 
-#### Which tools for which jobs?
+### Which tools for which jobs?
 
 #### Demistifying
 [Sharon Lee De La Cruz: Can computers understand slang?](https://www.youtube.com/watch?v=CFT6w9NKfCs)
