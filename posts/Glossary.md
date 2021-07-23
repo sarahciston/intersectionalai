@@ -11,43 +11,45 @@ date: 2021-06-08
 
 ## Intersectional AI A-to-Z 
 
-This glossary of terms for Intersectional AI A-to-Z is a great place to get started. By all means only one attempt at defining these ideas, and an invitation for conversations and amendments, these concepts show the complexity of the topic seen from multiple angles; meanwhile, I argue it's important to try to break down these concepts into plain language in order to offer more openings for folks to join these conversations. Please chime in, ask questions, help make these definitions better!
+This glossary of terms for Intersectional AI A-to-Z is a great place to get started. By all means it's only one example of definitions for these complex ideas, and it is meant as an open invitation for conversations and amendments! These concepts show the complexity of the topic seen from multiple angles; yet it is so important to try to break down these concepts into plain language in order to offer more openings for folks to join these conversations. Please chime in, ask questions, help make these definitions better!
 
-### Other Glossaries
+### Other Glossaries & Inspiration
 
 * [You and AI Festival Glossary](https://www.onassis.org/whats-on/festival-you-and-ai-through-the-algorithmic-lens/exhibition/glossary) and [Bibliography](https://www.onassis.org/whats-on/festival-you-and-ai-through-the-algorithmic-lens/survival-guide-)
-* 
+* [A New AI Lexicon](https://medium.com/a-new-ai-lexicon/)
+* [An AI Glossary](https://www.nytimes.com/2018/10/18/business/an-ai-glossary.html)
+<!-- * [](https://www.aicpa.org/content/dam/aicpa/interestareas/privatecompaniespracticesection/humancapital/diversity/aicpa-diversity-and-inclusion-glossary.pdf) -->
 
 </section>
 
 <section class="zine-page page-2" markdown="1">
 
-A | algorithm / adversarial network / api	| adversity / agency / anonymity / autonomy / access
-B | bias (technical)	| bias (social)
-C | convolutional neural net / confidence interval | care / code of conduct / community
-D | data cleaning / decision boundary 	| DEI / data colonialism /  
-E | ethical AI??? 	| embodied / digital epidermalization
-F | forking / FLOSS 	| feminist
-G | gpt3 / GAN 	| gender essentialism / global north
-H | ? hack 	| ? histories of computing
-I | interface / information	| intersectionality
-J | Javascript 	| Justice, transformative / ?
-K | k-means, KNN 	| Kimberlé Crenshaw?
-L | lmft / linear regression 	| Lovelace et al
-M | machine learning / ? 	| makerspace? / materiality
-N | nlp nft 	| nonbinary / 'neutral'
-O | overfitting & underfitting / open-source / OOP | otherness / OOO / ??
-P | privacy / Python 	| ???
-Q | quantified  	| queer 
-R | regression vs classification 	| race as a technology 
-S | supervised vs unsupervised 	| **sustainability** 
-T | tensor / transformer / turing test	| trans* rights  (turing/test connects these?) / transfeminism
-U | uncertainty / unix&linux 	| union / user-creator / ?? 
-V | variance 	| value????
-W | (bag-of-)words / ?	| white supremacy / white feminism
-X | x as input? 	| xenofeminism
-Y | y as output? 	| ?
-Z | ? 	| zine (publishing practices)
+**A** | algorithm / **adversarial network (&GAN)** / api / abstraction | **adversity** / agency / anonymity / autonomy / access / accountability 
+**B** | **bias** (technical w/variance)	/ black box | **bias** (social)
+**C** | convolutional neural net / **confidence interval** / clustering / cybernetics | care / **code of conduct** / community / critical race theory
+**D** | **data cleaning** / decision boundary / deep learning | DEI / **data colonialism** 
+E | ethical AI??? / evolutionary algorithms / **explainability** / encapsulation | embodiment / digital epidermalization / emotion / ethical AI (for public good etc)
+F | forking / **feature** extraction/selection (variables) | **FLOSS** / feminist / fairness / fascist
+G | **gpt3** / GAN 	| gender **essentialism** / global north
+**H** | **hyperparameter**	/ hidden layer | histories of computing / heteronormative / **hackerspace**
+**I** | interface / image recognition / intelligent assistant (virtual/chatbot) imageNet(Roulette)/ **information** | **information** (again/instead?) / intersectionality
+**J** | **Javascript** (vs Java?) | **Justice, transformative** 
+K | **k-means, KNN** | Kimberlé Crenshaw? / 
+L | long short-term memory (LSTM) / linear regression / **loss function** | Lovelace et al
+M | **machine learning** / Markov chain | makerspace / materiality 
+N | nlp & nlg & nlu / nft / **neural net** | **nonbinary** / 'neutral'
+O | **overfitting & underfitting** / open-source/floss or F? / OOP | otherness / OOO / ??
+P | Python / parameter / pattern recognition | privacy (GDPR?) / power
+**Q** | **quantification (quantifier)** / query language | **queer (theory)** 
+**R** | **regression vs classification** / recommender system / RNNs / reinforcement learning | **race (as a technology) & racialization** 
+S | **supervised vs unsupervised** / sentiment analysis / strong/weak general/narrow AI / search algo / swarm / software | **sustainability** / situated / standpoint theory
+**T** | tensor / **transformer**/transfer learning / turing test / training vs test data	| **trans* rights  (turing test connects these?) / transfeminism / transhuman**
+U | uncertainty / **unix** &linux | **union (labor)** / user-creator / ?? 
+V | **value/variable** / variance / vision | **value**????
+W | **(bag-of-)words** / ? | **white supremacy / white feminism**
+X | x as input? | xenofeminism
+Y | y as output? | ?
+Z | ? | zines (publishing practices)
 
 </section>
 
@@ -74,6 +76,7 @@ Z | ? 	| zine (publishing practices)
 *[adversity]: 
 *[bias]: In a machine learning problem, bias is the technical definition for XXXXX. | In social situations, bias occurs XXXXXX.
 *[code of conduct]: Usually written together by a group, these guidelines outline expectations for behavior and procedures for when members of a community don't meet those expectations. While some argue for structureless, free-speech zones online, many counter that a lack of guidelines highlights power dynamics existing in broader culture (Dunbar-Hester 2020).
+*[machine learning]: A subset of AI, these are "systems that improve their performance in a given task with more and more experience or data" (Elements of AI).[^EAI]
 
 
 
@@ -81,3 +84,4 @@ Z | ? 	| zine (publishing practices)
 > "When defining and talking about AI we have to be cautious as many of the words that we use can be quite misleading. Common examples are learning, understanding, and intelligence. [...]
 >"intelligence is not a single dimension like temperature."
 
+[^EAI]: [Elements of AI](https://course.elementsofai.com/1/)
