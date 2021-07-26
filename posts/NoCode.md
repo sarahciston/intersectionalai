@@ -2,7 +2,7 @@
 layout: post
 title: Code Basics for IAI
 nav_order: 05
-date: 2021-07-20
+date: 2021-07-26
 desc: Where do I even start?
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
