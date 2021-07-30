@@ -6,8 +6,6 @@ date: 2021-07-23
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
 
-{% include glossary.html %}
-
 <!-- make web version a table, printable version a list glossary with two zine pages double sided? will mean having people update the work in 2 places to do so but will allow for words to be defined throughout the site dynamically -->
 
 <main class="zine">
