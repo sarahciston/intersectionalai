@@ -8,7 +8,7 @@ date: 2021-07-23
 
 <!-- make web version a table, printable version a list glossary with two zine pages double sided? will mean having people update the work in 2 places to do so but will allow for words to be defined throughout the site dynamically -->
 
-[Print Side One]({% post GlossarySideA %}) | [Print Side Two]( {% post_url GlossarySideB %} )
+[Print Side One](../GlossarySideA) | [Print Side Two](../GlossarySideB)
 **A** | **adversarial network** (& GANs) | **adversity** 
 **B** | **bias (technical)** (w/ variance) | **bias (social)** 
 **C** | **confidence interval**| **code of conduct**
