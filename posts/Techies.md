@@ -28,6 +28,8 @@ desc: Where do I even start?
 ### Why Listen to Artists? 
 #### Arts, Social Science, & Humanities for Technologies in 8 Pages !?
 
+bias (technical)
+
 <!-- What should this cover? -->
 
 ## Intersectionality for Cuties of All Kinds
