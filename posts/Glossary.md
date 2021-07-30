@@ -8,19 +8,7 @@ date: 2021-07-23
 
 <!-- make web version a table, printable version a list glossary with two zine pages double sided? will mean having people update the work in 2 places to do so but will allow for words to be defined throughout the site dynamically -->
 
-<main class="zine">
-<section class="zine-page page-1" markdown="1">
-
-## Intersectional AI A-to-Z 
-
-This glossary of terms for Intersectional AI A-to-Z is a great place to get started. By all means it's only one example of definitions for these complex ideas, and it is meant as an open invitation for conversations and amendments! These concepts show the complexity of the topic seen from multiple angles; yet it is so important to try to break down these concepts into plain language in order to offer more openings for folks to join these conversations. Please chime in, ask questions, help make these definitions better!
-
-[Two-sided printable version forthcoming]()
-
-</section>
-
-<section class="zine-page page-2" markdown="1">
-
+[Print Side One]({% post GlossarySideA %}) | [Print Side Two]( {% post_url GlossarySideB %} )
 **A** | **adversarial network** (& GANs) | **adversity** 
 **B** | **bias (technical)** (w/ variance) | **bias (social)** 
 **C** | **confidence interval**| **code of conduct**
@@ -46,6 +34,18 @@ W | **(bag-of-)words** (w nlp) | **white supremacy / white feminism**
 X | x as input? | xenofeminism
 Y | y as output? | ?yt ? 
 Z | ? | zines (publishing practices)
+[Print Side One]() | [Print Side Two]()
+
+<main class="zine">
+<section class="zine-page page-1" markdown="1">
+
+## Intersectional AI A-to-Z 
+
+This glossary of terms for Intersectional AI A-to-Z is a great place to get started. By all means it's only one example of definitions for these complex ideas, and it is meant as an open invitation for conversations and amendments! These concepts show the complexity of the topic seen from multiple angles; yet it is so important to try to break down these concepts into plain language in order to offer more openings for folks to join these conversations. Please chime in, ask questions, help make these definitions better!
+
+</section>
+
+<section class="zine-page page-2" markdown="1">
 
 </section>
 
