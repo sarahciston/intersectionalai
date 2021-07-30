@@ -52,9 +52,11 @@ Many, many people believe better AI futures are possible and your inspiration fo
 - [Algo.Rules](https://algorules.org/en/home)
 - [Guidelines for Checking Essential Properties of AI-Based Systems](https://algorithmwatch.org/de/auto-hr/leitfaden/) in German
 
+
 ### Learning AI
 - [Elements of AI](https://course.elementsofai.com/)
 - [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
+- [Why.AI](https://www.hiig.de/en/dossier/why-ai/) dossier debunking myths in plain language
 
 ### Approaches
 * [Queer.AI](https://queer.ai/) "conversational agents for the advancement of new eroticisms
@@ -66,6 +68,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
     * [Cyberfeminist Index](https://cyberfeminismindex.com/) #cyberfeminism #compendium #collection
     * [Switching.Software](https://switching.software/list/all-in-one-services/) #deplatforming
     * [Oracle for Transfeminist Technologies](https://www.transfeministech.codingrights.org/) by [Coding Rights'](http://codingrights.org/) Joana Varon and Clara Juliano
+    * [Feminist Data Manifest-NO](https://www.manifestno.com/)
     
 
 
@@ -108,6 +111,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
 
 ### Teaching
 * [Critical Coding Cookbook](https://parsonsdt.github.io/critical-coding-cookbook/)
+* [DecarceratingTheClassroom](https://decarceratingtheclassroom.myportfolio.com/archive)
 
 ### Orgs
 * [Feminist.AI](https://feminist.ai)
