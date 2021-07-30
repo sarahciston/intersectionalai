@@ -12,7 +12,6 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 <!-- is the love note zine a list that refers out to the code resource hub instead? -->
 
 
-
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 ## Love Notes to Intersectional AI
@@ -124,6 +123,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Homebrew Server Club](https://homebrewserver.club/)
 * [Lurk](https://lurk.org/)
 * [SFPC](https://sfpc.io/)
+* [Fix the Glitch Toolkit 2.0](https://glitchcharity.co.uk/wp-content/uploads/2021/04/Glitch-Toolkit-FULL-Interactive.pdf) "Helping to End Online Gender Based Violence for Black Women"
 
 #### Web/Code Tools
 Many of these were used to make this here zine collection
