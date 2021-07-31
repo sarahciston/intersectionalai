@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GlossarySideYZ
+title: IAI A-to-Z Side B
 nav_exclude: true
 date: 2021-07-23
 ---
@@ -36,8 +36,12 @@ Y | y as output? | ?yt ?
 Z | ? | zines (publishing practices)
 [Print Side One]() | [Print Side Two]() -->
 
+<div class="no-print">
+
 #### Print instructions:
 Print this page on the back side of the Intersectional AI A-to-Z Glossary Side A and fold as [shown here()].
+
+</div>
 
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
@@ -49,25 +53,101 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 </section>
 
 <section class="zine-page page-2" markdown="1">
-</section>
 
+#### autonomy
+
+
+#### bias (social)
+
+
+#### code of conduct
+
+
+#### data colonialism
+
+
+
+</section>
 <section class="zine-page page-3" markdown="1">
-</section>
 
+#### e (ethical AI, epidermalization, embodiment, emotion?)
+
+
+#### FLOSS (free libre open source software)
+
+
+#### g ?
+
+
+#### heteronormativity (hackerspace?)
+
+
+
+</section>
 <section class="zine-page page-4" markdown="1">
-</section>
 
+#### information &/or intelligence (situated, embodied knowledge)
+
+
+#### justice, transformative
+
+
+#### k (Kimberlé Crenshaw?)
+
+
+#### l (Ada Lovelace?)
+
+
+</section>
 <section class="zine-page page-5" markdown="1">
-</section>
 
+#### m (materiality? model something?)
+
+
+#### nonbinary
+
+
+#### othering
+
+
+#### p (privacy / power?)
+
+
+</section>
 <section class="zine-page page-6" markdown="1">
-</section>
 
+#### queering / queer theory
+
+
+#### race, racialization, race as a technology
+
+
+#### sustainability
+
+
+#### trans rights, transfeminism, transhumanism
+
+
+</section>
 <section class="zine-page page-7" markdown="1">
-</section>
 
+#### unknowability
+
+
+#### value
+
+
+#### white supremacy, white feminism
+
+
+#### xenofeminism (...vs yt feminism?)
+
+
+</section>
 <section class="zine-page page-8" markdown="1">
 
+#### Y & ...Z
+#### REFERENCES
 
 </section>
 </main>

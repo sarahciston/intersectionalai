@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Community
+title: Community 👏 
 nav_order: 00
 date: 2021-06-10
 ---

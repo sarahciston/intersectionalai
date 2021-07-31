@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tactics for IAI
-nav_order: 03
+title: Tactics for IAI 🌶 
+nav_order: 04
 date: 2021-06-08
 ---
 {::options parse_block_html="true" parse_span_html="true" /}

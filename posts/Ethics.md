@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Ethics for IAI
+title: Collective Ethics for IAI
 nav_order: 04
 nav_exclude: true
 date: 2021-06-08
-desc: Where do I even start?
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
 
@@ -14,7 +13,7 @@ desc: Where do I even start?
 
 ### Ethics & Communities
 
->Creative Code Collective & Collective Digital Care (Values & Approaches) (Ethics)
+>Creative Code Collective & Collective Digital Care (Values & Approaches & Community Building) (Ethics)
 
 ![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png)
 {: .img-small }

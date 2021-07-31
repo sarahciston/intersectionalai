@@ -3,7 +3,7 @@
 <main>
 <section class="zine-page page-1" markdown="1">
 
-## What is an *Intersectional AI Toolkit*?
+## 📕 What is the *Intersectional AI Toolkit*?
 
 #### a zine collection and code resource hub for artists, activists, engineers, and you
 
@@ -17,25 +17,27 @@ Please join in by exploring the toolkit, commenting with your questions or thoug
 
 ## What's included? 
 
-### Zine collection 
+### 📠 Zine collection 
 
-#### The zine collection is planned out as eight issues—printable as double-sided zines—and readable, remixable, shareable. More resources to come!
+#### The zine collection is planned out as 6+ issues—printable as double-sided zines—and readable, remixable, shareable. 
 
-**1 & 2.** [A-to-Z IAI](posts/Glossary.md)
+1. [🍦🍦 A-to-Z IAI](posts/Glossary.md) Double Glossary
+2. [Who 💜's IAI](posts/LoveNotes.md) Love notes to Intersectional AI practitioners & examples of great projects
+3. [🔥 Why IAI](posts/WhyAI.md) The case for Intersectional AI explained 
+4. [🌶Tactics](posts/Tactics.md) Practical tips & strategies from decades of intersectional practices
+5. [😍 Code Basics for Cuties of All Kinds](posts/NoCode.md) Who's afraid of code but wants to save AI? 
 
-**3 & 4.** [Who](posts/LoveNotes.md) & [Why](posts/WhyAI.md) IAI
+#### More resources to come!
 
-**5 & 6**. [Tactics](posts/Tactics.md) & [Ethics](posts/Caring.md) for IAI
+* [🤩 What AI Engineers Can Learn from Artists & Activists](posts/Techies.md)
+* [Coding Care: Multithreaded Community Ethics for Collective Digital Care](posts/Caring.md)
 
-**7 & 8.** [Artists'](posts/NoCode.md) & [Engineers'](posts/Techies.md) Guides to IAI
-
-See [Notes](pages/Notes.md) for more on the making of this collection-in-progress and read below about how you can help it grow.
   
-### Code resource hub
+### 🤖 Code resource hub
   
 #### The code resource hub will be an ever-growing community-sourced collection of video tutorials, code libraries, and inspiring projects. 
 
-These have been curated by members of [Creative Code Collective][CCC] and friends. These will point you to the many different kinds of projects, tools, and research being made around Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired; get cracking making your own!
+These have been curated by members of [Creative Code Collective][CCC] and friends. They will point you to the many different kinds of projects, tools, and research being made around Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired and you can get cracking making your own intersectional projects and tools for others.
 
 ---
 
@@ -43,29 +45,54 @@ These have been curated by members of [Creative Code Collective][CCC] and friend
 
 <section class="zine-page page-2" markdown="1">
 
-## Why make an IAI TK? 
+<!-- ## Why make an IAI TK?  -->
 
-## Who's making this IAI TK? 
+## 😁 How do I fold these print-at-home zines? 
 
-Developed by Sarah Ciston while a virtual fellow at the HIIG, with valued inspiration and collaboration from many others, listed [ColophonTK]
+![how-to-cut](assets/img/zineHowTo.png){: .small } ![how-to-cut](assets/img/zineHowTo2.png){: .small }
 
-## ...and how can I contribute? 
+1. fold your paper in half long ways, so that it is long and narrow. crease well, then unfold.
+2. fold your paper in half along the short side, and fold that in half again. crease well, then unfold.
+3. you should have eight mini sections divided like the illustration above. 
+4. cut *ONLY* along the two short folds in the middle. this is easiest done by folding the paper in half once short ways again and taking the scissors halfway in on the side with the fold (not the side that is open). do not cut all the way across. the goal is to have a slice in the center that does not connect to any edges.
+5. finally, fold the paper in half long ways again so the printed side faces out. pinch open the sliced center and separate those pages apart from each other until they join their neighbors.
+6. fold the book closed with the covers on the front and back.
 
-#### • joining the discord
 
-#### • keeping an interdisciplinary, intersectional mindset
+<!-- 
+my 12-up zine
+1. fold your paper into three equal parts, as though you were going to put it into a business envelope. crease well, then unfold.
+2. fold into two equal parts the other direction, like a book. crease well, then unfold.
+3. make two small cuts 
+4. 
+-->
+
+### ... and it's pronounced *zeen*, right? 
+Yep, like "magazine." Like, "I'm so excited to read this *zeeeeeeen*!"
+
+## 🤓 Who's making this IAI TK? 
+
+Developed by Sarah Ciston while a virtual fellow at the HIIG, with valued inspiration and collaboration from many others included on the [Community page](pages/Community/#imprint)
+
+See [Notes](pages/Notes.md) for more on Sarah's making of this collection-in-progress and read more below about how you can help it grow.
+
+## 😎 ...and how can I contribute? 
 
 #### • making github comments, browsing the diffs
 
-There are many ways to contribute. One of the most immediate is to join in the co-creation of these texts! Feel free to read along, and add your thoughts on the project's [github archive](https://github.com/sarahciston/tethered). I think of this as an expanded form of reading-writing.
+There are many ways to contribute. One of the most immediate is to join in the co-creation of these texts! Feel free to read along, and add your thoughts on the project's [github archive](https://github.com/sarahciston/intersectionalai). I think of this as an expanded form of reading-writing.
 
-1. at the bottom of any page on this site, you'll see a link to "Comment, edit, or remix this page on Github." When you follow it, you reach the code for this page and all the files that run this site. 
+1. At the bottom of any page on this site, you'll see a link to "Comment, edit, or remix this page on Github." When you follow it, you reach the code for this page and all the files that run this site. 
+2. If you go to the [main page](https://github.com/sarahciston/intersectionalai), at the top you'll see a link that says **Fork** (make sure you're logged in to your own GitHub account first). Forking this repository makes a copy of the site that's all yours and let's you make whatever changes you want! You'll see that now the repo says `/yourname/intersectionalai/`
+3. Click around to the files you want to dive into. In the blue bar at the top of each, click the **History** button which will take you into the archives for this particular file. Don't worry you can't break anything. 
+4. Here you'll get a list of every **Commit**, which are labels put on each time changes have been saved to the repository. They'll have random names like, "Updated a typo" or "Redid everything FML why did it break!!!" because sometimes I'm not good at clearly labeled commits. Click the top link in the list (latest), or rewind to an earlier version if you like. *Follow along with the drama, ghasp!*
+5. Now you have a colorful look at every change or "diff"—<span style="color: green">green + for adds</span> and <span style="color: red">red - for deletes</span>—made to each file. AND when you point your cursor at a line, a blue <span style="color: blue; background: lightblue">+</span> plus appears at the left edge, where you can click to leave a comment about that line! If you're in "raw text" mode you'll also see other readers' comments, plus the non-formatted code as well.
 
-2. In the blue bar, click the **History** button which will take you into the archives for this particular file. Don't worry you can't break anything. 
+<!-- #### • joining the discord -->
 
-3. Here you'll get a list of every **Commit**, AKA each time changes have been saved to the repository). They'll have random names like, "Updated a typo" or "Redid everything FML!!!" because sometimes I'm not good at clearly labeled commits. Click the top link in the list (latest), or rewind to an earlier version if you like. *Follow along with the drama, ghasp!*
+<!-- ### • joining an in-person event or watching& sharing the live-streams, artist videos, and media of our contributors & friends -->
 
-4. Now you have a colorful look at every change or "diff"—<span style="color: green">green + for adds</span> and <span style="color: red">red - for deletes</span>—made to each file. AND when you point your cursor at a line, a blue <span style="color: blue; background: lightblue">+</span> plus appears at the left edge, where you can click to leave a comment about that line! If you're in "raw text" mode you'll also see other readers' comments, plus the non-formatted code as well.
+<!-- #### • keeping an interdisciplinary, intersectional mindset -->
 
 ---
 
@@ -75,3 +102,5 @@ Distributed by an [Anti-Capitalist Software License](https://anticapitalist.soft
 [CCC]: https://creativecodecollective.com
 </section>
 </main>
+
+<!-- 👏📚🤑 -->

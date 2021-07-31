@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Intersectional Basics for IAI
+title: Intersectional Basics for IAI 🤩 
 nav_order: 06
-# nav_exclude: true
+nav_exclude: true
 date: 2021-07-26
-desc: Where do I even start?
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
 
@@ -32,7 +31,7 @@ bias (technical)
 
 <!-- What should this cover? -->
 
-## Intersectionality for Cuties of All Kinds
+## Intersectionality Basics for Cuties of All Kinds
 
   1. Why take intersectional approaches?
   2. Why take artistic approaches?

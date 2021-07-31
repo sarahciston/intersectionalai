@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why IAI 
-nav_order: 01
+title: Why IAI 🔥 
+nav_order: 02
 date: 2021-06-26
 desc: AI is broken. Why Intersectionality can help
 ---
@@ -11,6 +11,9 @@ desc: AI is broken. Why Intersectionality can help
 <section class="zine-page page-1" markdown="1">
 
 # Why We Need Intersectional AI
+
+![AI To-Do List](../assets/img/LC-AIToDoList.png)
+{: .img-small }
 
 #### AI is broken. What is Intersectionality and how can it help?
 <!-- >(Critical Theory, So Whats) -->
