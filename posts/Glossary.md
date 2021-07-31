@@ -55,20 +55,11 @@ PRINT THIS | [Print Side One](../GlossarySideA) | [Print Side Two](../GlossarySi
 <!-- * [](https://www.aicpa.org/content/dam/aicpa/interestareas/privatecompaniespracticesection/humancapital/diversity/aicpa-diversity-and-inclusion-glossary.pdf) -->
 
 
-*[adversarial network]: A type of machine learning often used to generate new data, such as images (GAN = Generative Adversarial Network). It requires two parts: one trained on existing data, and another trying to generate new data that can fool the first part. 
-*[adversity]: 
-*[bias (technical)]: In a machine learning problem, bias is the technical definition for XXXXX.
-*[bias (social)]: In a social context, bias can occur explicitly or implicitly and is embedded in digital tools, often amplified through their use. XXXXX 
-*[code of conduct]: Usually written together by a group, these guidelines outline expectations for behavior and procedures for when members of a community don't meet those expectations. While some argue for structureless, free-speech zones online, many counter that a lack of guidelines highlights power dynamics existing in broader culture (Dunbar-Hester 2020).
-*[machine learning]: A subset of AI, these are "systems that improve their performance in a given task with more and more experience or data" (Elements of AI).[^EAI]
+<!-- via [Elements of AI](https://course.elementsofai.com/1/1): -->
+<!-- > "properties that are characteristic to AI, in this case autonomy and adaptivity...  -->
 
-via [Elements of AI](https://course.elementsofai.com/1/1):
-> "properties that are characteristic to AI, in this case autonomy and adaptivity... 
-
-> Adaptivity; The ability to improve performance by learning from experience.
->"intelligence is not a single dimension like temperature."
-
-[^EAI]: [Elements of AI](https://course.elementsofai.com/1/)
+<!-- > Adaptivity; The ability to improve performance by learning from experience. -->
+<!-- >"intelligence is not a single dimension like temperature." -->
 
 <!-- 
 **A** | algorithm / **adversarial network (&GAN)** / api / abstraction | **adversity** / agency / anonymity / autonomy / access / accountability 

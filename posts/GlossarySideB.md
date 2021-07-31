@@ -58,9 +58,11 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 
 
 #### bias (social)
+In a social context, bias can occur explicitly or implicitly and is embedded in digital tools, often amplified through their use. XXXXX
 
 
 #### code of conduct
+>Usually written together by a group, these guidelines outline expectations for behavior and procedures for when members of a community don't meet those expectations. While some argue for structureless, free-speech zones online, many counter that a lack of guidelines highlights power dynamics existing in broader culture (Dunbar-Hester 2020).
 
 
 #### data colonialism
@@ -152,3 +154,4 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 </section>
 </main>
 
+*[Dunbar-Hester]: Dunbar-Hester, C. 2020. Hacking Diversity. Princeton UP.
