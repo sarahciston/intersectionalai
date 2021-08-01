@@ -15,6 +15,10 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 via [Elements of AI](https://course.elementsofai.com/1/1):
 >"When defining and talking about AI we have to be cautious as many of the words that we use can be quite misleading. Common examples are learning, understanding, and intelligence. [...]
 
+![AIVenn](../assets/img/AIvenndiagram.png){: .small }
+<caption>AI terms are easy to mix up. AI is a subset of the field of computer science. Within it, machine learning is the technique that is commonly used currently and which includes a variety of practices within it, like neural networks and deep learning, much of which is discussed here. Almost all of these make use of work from data science, a separate but highly related field.</caption>
+
+
 PRINT THIS: | [Print Side One](../GlossarySideA) | [Print Side Two](../GlossarySideB)
 **A** | **autonomous agents** | **autonomy** 
 **B** | **bias & variance | **bias (social)** 

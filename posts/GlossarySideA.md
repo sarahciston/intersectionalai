@@ -24,6 +24,8 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 
 ![MLchart](){: .small }
 
+>"it's often the way the technology is being used, rather than the technology itself, that determines whether it is appropriate to call it AI or not." (Elements of AI, Building AI)
+
 </section>
 
 <section class="zine-page page-2" markdown="1">
@@ -39,7 +41,7 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 A range of numbers that helps describe how uncertain an estimate is. Any confidence interval has a high (e.g. 95%) chance of containing the true* value (that is, the accurate answer to the question being asked). So the bigger the interval, the more uncertain and the more doubt. Confidence intervals are used in statistics and in AI to determine a model (formula)'s reliability. *Classically presumes a hidden but "true" unknown value that is independent of the model (and this is not always the case of course). Unfortunately, uncertainty remains inherent in prediction and difficult to comprehend in models, even for researchers who create them (D’Ignasio & Klein 2019). 
 
 #### data cleaning
-Data does not come in ready to go, it must be preprocessed. This includes many adjustments that can affect the outcome, including selecting a subset of data (sampling), standardizing and scaling it in relation to a baseline (normalization), handling missing data and outliers with decision trees, as well as feature creation and extraction (discussed in F). The transformation of real-world information into "data" is never a neutral process but relies heavily on the conditions and goals of the research in context.
+Data does not come in ready to go, it must be preprocessed. This includes many adjustments that can affect the outcome, including selecting a subset of data (sampling), standardizing and scaling it in relation to a baseline (normalization), handling missing data and outliers with decision trees (which Adrian MacKenzie cites as "afflited with arbitrariness"), as well as feature creation and extraction (discussed in F). The transformation of real-world information into "data" is never a neutral process but relies heavily on the conditions and goals of the research in context.
 
 </section>
 <section class="zine-page page-3" markdown="1">
@@ -75,8 +77,9 @@ GAN stands for generative adversarial network and is a now-popular kind of machi
 <section class="zine-page page-5" markdown="1">
 
 #### machine learning (model?)
->A subset of AI, these are "systems that improve their performance in a given task with more and more experience or data" (Elements of AI).
+>A field within AI that focuses on adaptive tools. These are "systems that improve their performance in a given task with more and more experience or data" (Elements of AI). "the “depth” of deep learning refers to the complexity of a mathematical model,"
 (models) "Essentially all models are wrong but some are useful." (George Box)
+"Data science is a recent umbrella term (term that covers several subdisciplines) that includes machine learning and statistics, certain aspects of computer science including algorithms, data storage, and web application development. Data science is also a practical discipline that requires understanding of the domain in which it is applied in, for example, business or science (Elements of AI)
 
 
 #### neural network
@@ -127,6 +130,7 @@ GAN stands for generative adversarial network and is a now-popular kind of machi
 *[Elements of AI]: https://course.elementsofai.com/1/1
 *[D’Ignasio & Klein]: D'Ignasio, C. and Klein, K. 2020. Data Feminism. MIT Press.
 *[Rajati]: Rajati, M.R. 2021. Lecture. Machine Learning for Data Science, USC, Los Angeles. June 2021.
+*[MacKenzie]: MacKenzie, A. 2018. Machine Learners. MIT Press. 
 
 
 </section>
