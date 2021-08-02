@@ -13,7 +13,7 @@ desc: AI is broken. Why Intersectionality can help
 # Why We Need Intersectional AI
 
 ![AI To-Do List](../assets/img/LC-AIToDoList.png)
-{: .img-small }
+{: .small }
 
 #### AI is broken. What is Intersectionality and how can it help?
 <!-- >(Critical Theory, So Whats) -->
@@ -117,6 +117,7 @@ Race as algorithm, Sareeta Amrute
 
 ### Alternative histories & approaches
 [source]() <!--expand if Xin Xin is open to this-->
+
 
 </section>
 <section class="zine-page page-7" markdown="1">

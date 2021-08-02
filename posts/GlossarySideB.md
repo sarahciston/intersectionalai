@@ -55,95 +55,93 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 <section class="zine-page page-2" markdown="1">
 
 #### autonomy
-
+>
 
 #### bias (social)
-In a social context, bias can occur explicitly or implicitly and is embedded in digital tools, often amplified through their use. XXXXX
+>In a social context, bias can occur explicitly or implicitly and is embedded in digital tools, often amplified through their use. XXXXX
 
 
 #### code of conduct
->Usually written together by a group, these guidelines outline expectations for behavior and procedures for when members of a community don't meet those expectations. While some argue for structureless, free-speech zones online, many counter that a lack of guidelines highlights power dynamics existing in broader culture (Dunbar-Hester 2020).
-
+Usually written together by a group, these guidelines outline expectations for behavior and procedures for when members of a community don't meet those expectations. While some argue for structureless, free-speech zones online, many counter that a lack of guidelines highlights power dynamics existing in broader culture (Dunbar-Hester 2020).
 
 #### data colonialism
-
-
+>
 
 </section>
 <section class="zine-page page-3" markdown="1">
 
 #### e (ethical AI, epidermalization, embodiment, emotion?)
-
+>
 
 #### FLOSS (free libre open source software)
-
+>
 
 #### g ?
-
+>
 
 #### heteronormativity (hackerspace?)
-
+>
 
 
 </section>
 <section class="zine-page page-4" markdown="1">
 
 #### information &/or intelligence (situated, embodied knowledge)
-
+>
 
 #### justice, transformative
-
+>
 
 #### k (Kimberlé Crenshaw?)
-
+>
 
 #### l (Ada Lovelace?)
-
+>
 
 </section>
 <section class="zine-page page-5" markdown="1">
 
 #### m (materiality? model something?)
-
+>
 
 #### nonbinary
-
+>
 
 #### othering
-
+>
 
 #### p (privacy / power?)
-
+>
 
 </section>
 <section class="zine-page page-6" markdown="1">
 
 #### queering / queer theory
-
+>
 
 #### race, racialization, race as a technology
-
+>
 
 #### sustainability
-
+>
 
 #### trans rights, transfeminism, transhumanism
-
+>
 
 </section>
 <section class="zine-page page-7" markdown="1">
 
 #### unknowability
-
+>
 
 #### value
-
+>
 
 #### white supremacy, white feminism
-
+>
 
 #### xenofeminism (...vs yt feminism?)
-
+>
 
 </section>
 <section class="zine-page page-8" markdown="1">

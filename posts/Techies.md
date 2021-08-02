@@ -16,7 +16,7 @@ date: 2021-07-26
 <!-- how to make the code starter pack and the intersectionality starter pack like parallel kits, processing threads... learning the languages of code, learning the languages of intersectionality -->
 
 ![AI To-Do List](../assets/img/LC-AIToDoList.png)
-{: .img-small }
+{: .small }
 
 
 </section>
