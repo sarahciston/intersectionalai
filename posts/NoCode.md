@@ -63,9 +63,9 @@ No matter the complexity, any code is made up of these elements, and anything yo
 
 2. Calculations & Operators
 
->Now that you've got some data in your program, time to do something with it! One of the main things programs do is make calculations on data using mathematical operators like plus, minus, multiply, divide (`+ - * /`) as well as what are called Boolean operators like AND (`&&`) and OR (`||`)
+>Now that you've got some data in your program, time to do something with it! One of the main things programs do is make calculations on data using mathematical operations like add, subtract, multiply, divide, etc. (`+ - * /`), as well as Boolean operations that act as filters, for example AND (`&&`) and OR (`||`)
 
-3. Loops & Conditionals
+1. Loops & Conditionals
 
 > Computers can compound that calculation work at high speed and great volume, allowing for ...
 > if/then and if/else
