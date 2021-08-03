@@ -1,5 +1,7 @@
 <!-- ## Intersectional AI Toolkit -->
 
+
+
 <main>
 <section class="zine-page page-1" markdown="1">
 
@@ -104,3 +106,11 @@ Distributed by an [Anti-Capitalist Software License](https://anticapitalist.soft
 </main>
 
 <!-- 👏📚🤑 -->
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.1.min.js"></script> 
+<script type="text/javascript" src="http://scalar.usc.edu/works/system/application/views/widgets/api/scalarapi.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>	
+
+<!-- https://h.readthedocs.io/en/latest/api-reference/ -->
+<!-- https://scalar.usc.edu/works/guide2/scalarapi -->
+<!-- https://scalar.usc.edu/works/guide2 -->

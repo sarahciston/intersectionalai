@@ -51,6 +51,18 @@ Code Slang: crowdsourced library, flexible, visual output. "Retaining a culture,
 
 No matter the complexity, any code is made up of these elements, and anything you want to build will be composed of these elements layered together. 
 
+variables (labeled containers for data)
+data types:
+    strings (text)
+    numbers (float/integer)
+    groups: list, dictionary, etc. (AKA array)
+    booleans: (true/false)
+decisions & loops
+	if/then
+	for loops, while loops, etc.
+functions & classes (labeled containers for actions)
+modules / libraries
+
 1. Variables & Data Types
 
 >Variables are placeholders you can name and store information in to recall for later. Maybe you name a variable `x` and you make `x = 1` then later you can ask, "What was `x`?" or "Change `x = 3` now." 
