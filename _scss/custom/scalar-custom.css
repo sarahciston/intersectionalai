@@ -1,0 +1,39 @@
+/* @import url("https://use.typekit.net/ncs4qmk.css"); source-code-pro*/
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@200;500&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,300;0,600;1,300;1,600&display=swap');
+
+.body_font { font-family: "Open Sans", Georgia, Times, serif !important; }
+.caption_font { font-family: "Open Sans", Arial, sans-serif !important; }
+.monospace_font { font-family: "Jura", monospace !important; }
+.heading_font, h1, h2, h3, h4, h5, h6 { font-family: "Jura", monospace !important; }
+/* .subhead, h3, h4, h5, h6 { font-family: "Jura", monospace !important; } */
+.heading_weight { font-weight: 600; } 
+.body_weight { font-weight: 300; }
+
+/* create display fonts on select classes (custom)*/
+.fancy_head { font-family: "Major Mono Display", monospace !important; }
+[property="dcterms:title"] { font-family: "Major Mono Display", monospace !important; }
+
+/* set background color behind article */
+.page, .bg_screen { background-color: white; }
+
+/* links */
+a { color: #9999ff; }
+a:hover { 
+   color: #ace600;
+   decoration: underline;
+}
+
+/* top navigation bar color */
+.navbar { background-color: #9999ff; } 
+
+/* nav buttons */
+a.nav_btn.primary { background-color: #ace600; color: white; }
+buttons	a.nav_btn { background-color: #ddd; color: #444; }
+a.nav_btn:hover { background-color: black; color: white; }
+
+.navbar .title_wrapper>a {
+    color: #ace600;
+}
+
+/* Text content area to full width */
+.body_copy { max-width: none; }

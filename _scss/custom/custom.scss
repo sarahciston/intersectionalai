@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@200;500&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,300;0,600;1,300;1,600&display=swap');
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+}
+
 #menu-button {
     color: $link-color !important;
 }
@@ -8,8 +15,14 @@
     overflow: visible;
 }
 
-h4 {
+.site-title {
+  font-family: "Jura", monospace !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
   color: $purple-100;
+  font-family: "Jura", monospace;
+  font-weight: 500;
 }
 
 /* Any styles that you want to apply **just** when the zine is printed go in here! */
