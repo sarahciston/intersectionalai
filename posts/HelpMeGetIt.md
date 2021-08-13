@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Intersectional Basics for IAI 🤩 
+title: Help Me Understand 🤩 
 nav_order: 06
 nav_exclude: true
-date: 2021-07-26
+date: 2021-08-13
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
 
@@ -12,6 +12,7 @@ date: 2021-07-26
 
 <!-- ## An Engineer's Guide to Intersectional AI -->
 <!-- Engineers for Intersectionality -->
+## Help Me Understand
 ### Intersectional Basics for IAI
 <!-- how to make the code starter pack and the intersectionality starter pack like parallel kits, processing threads... learning the languages of code, learning the languages of intersectionality -->
 
@@ -22,16 +23,20 @@ date: 2021-07-26
 </section>
 <section class="zine-page page-2" markdown="1">
 
-## What computer scientists, engineers, and anyone building AI needs to know about Intersectionality and XXXX 
+## What computer scientists, engineers, and anyone building AI needs to know about Intersectionality and creative-critical community-driven approaches 
 
 ### Why Listen to Artists? 
-#### Arts, Social Science, & Humanities for Technologies in 8 Pages !?
+<!-- #### Arts, Social Science, & Humanities for Technologies in 8 Pages !? -->
 
 bias (technical)
 
 <!-- What should this cover? -->
 
-## Intersectionality Basics for Cuties of All Kinds
+### Help Me Help
+
+I want to get it but 
+
+<!-- ## Intersectionality Basics for Cuties of All Kinds -->
 
   1. Why take intersectional approaches?
   2. Why take artistic approaches?

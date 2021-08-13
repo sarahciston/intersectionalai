@@ -30,8 +30,13 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 
 <section class="zine-page page-2" markdown="1">
 
+#### artificial intelligence 
+>The collection of programs that use machine learning...have qualities that allow them to operate autonomously (without constant instructions given by the programmer or user), 
+
+<!--
 #### autonomous agents
 "The ability to perform tasks in complex environments without constant guidance by a user," is a key quality of so-called self-driving cars, AI assistants, and certain manufacturing robotics that are increasingly popular in conversations on the future of AI—both its potentials and its pitfalls. That perceived autonomy is often considered a marker of a system's sophistication, but algorithmic systems are always socio-technical, meaning they are co-created with and embedded in cultural systems.
+-->
 
 #### bias & variance
 >In a machine learning problem, bias is the technical definition for XXXXX
@@ -116,7 +121,7 @@ GAN stands for generative adversarial network and is a now-popular kind of machi
 >
 
 #### (bag-of-)words
->
+A natural language processing method of analyzing and classifying text that looks only at the frequency each word occurs, while disregarding the order of the words, syntax, or grammar—as if the words were all thrown in a bag. 
 
 #### X (as input) & Y (as output)
 `y = f(x) + Σ` the simplest machine learning model looks like this. Written out it means that the output of a model is a function `f()` of the inputs `x` (which are also called parameters or features and are known) plus the error `Σ` (which is unknown). A function, here, just means that some calculation (algorithm, operation, recipe) is performed on the stuff inside `( )` based on what the model's creators have determined yields expected, "appropriate" results. 
@@ -131,6 +136,7 @@ GAN stands for generative adversarial network and is a now-popular kind of machi
 *[D’Ignasio & Klein]: D'Ignasio, C. and Klein, K. 2020. Data Feminism. MIT Press.
 *[Rajati]: Rajati, M.R. 2021. Lecture. Machine Learning for Data Science, USC, Los Angeles. June 2021.
 *[MacKenzie]: MacKenzie, A. 2018. Machine Learners. MIT Press. 
+*[Love Has No Labels]: https://lovehasnolabels.com/resources/glossary
 
 
 </section>

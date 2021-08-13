@@ -54,12 +54,11 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 
 <section class="zine-page page-2" markdown="1">
 
-#### autonomy
->
+#### artificial intelligence
+Colloquially, a vague assortment of anything folks want to credit or blame computational systems for doing, or when a machine appears to take on "human" properties like "understanding" or "seeing." But these can be achieved through many different systems that vary widely from simple calculation a programmer would not call AI to complex programs that search for patterns without being given directions in advance. No matter their context or complexity, AI are always socio-technical systems, meaning they are designed, operated, and influenced by humans, rather than entirely autonomous, neutral systems. 
 
-#### bias (social)
->In a social context, bias can occur explicitly or implicitly and is embedded in digital tools, often amplified through their use. XXXXX
-
+#### bias (implicit)
+"The assumptions, stereotypes, and unintentional actions (positive or negative) we make towards others based on identity labels like race, religion, age, gender, sexual orientation, or ability. [...] ]we may act on our biases without even realizing it. Often, our implicit biases contradict our values." (Love Has No Labels) They are embedded in and often amplified by digital tools, because computation replicates, speeds up, and compounds all-too-human decision-making. 
 
 #### code of conduct
 Usually written together by a group, these guidelines outline expectations for behavior and procedures for when members of a community don't meet those expectations. While some argue for structureless, free-speech zones online, many counter that a lack of guidelines highlights power dynamics existing in broader culture (Dunbar-Hester 2020).

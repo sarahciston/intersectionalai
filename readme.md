@@ -23,16 +23,17 @@ Please join in by exploring the toolkit, commenting with your questions or thoug
 
 #### The zine collection is planned out as 6+ issues—printable as double-sided zines—and readable, remixable, shareable. 
 
-1. [🍦🍦 A-to-Z IAI](posts/Glossary.md) Double Glossary
-2. [Who 💜's IAI](posts/LoveNotes.md) Love notes to Intersectional AI practitioners & examples of great projects
-3. [🔥 Why IAI](posts/WhyAI.md) The case for Intersectional AI explained 
-4. [🌶Tactics](posts/Tactics.md) Practical tips & strategies from decades of intersectional practices
-5. [😍 Code Basics for Cuties of All Kinds](posts/NoCode.md) Who's afraid of code but wants to save AI? 
+1. [🍦🍦 A-to-Z IAI](posts/Glossary.md) Glossaries for its tech and its social sides
+2. [💜 Love Notes to IAI](posts/LoveNotes.md) Great practitioners and projects already at work
+3. [🔥 Why IAI](posts/WhyAI.md) Making the case for more equitable, empathic tech
+4. [🌶Tactics](posts/Tactics.md) Practical approaches from wide-ranging communities and decades of intersectional effort
+5. [😍 Help Me Code IAI](posts/NoCode.md) Afraid of programming but want to save AI from itself? 
+6. [🤩 Help Me Understand](posts/HelpMeGetIt.md) Why listen to academic, activist, or artistic approaches?
 
 #### More resources to come!
 
-* [🤩 What AI Engineers Can Learn from Artists & Activists](posts/Techies.md)
-* [Coding Care: Multithreaded Community Ethics for Collective Digital Care](posts/Caring.md)
+<!-- * [🤩 What AI Engineers Can Learn from Artists & Activists](posts/Techies.md) Help me help you. I want to care but I don't get it. How can I better understand the cause? -->
+* [Coding Care: Community Ethics for Collective Digital Care](posts/Caring.md) What values and strategies does it take to support those creating intersectional approaches to tech? Plus, lessons learned and strategies gained from growing [Creative Code Collective][CCC].
 
   
 ### 🤖 Code resource hub
