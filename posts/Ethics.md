@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collective Ethics for IAI
+title: Collective Care for IAI
 nav_order: 04
 nav_exclude: true
 date: 2021-06-08
@@ -11,13 +11,17 @@ date: 2021-06-08
 <section class="zine-page page-1" markdown="1">
 ## Caring with & for Intersectional AI
 
-### Ethics & Communities
+### Care & Communities
 
->Creative Code Collective & Collective Digital Care (Values & Approaches & Community Building) (Ethics)
+>Coding Care: Community Ethics for Collective Digital Care (Values, Ethics, Approaches, Community Building, Creative Code Collective How-Tos)
 
 ![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png)
 {: .img-small }
 <!-- (Could combine with love notes, with tactics, or with community guidelines) -->
+
+>"Care is the practice of savouring how subtle differences can make all the difference." (Data Loam 2020, 380)
+
+*[Data Loam]: Data Loam. (2020). In J. Golding, M. Reinhart, & M. Paganelli (Eds.) De Gruyter
 
 </section>
 

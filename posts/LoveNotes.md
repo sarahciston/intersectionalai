@@ -18,57 +18,54 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 
 </section>
 <section class="zine-page page-2" markdown="1">
-Many, many people believe better AI futures are possible and your inspiration for IAI can draw on a wide range of practitioners already in action:  
+Many, many people believe better AI futures are possible and your inspiration for IAI can draw on a wide range of practitioners already in action!
 
-* [Afrotechtopia](https://www.afrotectopia.org/)
-* [Data for Black lives](https://d4bl.org/)
-* @datahealing & @cyberdoula (permission from all)
+We're creating an ever-growing master list of projects, tools, resources to learn from. We'd also like to highlight and discuss a few in detail here...
+
 * Deep Lab
 * Virtual Care Lab
-* Superrr, School of MAAA, other Berlin spaces
-* [Not My AI], other international examples
 
-* [MOTIF feminist futures](https://feministfutures.net/)
+* Add'l Berlin spaces -- would love to know more!
+* other international examples -- would love to know more from outside US & EU!
 
 </section>
 <section class="zine-page page-3" markdown="1">
-
-
-
->**(should all these go in the ccc resource guide & link from there)**
->simple databases are the key to everything, separating data layer from business layer
-
-
-
+<!-- >**(should all these go in the ccc resource guide & link from there)** -->
+<!-- >simple databases are the key to everything, separating data layer from business layer -->
 </section>
 <section class="zine-page page-4" markdown="1">
 
 ## Intersectional Tools & Resources 
-<!-- ### Featured -->
-* [Indigenous AI](https://www.indigenous-ai.net/)
-* [If AI, Then Feminist](https://netzforma.org/publikation-wenn-ki-dann-feministisch-impulse-aus-wissenschaft-und-aktivismus) (german language book)
-- [Internet Teapot](https://internetteapot.com/) and [Algorithms of Late Capitalism Zines](https://algorithmsoflatecapitalism.tumblr.com/zines), esp. special edition: ["\[D/R\]econstructing AI"](https://href.li/?https://firebasestorage.googleapis.com/v0/b/internet-teapot.appspot.com/o/ALC%20-%20Dreams%20of%20Visionary%20Fiction.pdf?alt=media&token=4c3a9d31-922d-4dbe-9c6f-42fbd69fe312)
-- [Algo.Rules](https://algorules.org/en/home)
-- [Guidelines for Checking Essential Properties of AI-Based Systems](https://algorithmwatch.org/de/auto-hr/leitfaden/) in German
+<!-- ### Featured?? Which to include -->
 
+### Approaches
+* [Not My AI](https://notmy.ai/)
+* [Indigenous AI](https://www.indigenous-ai.net/)
+* [If AI, Then Feminist](https://netzforma.org/publikation-wenn-ki-dann-feministisch-impulse-aus-wissenschaft-und-aktivismus)
+* [Queer.AI](https://queer.ai/) "conversational agents for the advancement of new eroticisms
+* [Guidelines for Checking Essential Properties of AI-Based Systems](https://algorithmwatch.org/de/auto-hr/leitfaden/) in German
 
 ### Learning AI
 - [Elements of AI](https://course.elementsofai.com/)
 - [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
 - [Why.AI](https://www.hiig.de/en/dossier/why-ai/) dossier debunking myths in plain language
 
-### Approaches
-* [Queer.AI](https://queer.ai/) "conversational agents for the advancement of new eroticisms
+#### AI-adjacent but Intersectional Tech
+* [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition #tutorial
+* [Tiny Tools Directory](https://tinytools.directory/) gathers open source tools, small, free or experimental #compendium #collection #tool
+* [Cyberfeminist Index](https://cyberfeminismindex.com/) #cyberfeminism #compendium #collection
+* [Switching.Software](https://switching.software/list/all-in-one-services/) #deplatforming
+* [Oracle for Transfeminist Technologies](https://www.transfeministech.codingrights.org/) by [Coding Rights'](http://codingrights.org/) Joana Varon and Clara Juliano
+* [Feminist Data Manifest-NO](https://www.manifestno.com/)
+* [Internet Teapot](https://internetteapot.com/) and [Algorithms of Late Capitalism Zines](https://algorithmsoflatecapitalism.tumblr.com/zines), esp. special edition: ["\[D/R\]econstructing AI"](https://href.li/?https://firebasestorage.googleapis.com/v0/b/internet-teapot.appspot.com/o/ALC%20-%20Dreams%20of%20Visionary%20Fiction.pdf?alt=media&token=4c3a9d31-922d-4dbe-9c6f-42fbd69fe312)
+* [Algo.Rules](https://algorules.org/en/home)
 * [Civic Data Library of Context](https://www.civicdatalibrary.org/)
-
-    #### AI-adjacent but Intersectional Tech
-    * [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition #tutorial
-    * [Tiny Tools Directory](https://tinytools.directory/) gathers open source tools, small, free or experimental #compendium #collection #tool
-    * [Cyberfeminist Index](https://cyberfeminismindex.com/) #cyberfeminism #compendium #collection
-    * [Switching.Software](https://switching.software/list/all-in-one-services/) #deplatforming
-    * [Oracle for Transfeminist Technologies](https://www.transfeministech.codingrights.org/) by [Coding Rights'](http://codingrights.org/) Joana Varon and Clara Juliano
-    * [Feminist Data Manifest-NO](https://www.manifestno.com/)
-    
+* [Afrotechtopia](https://www.afrotectopia.org/)
+* [Data for Black lives](https://d4bl.org/)
+* @datahealing & @cyberdoula (requested permission to be cited)
+* [MOTIF feminist futures](https://feministfutures.net/)
+* [Superrr](https://superrr.net/) "building diverse & equal futures in tech and beyond"
+* [School of Machines, Making, & Make-Believe](http://schoolofma.org/) classes on art, tech, & design
 
 
 ### Examples/Projects
@@ -92,7 +89,7 @@ Many, many people believe better AI futures are possible and your inspiration fo
   * [Feminist Guide to AI Bias (chatbot)](http://about.f-xa.co/2/)
   * [Designing Feminist Chatbots](https://drive.google.com/file/d/0B036SlUSi-z4UkkzYUVGTGdocXc/view?resourcekey=0-DS-Lj4uCk2VHf1cuogGNfg) by Josie Swords @swordstoyoung
 
-### Zines, Principles, Readings
+### Zines, Principles, Readings, and
 * [A is for Another: A Dictionary of AI](https://aisforanother.net/pages/site.html)
 * [A New AI Lexicon](https://medium.com/a-new-ai-lexicon/) from AI Now Institute, specifically the first sequence of CARE
 * [Detroit Digital Justice Coalition Principles](http://detroitdjc.org/principles/) Access, Participation, Common Ownership, Healthy Communities
@@ -101,7 +98,8 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Feminist Data Set & Toolkit](https://carolinesinders.com/feminist-data-set/) Caroline Sinders
 * [How to Write Non-Violent Creative Code](https://contributors-zine.p5js.org/#reflection-olivia-mckayla-ross)
 * [We Need to Talk AI: A Comic Essay](https://weneedtotalk.ai/)
-* * [Feminist Principles of the Internet](https://feministinternet.org/)
+* [Feminist Principles of the Internet](https://feministinternet.org/)
+
 
 ### Tools
 * [Anti Capitalist Software License](https://anticapitalist.software/)
@@ -124,6 +122,10 @@ Many, many people believe better AI futures are possible and your inspiration fo
 * [Lurk](https://lurk.org/)
 * [SFPC](https://sfpc.io/)
 * [Fix the Glitch Toolkit 2.0](https://glitchcharity.co.uk/wp-content/uploads/2021/04/Glitch-Toolkit-FULL-Interactive.pdf) "Helping to End Online Gender Based Violence for Black Women"
+* [Networks of One's Own](https://networksofonesown.constantvzw.org/etherbox/manual.html) publishing an issue as a hardware-software stack with feminist server principles etc. [Issue 2, NoOO: Three Takes on Taking Care](https://networksofonesown.vvvvvvaria.org/)
+* [Feminist Infrastructure Zine](https://alexandria.anarchaserver.org/index.php/Feminist_Infrastructure) partially en Español
+* [Reclaiming Digital Infrastructures Zine](https://constantvzw.org/documents/RDI/Reclaiming%20Digital%20Infrastructures.pdf)
+* [Our Data, Ourselves](https://ourdataourselves.tacticaltech.org/) and the works of [Tactical Tech](https://tacticaltech.org/projects)
 
 #### Web/Code Tools
 Many of these were used to make this here zine collection
@@ -150,6 +152,11 @@ Many of these were used to make this here zine collection
 ### In Berlin / Other People's Lists
 * [CreativeCode.Berlin](https://github.com/CreativeCodeBerlin/creative-coding-minilist)
 * []
+
+### Beloved Readings
+* Nakamura, Lisa. 2014. "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Life." The American Studies Association. 
+  >"Indian-identified traits and practices such as painstaking attention to craft and an affinity for metalwork and textiles were deployed to position the Navajo on the cutting edge of a technological moment precisely because of their possession of a racialized set of creative cultural skills in traditional, premodern artisanal handwork." (Nakamura 2014, 925)
+* 
 
 </section>
 

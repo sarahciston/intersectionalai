@@ -25,7 +25,7 @@ Please join in by exploring the toolkit, commenting with your questions or thoug
 
 1. [🍦🍦 A-to-Z IAI](posts/Glossary.md) Glossaries for its tech and its social sides
 2. [💜 Love Notes to IAI](posts/LoveNotes.md) Great practitioners and projects already at work
-3. [🔥 Why IAI](posts/WhyAI.md) Making the case for more equitable, empathic tech
+3. [🔥 Why We Need IAI](posts/WhyAI.md) Making the case for more equitable, empathic tech
 4. [🌶Tactics](posts/Tactics.md) Practical approaches from wide-ranging communities and decades of intersectional effort
 5. [😍 Help Me Code IAI](posts/NoCode.md) Afraid of programming but want to save AI from itself? 
 6. [🤩 Help Me Understand](posts/HelpMeGetIt.md) Why listen to academic, activist, or artistic approaches?
@@ -90,6 +90,16 @@ There are many ways to contribute. One of the most immediate is to join in the c
 3. Click around to the files you want to dive into. In the blue bar at the top of each, click the **History** button which will take you into the archives for this particular file. Don't worry you can't break anything. 
 4. Here you'll get a list of every **Commit**, which are labels put on each time changes have been saved to the repository. They'll have random names like, "Updated a typo" or "Redid everything FML why did it break!!!" because sometimes I'm not good at clearly labeled commits. Click the top link in the list (latest), or rewind to an earlier version if you like. *Follow along with the drama, ghasp!*
 5. Now you have a colorful look at every change or "diff"—<span style="color: green">green + for adds</span> and <span style="color: red">red - for deletes</span>—made to each file. AND when you point your cursor at a line, a blue <span style="color: blue; background: lightblue">+</span> plus appears at the left edge, where you can click to leave a comment about that line! If you're in "raw text" mode you'll also see other readers' comments, plus the non-formatted code as well.
+
+[comprehensive Github cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
+
+#### • adding your thoughts, edits, sections, pages in markdown style 
+
+How do I format my contribution? 
+
+[Quick reference to Markdown](https://kramdown.gettalong.org/quickref.html) 
+
+[Printable Markdown cheatsheet](https://packetlife.net/media/library/16/Markdown.pdf)
 
 <!-- #### • joining the discord -->
 

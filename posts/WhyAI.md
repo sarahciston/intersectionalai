@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why IAI 🔥 
+title: Why We Need IAI 🔥 
 nav_order: 02
 date: 2021-06-26
 desc: AI is broken. Why Intersectionality can help
@@ -31,6 +31,15 @@ e.g. Christina zur Nedden and Ariana Dongus reported on [involuntary biomentric 
 ## Intersectionality Helps Us Understand Power
 
 ### What Intersectionality Is
+
+<div class="small float-left mr-4">
+
+![Intersectionality Made Easy](../assets/img/EasyIntersect.gif)
+
+[Laci Green](https://twitter.com/gogreen18) & [Francesca Ramsey](https://twitter.com/chescaleigh)
+{: .small .float-left .mr-4 }
+
+</div>
 
 <!-- >"Intersectionality is a lens through which you can see where power comes and collides, where it locks and intersects. Is is the acknowledgement that everyone has their own unique experiences of discrimination and privilege." - Kimberlé Crenshaw[^Crenshaw1989] -->
 

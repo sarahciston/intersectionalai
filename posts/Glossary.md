@@ -21,8 +21,8 @@ via [Elements of AI](https://course.elementsofai.com/1/1):
 
 
 PRINT THIS: | [Print Side One](../GlossarySideA) | [Print Side Two](../GlossarySideB)
-**A** | **autonomous agents** | **autonomy** 
-**B** | **bias & variance** | **bias (social)** 
+**A** | **[artificial intelligence](../GlossarySideA/#artificial-intelligence)** | **[artificial intelligence](../GlossarySideB/#artificial-intelligence)** 
+**B** | **[bias & variance](../GlossarySideA/#bias--variance)** | **[bias (implicit)](../GlossarySideB/#bias-implicit)** 
 **C** | **confidence interval** | **code of conduct**
 **D** | **data cleaning** | **data colonialism** 
 E | **explainability** | embodiment / digital epidermalization / emotion / ethical AI (for public good etc)

@@ -61,6 +61,16 @@ I want to get it but
 </section>
 
 <section class="zine-page page-3" markdown="1">
+
+<div class="small float-left mr-4">
+
+![Intersectionality Made Easy](../assets/img/EasyIntersect.gif)
+
+[Laci Green](https://twitter.com/gogreen18) & [Francesca Ramsey](https://twitter.com/chescaleigh)
+{: .small .float-left .mr-4 }
+
+</div>
+
 </section>
 
 <section class="zine-page page-4" markdown="1">
