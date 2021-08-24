@@ -26,7 +26,9 @@ desc: AI is broken. Why Intersectionality can help
 
 ## AI Is Shifting Power
 
-e.g. Christina zur Nedden and Ariana Dongus reported on [involuntary biomentric testing](https://www.zeit.de/digital/datenschutz/2017-12/biometrie-fluechtlinge-cpams-iris-erkennung-zwang) on refugees entering Jordan. 
+Examples: 
+- Christina zur Nedden and Ariana Dongus reported on involuntary biometric testing on refugees entering Jordan. 
+- "supposedly artificial intelligence is in fact animated by global production networks of click workers," says Dongus.  
 
 ## Intersectionality Helps Us Understand Power
 
@@ -152,3 +154,6 @@ Who do we mean, what theories to focus on
 ## Where to put these? 
 Race-Critical Code Studies
 Restorative Processing, infrastructures of care
+
+*[click workers]: Dongus, A. The Living Pixel: An alternative feminist-materialist geneology of the emergence of computer-vision." SFKP Journal. (German) https://sfkp.ch/artikel/die-lebendigen-pixel
+*[involuntary biometric testing]: zur Nedden, C. and Dongus, A. 2017. Tested on Millions of people involuntarily. Zeit Online. https://www.zeit.de/digital/datenschutz/2017-12/biometrie-fluechtlinge-cpams-iris-erkennung-zwang

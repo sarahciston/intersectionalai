@@ -21,7 +21,7 @@ If you have contributed to this project from another location, please add a land
 ## Upcoming Events
 
 26 Aug 2021 | [CARPA7, Uniarts Helsinki](https://sites.uniarts.fi/web/carpa/carpa7)
-30 Aug 2021 | []
+30 Aug 2021 | [MUTEK Forum, Montreal](https://montreal.mutek.org/en/shows/2021/presentations-non-human-explorations-into-algorithmic-creativity)
 **1 Sep 2021** | [**HIIG Edit-A-Thon**](https://www.hiig.de/en/events/edit-a-thon-intersectional-ai-toolkit/)
 13-18 Sep 2021 | [POM Berlin](https://www.pomconference.org/pom-berlin-2021-overview/)
 
@@ -36,20 +36,21 @@ If you have contributed to this project from another location, please add a land
 * growth, not perfection[^ccc] #newKidLove[^p5]
 * collaboration, not competition[^ccc]
 * we all have skills to teach each other[^ccc] 
-* we meet people where they are. we don't assume knowledge or imply hierarchies of skills. we are not snobs about coding, scholarship, or other forms of knowledge.[^p5]
-* we value processes as much as, or more than, outcomes[^amb]
-* all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality 
+* meet people where they are. don't assume knowledge or imply hierarchies of skills. we are not snobs about coding, scholarship, or other forms of knowledge.[^p5]
+* value processes as much as, or more than, outcomes[^amb]
+* all theory and practice is theory–practice.[^ccc] interdisciplinary goes hand-in-hand with intersectionality[^ccc]
 * #blacklivesmatter #translivesmatter #indigenouslivesmatter we engage tension; don't indulge drama[^amb] 
-* we focus on strategies rather than issues, solutions rather than problems[^AMC]
+* focus on strategies rather than issues, solutions rather than problems[^AMC]
 * listen from the heart, speak from the heart, be spontaneous, be brief[^Council]
 * assume best intent and attend to impact[^amb]
+* attempt collaboration before conflict[^superrr]
 * we accept responsibility for our actions and take care to make amends when we are wrong[^p5] 
 * we take the lessons, leave the details (confidentiality)[^amb]
 * we center care[^AMC]—self care and community care[^amb] 
 
 These guidelines are open to inputs and updates as necessary to support the needs of this space and community as they evolve.
 
-Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,[^amb] Allied Media Conference,[^AMC] Berlin Code of Conduct,[^BerlinCoC] Center for Council,[^Council] P5.js,[^p5] W3C,[^W3C] and Creative Code Collective.[^ccc]
+Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,[^amb] Allied Media Conference,[^AMC] Berlin Code of Conduct,[^BerlinCoC] Center for Council,[^Council] P5.js,[^p5] Superrr,[^superrr] W3C,[^W3C] and Creative Code Collective.[^ccc]
 
 
 [^amb]: brown, a.m. (2017). Emergent Strategies. AK Press. Visit [adrienne maree brown](http://adriennemareebrown.net/)
@@ -59,13 +60,14 @@ Thank you to the individuals and organizations who developed these principles an
 [^ccc]: [Creative Code Collective](https://creativecodecollective.com)
 [^p5]: [p5js](https://p5js.org/community/)
 [^W3C]:
+[^superrr]: [Superrr](https://superrr.net/code-of-conduct/)
 
 #### Data & Privacy
 
 This site does not track or gather any data on its viewers. If you choose to comment or edit this work, you'll be agreeing to Github's terms of service and potentially sharing data while on that site, but no additional information is collected here unless explicitly requested and always optional.
 
 </section>
-
+<hr>
 <section class="zine-page page-3" markdown="1">
 </section>
 
@@ -82,25 +84,18 @@ This site does not track or gather any data on its viewers. If you choose to com
 
 </section>
 
-<hr>
-
 <section class="zine-page page-8" markdown="1">
 
 ## Imprint
 
-### Contact 
-
-If you would like to contribute, please contact Sarah at <a href="mailto:ciston@usc.edu">ciston@usc.edu</a> with your github username.
-
-### Project origins
-
-This toolkit is a research project started by Sarah Ciston[^bio], but it includes the collaboration and support of many:
-
 ### Individual contributors
+
+Have you made updates to the IAI Toolkit? Please do add your name here and link to your site. We'd love to get to know you! 
 
 - [Leigh Montavon](https://instagram.com/lcmontavon), hand-lettering
 - [Julie Gough](https://instagram.com/illustratedwih), Illustrated Women in History, portrait drawing
 <!-- - Xin Xin -->
+<!-- Q -->
 <!-- - Luke -->
 <!-- - Illustrator(s) -->
 <!-- - Katherine Yang,  -->
@@ -114,7 +109,15 @@ This toolkit is a research project started by Sarah Ciston[^bio], but it include
 <!-- - Andrew W. Mellon Foundation, USC Humanities in a Digital World Program, PhD fellowship, 2021–2023  -->
 <!-- - USC Media Arts + Practice Division, School of Cinematic Arts, PhD fellowship 2017- -->
 
-[^bio]: [Sarah Ciston](https://sarahciston.com) (she/they) is a [Mellon Fellow](https://dornsife.usc.edu/digitalhumanities/ph-d-fellows/) and PhD Candidate in [Media Arts and Practice](https://map.usc.edu/phds/) at the University of Southern California and a Virtual Fellow at the [Humboldt Institute for Internet and Society](https://www.hiig.de/) in Berlin. Sarah's research investigates how to bring intersectionality to artificial intelligence by employing queer, anti-racist, anti-ableist, and feminist theories, ethics, and tactics. They also lead [Creative Code Collective](https://creativecodecollective.com)—a student community for co-learning programming using approachable, interdisciplinary strategies. Their creative-critical code-writing projects include an interactive poem of the quantified self and a chatbot that tries to explain feminism to online misogynists. They completed an MFA in Literature from UC San Diego and have been named one of *San Francisco Weekly*'s "Best Writers Without a Book." They are white, queer, and from the Ozarks (U.S.). Their favorite word is "we."
+### Project origins
+
+This toolkit is a research project started by Sarah Ciston, but it includes the collaboration and support of oh-so-many. 
+
+[Sarah Ciston](https://sarahciston.com) (she/they) is a [Mellon Fellow](https://dornsife.usc.edu/digitalhumanities/ph-d-fellows/) and PhD Candidate in [Media Arts and Practice](https://map.usc.edu/phds/) at the University of Southern California and a Virtual Fellow at the [Humboldt Institute for Internet and Society](https://www.hiig.de/) in Berlin. Sarah's research investigates how to bring intersectionality to artificial intelligence by employing queer, anti-racist, anti-ableist, and feminist theories, ethics, and tactics. They also lead [Creative Code Collective](https://creativecodecollective.com)—a student community for co-learning programming using approachable, interdisciplinary strategies. Their creative-critical code-writing projects include an interactive poem of the quantified self and a chatbot that tries to explain feminism to online misogynists. They completed an MFA in Literature from UC San Diego and have been named one of *San Francisco Weekly*'s "Best Writers Without a Book." They are white, queer, and from the Ozarks (U.S.). Their favorite word is "we."
+
+### Contact 
+
+For additional input on the project or media inquiries, write to Sarah at <a href="mailto:ciston@usc.edu">ciston@usc.edu</a>
 
 </section>
 </main>

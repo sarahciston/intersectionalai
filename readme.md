@@ -97,8 +97,8 @@ There are many ways to contribute. One of the most immediate is to join in the c
 
 How do I format my contribution? 
 
-[Quick reference to Markdown](https://kramdown.gettalong.org/quickref.html) 
-
+[Handy Markdown](https://devhints.io/markdown)
+[Official Markdown](https://kramdown.gettalong.org/quickref.html) 
 [Printable Markdown cheatsheet](https://packetlife.net/media/library/16/Markdown.pdf)
 
 <!-- #### • joining the discord -->
