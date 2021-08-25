@@ -23,6 +23,8 @@ date: 2021-06-08
 
 ### Black feminist ethics & tactics
 
+![blackfeminist](../assets/img/LC-BlackFeministEthicsTactics.png)
+
 - guest authors []
   
 </section>

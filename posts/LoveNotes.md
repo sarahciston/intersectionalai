@@ -16,6 +16,8 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 <section class="zine-page page-1" markdown="1">
 ## Love Notes to Intersectional AI
 
+![equalitytats](../assets/img/equalitytats.png)
+
 </section>
 <section class="zine-page page-2" markdown="1">
 Many, many people believe better AI futures are possible and your inspiration for IAI can draw on a wide range of practitioners already in action!

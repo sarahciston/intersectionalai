@@ -52,6 +52,8 @@ Intersectionality, recently clarified by Dr. Kimberlé Crenshaw who coined the t
 
 ![Black Feminist Ethics and Tactics](../../assets/img/LC-BlackFeministEthicsTactics.png) 
 
+![Lorde](../assets/img/AudreLordeSingleIssue.jpg)
+
 "The fundamental thing to remember is that for the most part 'Isms'—racism, classism—are often framed through the experiences of those who are dominant within the group, and more times than not that's men. And because we don't understand racism as it plays out between women, or racism as creating burdens on someone that others don't have,  because we don't have that understanding, we often run up against the limitations of that frame when it's disproportionately women of a particular background or context who are being impacted by something."[^Crenshaw2021]
 
 <div class="small float-left mr-4">

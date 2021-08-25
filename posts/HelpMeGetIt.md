@@ -36,6 +36,8 @@ bias (technical)
 
 I want to get it but 
 
+![Lorde](../assets/img/AudreLordeSingleIssue.jpg)
+
 <!-- ## Intersectionality Basics for Cuties of All Kinds -->
 
   1. Why take intersectional approaches?

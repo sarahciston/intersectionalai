@@ -23,20 +23,20 @@ via [Elements of AI](https://course.elementsofai.com/1/1):
 PRINT THIS: | [Print Side One](../GlossarySideA) | [Print Side Two](../GlossarySideB)
 **A** | **[artificial intelligence](../GlossarySideA/#artificial-intelligence)** | **[artificial intelligence](../GlossarySideB/#artificial-intelligence)** 
 **B** | **[bias & variance](../GlossarySideA/#bias--variance)** | **[bias (implicit)](../GlossarySideB/#bias-implicit)** 
-**C** | **confidence interval** | **code of conduct**
-**D** | **data cleaning** | **data colonialism** 
-E | **explainability** | embodiment / digital epidermalization / emotion / ethical AI (for public good etc)
-F | **feature extraction** | **FLOSS**
-G | **GANs** | ????
-**H** | **hyperparameter**| **heteronormative**
-**I** | **information** (signal/noise, Shannon) | **information** (situated, embodied) ..and or intelligence
-**J** | **Javascript** | **Justice, transformative** 
+**C** | **[confidence interval](../GlossarySideA/#confidence-interval)** | **[code of conduct](../GlossarySideB/#code-of-conduct)**
+**D** | **[data cleaning](../GlossarySideA/#data-cleaning)** | **[data colonialism](../GlossarySideB/#data-colonialism)** 
+E | **[explainability](../GlossarySideA/#explainability)** | embodiment? / (digital) epidermalization? / emotion? / **ethical AI** (for public good etc)
+F | **[feature extraction](../GlossarySideA/#feature-extraction)** | **[FLOSS](../GlossarySideB/#FLOSS)**
+G | **[GANs](../GlossarySideA/#GANs)** | ????
+**H** | **[hyperparameter](../GlossarySideA/#hyperparameter)**| **[heteronormative](../GlossarySideB/#heteronormative)**
+**I** | **[information](../GlossarySideA/#information)** (signal/noise, Shannon) | **[information](../GlossarySideB/#information)**(situated, embodied) ..and or intelligence
+**J** | **[Javascript](../GlossarySideA/#Javascript)** | **[Justice, transformative](../GlossarySideB/#justice-transformative)** 
 K | **k-means, KNN** | Kimberlé Crenshaw? 
 L | **loss function** | Lovelace et al
 M | **machine learning** / Markov chain | makerspace / materiality 
-N | **neural net** | **[nonbinary](../GlossarySideB/#nonbinary)** 
-O | **overfitting & underfitting** | **othering**
-P | **Python** / parameter / pattern recognition | privacy (GDPR?) / power
+N | **[neural net](../GlossarySideA/#neural-net)** | **[nonbinary](../GlossarySideB/#nonbinary)** 
+O | **[overfitting & underfitting](../GlossarySideA/#overfitting--underfitting)** | **[othering](../GlossarySideB/#othering)**
+P | **[Python](../GlossarySidea/#Python)** / parameter / pattern recognition | privacy (GDPR?) / power
 **Q** | **quantification (quantifier)** | **queer (theory)** 
 **R** | **regression vs classification** | **race (as a technology) & racialization** 
 S | **supervised vs unsupervised** | **sustainability** / situated / standpoint theory
