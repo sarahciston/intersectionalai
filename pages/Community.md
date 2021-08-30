@@ -18,7 +18,7 @@ This work offers respect and gratitude to the Gabrielino/Tongva peoples, who are
 
 If you have contributed to this project from another location, please add a land acknowledgment and visit [Native-Land.ca](https://native-land.ca/) to learn about the history of where you live, why this matters, and how to contribute. 
 
-## Upcoming Events
+## Events
 
 26 Aug 2021 | [CARPA7, Uniarts Helsinki](https://sites.uniarts.fi/web/carpa/carpa7)
 30 Aug 2021 | [MUTEK Forum, Montreal](https://montreal.mutek.org/en/shows/2021/presentations-non-human-explorations-into-algorithmic-creativity)

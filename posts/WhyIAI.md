@@ -129,7 +129,7 @@ Jacqueline Wernimont (2018) uses the metaphor of a matrix, as in, “the media i
 
 Guillermo Gómez-Peña says the high-tech world does not question itself as central, nor where it draws its borders: “We are no longer trying to persuade anyone that we are worthy of inclusion (we are de facto insiders/outsiders at the same time, or temporary insiders perhaps, and we know it). […] What we wish is to remap the hegemonic cartography of cyberspace; to “politicize” the debate; to develop a multi centric theoretical understanding of the cultural, political and aesthetic possibilities of new technologies; to exchange a different sort of information (mytho poetical, activist, per formative, imagistic) […].”3
 
-Importantly, Christina Dunbar-Hester (2020) argues that “diversity and inclusion” fixes completely miss the problem—not only because it ignores the workers of the Global South4 but also because it reverses the problem’s cause and effect: “to frame social inequality as a question of diversity in technological production, and to expect to change wider inequities by adding ‘diverse’ individuals to technical cultures, is to misunderstand how the distribution of various social identities in a given sector are outgrowths of differential social power, not the other way around” (16).
+Importantly, Christina Dunbar-Hester (2020) argues that “diversity and inclusion” fixes completely miss the problem—not only because it ignores the workers of the Global South[^gs] but also because it reverses the problem’s cause and effect: “to frame social inequality as a question of diversity in technological production, and to expect to change wider inequities by adding ‘diverse’ individuals to technical cultures, is to misunderstand how the distribution of various social identities in a given sector are outgrowths of differential social power, not the other way around” (16).
 
 By a similar logic, removing bias from algorithmic systems—even if that were possible (which, no.)—does not remove bias from culture, nor does it replace it with anything. Often, even well-meaning efforts to “remove” bias from systems fall back on quantitative / computational methods or resort to representation, which mirror the problems they claim to address, potentially even making tools to be misused in the future: “Representation as a goal may also result in accepting (and reproducing) notions of fixity in terms of social identity. This should raise skepticism” (236). These approaches do not examine the structure of the system itself, the logic upon which it is founded, both materially and intellectually. They do not ask who is creating, contributing, or benefitting from its operation. “Diversity [and, I argue, bias examination] is necessary, but not sufficient; it represents a shortcut in what should be a deeper conversation about values and justice” (Dunbar-Hester 2020, 241).
 </section>
@@ -162,9 +162,30 @@ The algorithm itself is an ancient, not exclusive to high-tech startups. “[C]l
 
 Benjamin argues that, “what appears to be an absence in terms of being ‘cultureless’ works more like a superpower. Invisibility, with regard to Whiteness, offers immunity. To be unmarked by race allows you to reap the benefits but escape responsibility for your role in an unjust system” (2). Although invisible, whiteness is a determining factor shaping AI, “structuring whose literal voice gets embodied in AI. In celebrating diversity, tokenistic approaches to tech development fail to acknowledge how the White aesthetic colors AI. The ‘blandness’ of Whiteness […] is treated by programmers as normal, universal, and appealing” (15).
 
+![perfectionism is white supremacy](../_site/assets/img/LC-Perfectionism.png)
+
 ### Characteristics of white supremacy culture
-[source]() zine
-**tb added and cited**
+
+The zine “Characteristics of White Supremacy Culture” by [Tema Okun](dismantlingracism.org/uploads/4/3/5/7/43579015/whitesupcul13.pdf) details traits that permate the broader culture (and tech culture). They don’t feel good, and avoiding them in life and when designing and implementing intersectional technology sounds like such a great idea:
+
+- ~~perfectionism~~
+- ~~sense of urgency~~
+- ~~defensiveness~~
+- ~~quantity over quality~~
+- ~~worship of the written word~~
+- ~~only one right way~~
+- ~~paternalism~~
+- ~~either/or thinking~~
+- ~~power hoarding~~
+- ~~fear of open conflict~~
+- ~~individualism~~
+- ~~progress is bigger, more~~
+- ~~objectivity~~
+- ~~right to comfort~~
+
+Do you see these values in the digital objects and services you use now? How can you imagine them operating differently? What values would you replace them with?
+
+[zine] (link TK?)
 
 </section>
 <section class="zine-page page-8" markdown="1">
@@ -207,7 +228,10 @@ Intersectional AI must be not just about remedying bias but more broadly about i
 [Smits]: Smits, T., & Wevers, M. (2021). The agency of computer vision models as optical instruments. Visual Communication, 1470357221992097. https://doi.org/10.1177/1470357221992097
 *[Kalluri]: http://riakalluri.com/
 *[shifting power]: https://www.nature.com/articles/d41586-020-02003-2
+*[white supremacy culture]: https://www.whitesupremacyculture.info/
 
+<!-- footnotes -->
+[^gs]: Lisa Nakamura, Sarah T. Roberts, and others have pointed to the many female and BIPOC tech workers who go unrecognized because their work is not the glamor work of tech, from the physically-taxing work of chip manufacturing on New Mexico reservations to the emotionally-taxing work of content moderation at sites just-off big tech campuses. Christina Dunbar-Hester (2020) argues that even “hacking has never been centered exclusively around white men in the Global North. Furthermore, some of what is required here is to simply shift the frame of what counts as hacking: to redraw boundaries to place social and historical analysis and infrastructural care work within the purview of hacking. In combination, these analytical adjustments can illuminate the ‘others’ of hacking—who are already here” (242).
 
 <!-- References -->
 <!-- field3 -->
