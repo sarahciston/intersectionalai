@@ -31,7 +31,7 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 <section class="zine-page page-2" markdown="1">
 
 #### artificial intelligence 
->The collection of programs that use machine learning...have qualities that allow them to operate autonomously (without constant instructions given by the programmer or user), 
+>The collection of programs that use machine learning...have qualities that allow them to operate autonomously (without constant instructions given by the programmer or user), ...
 
 <!--
 #### autonomous agents
@@ -43,10 +43,12 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 >As bias decreases variance increases, and vice versa. Other trade-offs include accuracy vs interpretability, complexity vs scalability, ~~domain-specific knowledge vs data driven,~~ better algorithm vs more data. (Rajati) 
 
 #### confidence interval
-A range of numbers that helps describe how uncertain an estimate is. Any confidence interval has a high (e.g. 95%) chance of containing the true* value (that is, the accurate answer to the question being asked). So the bigger the interval, the more uncertain and the more doubt. Confidence intervals are used in statistics and in AI to determine a model (formula)'s reliability. *Classically presumes a hidden but "true" unknown value that is independent of the model (and this is not always the case of course). Unfortunately, uncertainty remains inherent in prediction and difficult to comprehend in models, even for researchers who create them (D’Ignasio & Klein 2019). 
+A range of numbers that helps describe how uncertain an estimate is. Any confidence interval has a high (e.g. 95%) chance of containing the true* value (that is, the accurate answer to the question being asked). So the bigger the interval, the more uncertain and the more doubt. Confidence intervals are used in statistics and in AI to determine a model (formula)'s reliability. *Classically presumes a hidden but "true" unknown value that is independent of the model (and this is not always the case of course). Unfortunately, uncertainty remains inherent in prediction and difficult to comprehend in models, even for researchers who create them (D'Ignasio & Klein 2019). 
 
 #### data cleaning
-Data does not come in ready to go, it must be preprocessed. This includes many adjustments that can affect the outcome, including selecting a subset of data (sampling), standardizing and scaling it in relation to a baseline (normalization), handling missing data and outliers with decision trees (which Adrian MacKenzie cites as "afflited with arbitrariness"), as well as feature creation and extraction (discussed in F). The transformation of real-world information into "data" is never a neutral process but relies heavily on the conditions and goals of the research in context.
+Data does not come in ready to go, it must be preprocessed. This includes many adjustments that can affect the outcome, including selecting a subset of data (sampling), standardizing and scaling it in relation to a baseline (normalization), handling missing data and outliers with decision trees (which Adrian MacKenzie cites as "affiliated with arbitrariness"), as well as feature creation and extraction (discussed in F). The transformation of real-world information into "data" is never a neutral process but relies heavily on the conditions and goals of the research in context.
+
+>"there is no “neutral,” “natural,” or “apolitical” vantage point that training data can be built upon. There is no easy technical “fix” by shifting demographics, deleting offensive terms, or seeking equal representation by skin tone. The whole endeavor of collecting images, categorizing them, and labeling them is itself a form of politics, filled with questions about who gets to decide what images mean and what kinds of social and political work those representations perform." (Crawford & Paglen "Excavating AI" 2019)
 
 </section>
 <section class="zine-page page-3" markdown="1">
@@ -133,10 +135,11 @@ A natural language processing method of analyzing and classifying text that look
 #### REFERENCES 
 
 *[Elements of AI]: https://course.elementsofai.com/1/1
-*[D’Ignasio & Klein]: D'Ignasio, C. and Klein, K. 2020. Data Feminism. MIT Press.
+*[D'Ignasio & Klein]: D'Ignasio, C. and Klein, K. 2020. Data Feminism. MIT Press.
 *[Rajati]: Rajati, M.R. 2021. Lecture. Machine Learning for Data Science, USC, Los Angeles. June 2021.
 *[MacKenzie]: MacKenzie, A. 2018. Machine Learners. MIT Press. 
 *[Love Has No Labels]: https://lovehasnolabels.com/resources/glossary
+*[Excavating AI]: Crawford, K., & Paglen, T. (2019). Excavating AI: The Politics of Images in Machine Learning Training Sets. 2019, September 19. https://www.excavating.ai
 
 
 </section>

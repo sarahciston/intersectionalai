@@ -20,7 +20,7 @@ via [Elements of AI](https://course.elementsofai.com/1/1):
 <caption>AI terms are easy to mix up. AI is a subset of the field of computer science. Within it, machine learning is the technique that is commonly used currently and which includes a variety of practices within it, like neural networks and deep learning, much of which is discussed here. Almost all of these make use of work from data science, a separate but highly related field.</caption>{: .fs-2 .small .float-right}
 
 
-PRINT THIS: | [Print Side One](../GlossarySideA) | [Print Side Two](../GlossarySideB)
+PRINT THIS: | [See Side One](../GlossarySideA) | [See Side Two](../GlossarySideB)
 **A** | **[artificial intelligence](../GlossarySideA/#artificial-intelligence)** | **[artificial intelligence](../GlossarySideB/#artificial-intelligence)** 
 **B** | **[bias & variance](../GlossarySideA/#bias--variance)** | **[bias (implicit)](../GlossarySideB/#bias-implicit)** 
 **C** | **[confidence interval](../GlossarySideA/#confidence-interval)** | **[code of conduct](../GlossarySideB/#code-of-conduct)**
@@ -44,10 +44,10 @@ S | **supervised vs unsupervised** | **sustainability** / situated / standpoint 
 U | **uncertainty** | **unknowability** 
 V | **value/variable** / variance / vision | **value**??
 W | **(bag-of-)words** (w nlp) | **white supremacy / white feminism**
-X | x as input? | xenofeminism
-Y | y as output? | ?yt ? 
-Z | ? | zines (publishing practices)
-PRINT THIS | [Print Side One](../GlossarySideA) | [Print Side Two](../GlossarySideB)
+X | "x" as input? | xenofeminism
+Y | "y" as output? | ?yt-ness ? 
+Z | ???? | zines
+PRINT THIS | [See Side One](../GlossarySideA) | [See Side Two](../GlossarySideB)
 
 
 
