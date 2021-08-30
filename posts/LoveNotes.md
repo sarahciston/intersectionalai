@@ -14,6 +14,7 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
+
 ## Love Notes to Intersectional AI
 
 ![equalitytats](../assets/img/equalitytats.png)
@@ -24,16 +25,18 @@ Many, many people believe better AI futures are possible and your inspiration fo
 
 We're creating an ever-growing master list of projects, tools, resources to learn from. We'd also like to highlight and discuss a few in detail here...
 
-* Deep Lab
-* Virtual Care Lab
-
-* Add'l Berlin spaces -- would love to know more!
-* other international examples -- would love to know more from outside US & EU!
-
 </section>
 <section class="zine-page page-3" markdown="1">
 <!-- >**(should all these go in the ccc resource guide & link from there)** -->
 <!-- >simple databases are the key to everything, separating data layer from business layer -->
+
+<!-- refer to Creative Code Collective Hub -->
+[Creative Code Collective Resource Hub](https://creativecodecollective.github.io/resource-hub/) is an interactive, sortable, more comprehensive version of this effort. Please add any and all items listed here to the CCC hub via [this sheet](https://docs.google.com/spreadsheets/d/1PhArOS2tgxC7PgHbUy7eCFjqwGBe90QnbNuj4A51b90/edit?usp=sharing) and the zine will highlight and describe a select few as space allows.
+
+*Wishlist...*
+* Add'l Berlin spaces—would love to know more!
+* other international examples—would love to know more from outside US & EU!
+
 </section>
 <section class="zine-page page-4" markdown="1">
 
@@ -71,18 +74,14 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 
 
 ### Examples/Projects
+
+(**how should categories be organized**)
+
 #### Computer Vision
 * [Drag Deep Fakes](https://www.youtube.com/watch?v=qQSSl533rb8) Screen Walks. (2021, April 7). Screen Walk with Jake Elwes, Zizi and Me. https://www.youtube.com/watch?v=qQSSl533rb8 #vision #deepfake #gan
 * [Library of Missing Datasets](https://github.com/MimiOnuoha/missing-datasets) #datacollection (Mimi Onuoha, see also [*A People's Guide to AI*](https://mimionuoha.com/a-peoples-guide-to-ai), no longer available)
   
-<!-- * Aarati Akkapeddi - using libraries image processing colonial archives in india
-* Shirley Leung - fed ML Asian American female futurity
-* Tona Lopez - Philipines insta, 
-* Caroline Sinders
-* Ashley Jane Lewis
-* Suzanne Kite, indigenous AI -->
-
-#### Conversational Agents
+#### Conversational Agents 
 * [Syb Trans Voice Interface](http://syb.feministchatbot.com/)
   * collection of data practices
   * disclosure of team, iterative process
@@ -128,6 +127,7 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 * [Feminist Infrastructure Zine](https://alexandria.anarchaserver.org/index.php/Feminist_Infrastructure) partially en Español
 * [Reclaiming Digital Infrastructures Zine](https://constantvzw.org/documents/RDI/Reclaiming%20Digital%20Infrastructures.pdf)
 * [Our Data, Ourselves](https://ourdataourselves.tacticaltech.org/) and the works of [Tactical Tech](https://tacticaltech.org/projects)
+* [Virtual Care Lab](https://virtualcarelab.com/)
 
 #### Web/Code Tools
 Many of these were used to make this here zine collection
@@ -175,3 +175,5 @@ Many of these were used to make this here zine collection
 </main>
 
 [Interspecies Internet](https://www.interspecies.io/about)
+
+<!-- refer to Creative Code Collective Hub -->

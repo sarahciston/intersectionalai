@@ -85,8 +85,7 @@ modules / libraries
 >try/catch and the dreaded while
 
 4. Functions & Classes
-   
->
+
 
 
 </section>
@@ -110,3 +109,5 @@ Keep Going! Where to look next?
 
 </section>
 </main>
+
+<!-- references -->

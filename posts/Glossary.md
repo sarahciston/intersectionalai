@@ -25,7 +25,7 @@ PRINT THIS: | [See Side One](../GlossarySideA) | [See Side Two](../GlossarySideB
 **B** | **[bias & variance](../GlossarySideA/#bias--variance)** | **[bias (implicit)](../GlossarySideB/#bias-implicit)** 
 **C** | **[confidence interval](../GlossarySideA/#confidence-interval)** | **[code of conduct](../GlossarySideB/#code-of-conduct)**
 **D** | **[data cleaning](../GlossarySideA/#data-cleaning)** | **[data colonialism](../GlossarySideB/#data-colonialism)** 
-E | **[explainability](../GlossarySideA/#explainability)** | embodiment? / (digital) epidermalization? / emotion? / **ethical AI** (for public good etc)
+E | **[explainability](../GlossarySideA/#explainability)** | embodiment? / (digital) epidermalization? / emotion? / **[ethical AI](../GlossarySideB/#explainable-AI)** (for public good etc)
 F | **[feature extraction](../GlossarySideA/#feature-extraction)** | **[FLOSS](../GlossarySideB/#FLOSS)**
 G | **[GANs](../GlossarySideA/#GANs)** | ????
 **H** | **[hyperparameter](../GlossarySideA/#hyperparameter)**| **[heteronormative](../GlossarySideB/#heteronormative)**

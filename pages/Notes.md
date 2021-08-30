@@ -17,6 +17,14 @@ date: 2021-07-12
 
 what makes git so gosh darn hard to get at? so good for so many things and yet so impenetrable to outsiders? why is the learning process for git a right of passage, a gauntlet initiation, and if so, why choose it anyway as a platform? is there a timeline, a procedure, a way to make this easier? a justification for going through the paces? choosing a platform by least worst solution is only a temporary solution. oof.
 
+<!-- potential contributors via xin xin...
+* Aarati Akkapeddi - using libraries image processing colonial archives in india
+* Shirley Leung - fed ML Asian American female futurity
+* Tona Lopez - Philipines insta, 
+* Caroline Sinders
+* Ashley Jane Lewis
+* Suzanne Kite, indigenous AI -->
+
 ### 2021.07.15
 #### the shape of the container matters
 

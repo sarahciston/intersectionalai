@@ -58,6 +58,7 @@ I want to get it but ...
 
 > An ethics of ambiguity confronts artists with the responsibilities of autonomous choice and its consequences; defamiliarization is the formal outcome that best translates this ethical impulse to the audience, prompting reflection and heightened presence of mind. The conscious bundling of the aesthetic and the ethical in the minds of artists we interviewed was what kept this twinned impulse politically emancipatory, along with the expression of this connection in both social interactions and formal critiques. (Stark & Crawford 2019, 451)[^Stark]
 
+
 [^Stark]: Stark, L., & Crawford, K. (2019). The Work of Art in the Age of Artificial Intelligence: What Artists Can Teach Us About the Ethics of Data Practice. Surveillance & Society, 17(3/4), 442–455. https://doi.org/10.24908/ss.v17i3/4.10821
 
 </section>
@@ -90,3 +91,5 @@ I want to get it but ...
 <section class="zine-page page-8" markdown="1">
 </section>
 </main>
+
+<!-- references -->
