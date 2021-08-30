@@ -9,8 +9,13 @@ date: 2021-07-12
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 
-# sarah's readme
+# readme
 #### ongoing process notes
+
+### 2021.08.27
+#### the unbearable learning curve of github
+
+what makes git so gosh darn hard to get at? so good for so many things and yet so impenetrable to outsiders? why is the learning process for git a right of passage, a gauntlet initiation, and if so, why choose it anyway as a platform? is there a timeline, a procedure, a way to make this easier? a justification for going through the paces? choosing a platform by least worst solution is only a temporary solution. oof.
 
 ### 2021.07.15
 #### the shape of the container matters
