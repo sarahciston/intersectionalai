@@ -204,6 +204,9 @@ In “Anatomy of an AI System,” Kate Crawford and Vladan Joler (2018) map out 
 </section>
 </main>
 
+
+
+<section class="no-print">
 ## Missing
 Who do we mean, what theories to focus on
 
@@ -218,7 +221,7 @@ Critical code studies is an approach that suggests reading the code itself for i
 
 Intersectional AI must be not just about remedying bias but more broadly about instituting infrastructures of care. For what and for whom do we truly care? And how do we demonstrate those values by reorienting (after Sara Ahmed) ourselves, our attention, our resources? Along with all of the harm caused by technological and cultural bias, framing these issues in the positive rather than the negative makes this a question, not just of what to remove, but of what to build in its place.
 
-
+</section>
 
 
 <!-- new sources added -->

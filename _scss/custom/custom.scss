@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Jura:wght@200;500&family=Major+Mono+Display&family=Open+Sans:ital,wght@0,300;0,600;1,300;1,600&display=swap');
 
+
 body {
   font-family: "Open Sans", sans-serif;
   font-weight: 300;
 }
+
+/* hr {
+  display: none;
+  height: 0px;
+} */
 
 #menu-button {
     color: $link-color !important;
@@ -34,12 +40,14 @@ h1, h2, h3, h4, h5, h6 {
       visibility: hidden;
     }
 
-    
     main-header,
     site-header,
     side-bar, 
+    hr,
+    footer,
     .breadcrumb-nav, 
-    .site-title, 
+    .site-title,
+    .site-nav, 
     .page-header, 
     .menu, 
     .footnotes,
@@ -48,11 +56,13 @@ h1, h2, h3, h4, h5, h6 {
     .post ,
     .site-footer { 
       display: none;
+      visibility: hidden;
       border-width: 0px;
+      height: 0px;
     }
     
     body {
-      font-size: 58%; /*69%;*/
+      font-size: 50%; /*69%;*/
     }
     
     a {
@@ -63,12 +73,6 @@ h1, h2, h3, h4, h5, h6 {
     .mini-img {
       max-width: 4.4rem;
     }
-
-    hr {
-      height: 0px;
-      display: none;
-    }
-    
     
     /* The styles below here are specifically for creating the page layout.
      * -> DON'T CHANGE THESE <- unless you know what you're doing!

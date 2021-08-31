@@ -77,14 +77,19 @@ modules / libraries
 
 >Now that you've got some data in your program, time to do something with it! One of the main things programs do is make calculations on data using mathematical operations like add, subtract, multiply, divide, etc. (`+ - * /`), as well as Boolean operations that act as filters, for example AND (`&&`) and OR (`||`)
 
-1. Loops & Conditionals
+3. Loops & Conditionals
 
 > Computers can compound that calculation work at high speed and great volume, allowing for ...
 > if/then and if/else
+
 >for loops for (let i=0; i<list.length;i++){} and for (let l in list){}
->try/catch and the dreaded while
+
+>try/catch and the dreaded while loop
 
 4. Functions & Classes
+> The best part about computation is that it's designed to  make patterns to apply to multiple situations. So now that you've written all this great code, you can adapt it slightly and "save" it in a function so that you can reuse it with some other data down the line. Functions are similar to variables in that they store information, but instead of storing data like a variable would, functions can store a whole phrase that expresses an action. They can execute and act on whatever data you feed into them by using some placeholder variables that get replaced by the data you feed in when you run the function later on. Make sense yet? It will help to try an example:
+
+> 
 
 
 

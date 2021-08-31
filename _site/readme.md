@@ -23,16 +23,17 @@ Please join in by exploring the toolkit, commenting with your questions or thoug
 
 #### The zine collection is planned out as 6+ issues—printable as double-sided zines—and readable, remixable, shareable. 
 
-1. [🍦🍦 A-to-Z IAI](posts/Glossary.md) Double Glossary
-2. [Who 💜's IAI](posts/LoveNotes.md) Love notes to Intersectional AI practitioners & examples of great projects
-3. [🔥 Why IAI](posts/WhyAI.md) The case for Intersectional AI explained 
-4. [🌶Tactics](posts/Tactics.md) Practical tips & strategies from decades of intersectional practices
-5. [😍 Code Basics for Cuties of All Kinds](posts/NoCode.md) Who's afraid of code but wants to save AI? 
+1. [🍦🍦 A-to-Z IAI](posts/Glossary.md) Glossaries for its tech and its social sides
+2. [💜 Love Notes to IAI](posts/LoveNotes.md) Great practitioners and projects already at work
+3. [🔥 Why We Need IAI](posts/WhyAI.md) Making the case for more equitable, empathic tech
+4. [🌶Tactics](posts/Tactics.md) Practical approaches from wide-ranging communities and decades of intersectional effort
+5. [😍 Help Me Code IAI](posts/NoCode.md) Afraid of programming but want to save AI from itself? 
+6. [🤩 Help Me Understand](posts/HelpMeGetIt.md) Why listen to academic, activist, or artistic approaches?
 
 #### More resources to come!
 
-* [🤩 What AI Engineers Can Learn from Artists & Activists](posts/Techies.md)
-* [Coding Care: Multithreaded Community Ethics for Collective Digital Care](posts/Caring.md)
+<!-- * [🤩 What AI Engineers Can Learn from Artists & Activists](posts/Techies.md) Help me help you. I want to care but I don't get it. How can I better understand the cause? -->
+* [Coding Care: Community Ethics for Collective Digital Care](posts/Caring.md) What values and strategies does it take to support those creating intersectional approaches to tech? Plus, lessons learned and strategies gained from growing [Creative Code Collective][CCC].
 
   
 ### 🤖 Code resource hub
@@ -72,6 +73,14 @@ my 12-up zine
 ### ... and it's pronounced *zeen*, right? 
 Yep, like "magazine." Like, "I'm so excited to read this *zeeeeeeen*!"
 
+These sketches for a small library of digital-print hybrid zines are written for a non-academic audience and are intended as practical introductory field guides to some concepts, strategies, and resources—but mainly as a jumping off point for your own practice and inspiration. 
+
+They will take the rhetorical tone, style, and aesthetic approaches of zines, in that they cite, quote, remix, and reframe existing materials in (hopefully) clear, plain, concise language. This is in keeping with the multimodal and polyvocal approaches I have previously identified as intersectional.1
+
+Ideally, in keeping with the approaches they will describe, in future drafts this zine collection would be developed collaboratively by multiple authors. Such work could be an ongoing project for Creative Code Collective, both as a learning tool for students who research, code, and compose the digital zines and as also as a resource for later student who read or adapt them. They adapt their print-at-home format from [zine-machine.glitch.me](https://zine-machine.glitch.me/) and are also inspired by the [Tiny Tech Zines](https://www.instagram.com/tinytechzines/) festival and two fantastic zines acquired there ["Bite-Size Networking"](https://wizardzines.com/) by Julia Evans and ["How to Cite Like a Badass Feminist Tech Scholar of Color"](https://points.datasociety.net/how-to-cite-like-a-badass-tech-feminist-scholar-of-color-ebc839a3619c) by Data and Society’s Rigoberto Lara Guzmán and Sareeta Amrute. Check out the Who Loves IAI zine for other zines we love, like the [Techno-Galactic Guide to Software Observation](https://monoskop.org/images/e/e3/The_Techno-Galactic_Guide_to_Software_Observation_2018.pdf). 
+
+Christina Dunbar-Hester, in Hacking Diversity (2020), notes that the perhaps surprising appearance of zines and crafting in feminist technology circles makes sense: "In feminist zine making, forms of knowledge like folk medicine can be filtered through the riot grrrl practice of zine-making, which is itself connected to long traditions of feminine papercraft and journaling. They are identity practices in addition to circulations of knowledge" (111). As digital-print hybrids, they can utilize the liveliest aspects of both: GIFS and images, the expandability and nonlinearity of hyperlinks, and other dynamic content online; but also the accessible, 'handmade', distributable, low-power novelty of paper at a moment of maximum screen fatigue. The print versions of these zines are formatted to print double-sided on a single landscape page, making reversible two-part mini-zines (in multiple combinations as the library grows).
+
 ## 🤓 Who's making this IAI TK? 
 
 Developed by Sarah Ciston while a virtual fellow at the HIIG, with valued inspiration and collaboration from many others included on the [Community page](pages/Community/#imprint)
@@ -89,6 +98,16 @@ There are many ways to contribute. One of the most immediate is to join in the c
 3. Click around to the files you want to dive into. In the blue bar at the top of each, click the **History** button which will take you into the archives for this particular file. Don't worry you can't break anything. 
 4. Here you'll get a list of every **Commit**, which are labels put on each time changes have been saved to the repository. They'll have random names like, "Updated a typo" or "Redid everything FML why did it break!!!" because sometimes I'm not good at clearly labeled commits. Click the top link in the list (latest), or rewind to an earlier version if you like. *Follow along with the drama, ghasp!*
 5. Now you have a colorful look at every change or "diff"—<span style="color: green">green + for adds</span> and <span style="color: red">red - for deletes</span>—made to each file. AND when you point your cursor at a line, a blue <span style="color: blue; background: lightblue">+</span> plus appears at the left edge, where you can click to leave a comment about that line! If you're in "raw text" mode you'll also see other readers' comments, plus the non-formatted code as well.
+
+[comprehensive Github cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
+
+#### • adding your thoughts, edits, sections, pages in markdown style 
+
+How do I format my contribution? 
+
+[Handy Markdown](https://devhints.io/markdown)
+[Official Markdown](https://kramdown.gettalong.org/quickref.html) 
+[Printable Markdown cheatsheet](https://packetlife.net/media/library/16/Markdown.pdf)
 
 <!-- #### • joining the discord -->
 

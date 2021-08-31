@@ -38,6 +38,7 @@ I want to get it but ...
 
 <!-- ## Intersectionality Basics for Cuties of All Kinds -->
 
+Questions worth answering in this section... probably more to expand on here...
   1. Why take intersectional approaches?
   2. Why take artistic approaches?
   3. Why a print zine or a digital platform where anyone can contribute?

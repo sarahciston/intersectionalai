@@ -56,6 +56,7 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 - [Why.AI](https://www.hiig.de/en/dossier/why-ai/) dossier debunking myths in plain language
 
 #### AI-adjacent but Intersectional Tech
+* [Mukurtu CMS](https://mukurtu-australia-nsw.libraries.wsu.edu/mukurtu-cms) data platform for Indigenous communities to share and protect cultural heritage
 * [@TheAnnaLytical](http://instagram.com/theannalytical) [Anna Lytical Tutorial](https://youtu.be/SpzN47A7gqg) Glamorous Javascript: Makeup and Coding Edition #tutorial
 * [Tiny Tools Directory](https://tinytools.directory/) gathers open source tools, small, free or experimental #compendium #collection #tool
 * [Cyberfeminist Index](https://cyberfeminismindex.com/) #cyberfeminism #compendium #collection
