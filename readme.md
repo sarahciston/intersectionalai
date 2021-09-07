@@ -117,7 +117,7 @@ How do I format my contribution?
 
 ---
 
-Distributed by an [Anti-Capitalist Software License](https://anticapitalist.software").
+Distributed by an [Anti-Capitalist Software License](https://anticapitalist.software).
 {:.caption }
 
 [CCC]: https://creativecodecollective.com
