@@ -25,6 +25,8 @@ If you have contributed to this project from another location, please add a land
 **1 Sep 2021** | [**HIIG Edit-A-Thon**](https://www.hiig.de/en/events/edit-a-thon-intersectional-ai-toolkit/)
 13-18 Sep 2021 | [POM Berlin](https://www.pomconference.org/pom-berlin-2021-overview/)
 
+<iframe src="https://player.vimeo.com/video/600258606" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 <!-- could become a how-to for CCC plus Code of Conduct -->
 </section>
 <section class="zine-page page-2" markdown="1">

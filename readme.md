@@ -5,9 +5,32 @@
 <main>
 <section class="zine-page page-1" markdown="1">
 
-![logo](assets/img/LC-IAILogo.png)
+![logo](assets/img/LC-IAILogo.png){: width="100%" }
   
-## 📕 What is the *Intersectional AI Toolkit*?
+![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } 
+
+<!-- {% include tiles.html %} -->
+
+<section class="tiles">
+
+{% for post in site.posts %}
+	<article class="style{{ forloop.index | plus:1 }}">
+		<span class="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/LC-IAILogo.png" alt="" width="100px"/>
+		</span>
+		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
+			<h2>{{ post.title }}</h2>
+			<div class="content">
+				<p>{{ post.excerpt }}</p>
+                <p>something</p>
+			</div>
+		</a>
+	</article>
+{% endfor %}
+
+</section>
+
+## 🖇️ What is the *Intersectional AI Toolkit*?
 
 #### a zine collection for artists, activists, makers, engineers, and you
 
