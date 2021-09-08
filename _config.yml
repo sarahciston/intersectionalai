@@ -12,6 +12,10 @@ description: ideas, ethics, & tactics for more equitable tech from queer, anti-r
 email: ciston@usc.edu
 remote_theme: andrewbanchich/phantom-jekyll-theme
 
+# Logo settings
+logo-image-url: 
+font-awesome-icon-logo:
+
 # Social settings
 github_username: sarahciston
 twitter_username: sarahciston
