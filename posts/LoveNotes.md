@@ -102,6 +102,7 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 * [We Need to Talk AI: A Comic Essay](https://weneedtotalk.ai/)
 * [Feminist Principles of the Internet](https://feministinternet.org/)
 * [Techno-Galactic Guide to Software Observation](https://monoskop.org/images/e/e3/The_Techno-Galactic_Guide_to_Software_Observation_2018.pdf)
+* [Women in Computation, Portable Syllabus](../assets/files/WomenInComputation_PortableSyllabus.pdf)
 
 ### Tools
 * [Anti Capitalist Software License](https://anticapitalist.software/)
