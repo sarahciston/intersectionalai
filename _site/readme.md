@@ -5,9 +5,34 @@
 <main>
 <section class="zine-page page-1" markdown="1">
 
-## 📕 What is the *Intersectional AI Toolkit*?
+![logo](assets/img/LC-IAILogo.png){: width="100%" }
+  
+![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } 
 
-#### a zine collection and code resource hub for artists, activists, engineers, and you
+<!-- {% include tiles.html %} -->
+
+<section class="tiles">
+
+{% for post in site.posts %}
+	<article class="style{{ forloop.index | plus:1 }}">
+		<span class="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/LC-IAILogo.png" alt="" width="100px"/>
+		</span>
+		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
+			<h2>{{ post.title }}</h2>
+			<div class="content">
+				<p>{{ post.excerpt }}</p>
+                <p>something</p>
+			</div>
+		</a>
+	</article>
+{% endfor %}
+
+</section>
+
+## 🖇️ What is the *Intersectional AI Toolkit*?
+
+#### a zine collection for artists, activists, makers, engineers, and you
 
 The Intersectional AI Toolkit gathers ideas, ethics, and tactics for creating and supporting more ethical, equitable tech. It shows how established queer, anti-racist, anti-ableist, feminist communities contribute necessary perspectives to reshaping the digital systems that affect us all. The toolkit also offers approachable guides to both intersectionality and AI. This endeavor works from the hope that code can feel approachable for everyone, can move us toward care and repair—rather than perpetuating power imbalances—and can do so by embodying lessons from intersectionality.
 
@@ -35,13 +60,6 @@ Please join in by exploring the toolkit, commenting with your questions or thoug
 <!-- * [🤩 What AI Engineers Can Learn from Artists & Activists](posts/Techies.md) Help me help you. I want to care but I don't get it. How can I better understand the cause? -->
 * [Coding Care: Community Ethics for Collective Digital Care](posts/Caring.md) What values and strategies does it take to support those creating intersectional approaches to tech? Plus, lessons learned and strategies gained from growing [Creative Code Collective][CCC].
 
-  
-### 🤖 Code resource hub
-  
-#### The code resource hub will be an ever-growing community-sourced collection of video tutorials, code libraries, and inspiring projects. 
-
-These have been curated by members of [Creative Code Collective][CCC] and friends. They will point you to the many different kinds of projects, tools, and research being made around Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired and you can get cracking making your own intersectional projects and tools for others.
-
 ---
 
 </section>
@@ -50,16 +68,17 @@ These have been curated by members of [Creative Code Collective][CCC] and friend
 
 <!-- ## Why make an IAI TK?  -->
 
-## 😁 How do I fold these print-at-home zines? 
+## 😁 How do I get my own little print-at-home zines? 
 
 ![how-to-cut](assets/img/zineHowTo.png){: .small } ![how-to-cut](assets/img/zineHowTo2.png){: .small }
 
-1. fold your paper in half long ways, so that it is long and narrow. crease well, then unfold.
-2. fold your paper in half along the short side, and fold that in half again. crease well, then unfold.
-3. you should have eight mini sections divided like the illustration above. 
-4. cut *ONLY* along the two short folds in the middle. this is easiest done by folding the paper in half once short ways again and taking the scissors halfway in on the side with the fold (not the side that is open). do not cut all the way across. the goal is to have a slice in the center that does not connect to any edges.
-5. finally, fold the paper in half long ways again so the printed side faces out. pinch open the sliced center and separate those pages apart from each other until they join their neighbors.
-6. fold the book closed with the covers on the front and back.
+1. hit print in your browser while viewing any of the zine issue pages of this site. in the print preview you should see a 'landscape' (horizontal) minified version of the page, split into 8 tiny sections. if so, go ahead and print that and proceed to the next step.
+2. fold your paper in half long ways, so that it is long and narrow. crease well, then unfold.
+3. fold your paper in half along the short side, and fold that in half again. crease well, then unfold.
+4. you should have eight mini sections divided like the illustration above. 
+5. cut *ONLY* along the two short folds in the middle. this is easiest done by folding the paper in half once short ways again and taking the scissors halfway in on the side with the fold (not the side that is open). do not cut all the way across. the goal is to have a slice in the center that does not connect to any edges.
+6. finally, fold the paper in half long ways again so the printed side faces out. pinch open the sliced center and separate those pages apart from each other until they join their neighbors.
+7. fold the book closed with the covers on the front and back.
 
 
 <!-- 
@@ -114,6 +133,14 @@ How do I format my contribution?
 <!-- ### • joining an in-person event or watching& sharing the live-streams, artist videos, and media of our contributors & friends -->
 
 <!-- #### • keeping an interdisciplinary, intersectional mindset -->
+
+---
+
+## 🤖 See also: Code resource hub
+  
+#### The code resource hub will be an ever-growing community-sourced collection of video tutorials, code libraries, and inspiring projects. 
+
+The IAI Toolkit is closely partnered with the Creative Code Collective [Code Resource Hub](https://creativecodecollective.com/resource-hub), which has been curated by members of [Creative Code Collective][CCC] and friends. It is an interactive, searchable, sortable database that will point you to the many different kinds of projects, tools, and research being made around creative coding, Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired and you can get cracking making your own intersectional projects and tools for others.
 
 ---
 
