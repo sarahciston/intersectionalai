@@ -54,6 +54,7 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 - [Elements of AI](https://course.elementsofai.com/)
 - [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
 - [Why.AI](https://www.hiig.de/en/dossier/why-ai/) dossier debunking myths in plain language
+- [Katrin Fritsch: Towards an Emancipatory Understanding of Widespread Datification](https://medium.com/@katrinfritsch/towards-an-emancipatory-understanding-of-widespread-datafication-5a53ed79eb0f)
 
 #### AI-adjacent but Intersectional Tech
 * [Mukurtu CMS](https://mukurtu-australia-nsw.libraries.wsu.edu/mukurtu-cms) data platform for Indigenous communities to share and protect cultural heritage

@@ -1,4 +1,6 @@
 _site/
+_site/readme.md
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.DS_Store
