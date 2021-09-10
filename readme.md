@@ -6,13 +6,24 @@
 <section class="zine-page page-1" markdown="1">
 
 ![logo](assets/img/LC-IAILogo.png){: width="100%" }
+
+{% for post in site.posts %}
+<div style="position: relative"> 
+	![covers](assets/img/zinecover.png){: width="32%" }
+	<div style="position: absolute; top: 10; left: 10;">
+		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
+		<h2>{{ post.title }}</h2>
+	</div>
+</div>
+{% endfor %}
+
   
-![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } 
+ ![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } 
 
 <!-- {% include tiles.html %} -->
 
 <section class="tiles">
-
+<!-- 
 {% for post in site.posts %}
 	<article class="style{{ forloop.index | plus:1 }}">
 		<span class="image">
@@ -26,7 +37,7 @@
 			</div>
 		</a>
 	</article>
-{% endfor %}
+{% endfor %} -->
 
 </section>
 
