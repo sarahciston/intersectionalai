@@ -5,32 +5,9 @@
 <main>
 <section class="zine-page page-1" markdown="1">
 
-![logo](assets/img/LC-IAILogo.png){: width="100%" }
-  
-![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } 
+![logo](assets/img/LC-IAILogo.png)
 
-<!-- {% include tiles.html %} -->
-
-<section class="tiles">
-
-{% for post in site.posts %}
-	<article class="style{{ forloop.index | plus:1 }}">
-		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/LC-IAILogo.png" alt="" width="100px"/>
-		</span>
-		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
-			<h2>{{ post.title }}</h2>
-			<div class="content">
-				<p>{{ post.excerpt }}</p>
-                <p>something</p>
-			</div>
-		</a>
-	</article>
-{% endfor %}
-
-</section>
-
-## 🖇️ What is the *Intersectional AI Toolkit*?
+## 📕 What is the *Intersectional AI Toolkit*?
 
 #### a zine collection for artists, activists, makers, engineers, and you
 
@@ -60,6 +37,7 @@ Please join in by exploring the toolkit, commenting with your questions or thoug
 <!-- * [🤩 What AI Engineers Can Learn from Artists & Activists](posts/Techies.md) Help me help you. I want to care but I don't get it. How can I better understand the cause? -->
 * [Coding Care: Community Ethics for Collective Digital Care](posts/Caring.md) What values and strategies does it take to support those creating intersectional approaches to tech? Plus, lessons learned and strategies gained from growing [Creative Code Collective][CCC].
 
+  
 ---
 
 </section>
@@ -136,6 +114,7 @@ How do I format my contribution?
 
 ---
 
+
 ## 🤖 See also: Code resource hub
   
 #### The code resource hub will be an ever-growing community-sourced collection of video tutorials, code libraries, and inspiring projects. 
@@ -143,6 +122,7 @@ How do I format my contribution?
 The IAI Toolkit is closely partnered with the Creative Code Collective [Code Resource Hub](https://creativecodecollective.com/resource-hub), which has been curated by members of [Creative Code Collective][CCC] and friends. It is an interactive, searchable, sortable database that will point you to the many different kinds of projects, tools, and research being made around creative coding, Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired and you can get cracking making your own intersectional projects and tools for others.
 
 ---
+
 
 Distributed by an [Anti-Capitalist Software License](https://anticapitalist.software").
 {:.caption }
