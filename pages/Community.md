@@ -17,16 +17,6 @@ date: 2021-06-10
 This work offers respect and gratitude to the Gabrielino/Tongva peoples, who are the rightful and traditional caretakers of the land where large portions of this work have been created, along with many other sites.
 
 If you have contributed to this project from another location, please add a land acknowledgment and visit [Native-Land.ca](https://native-land.ca/) to learn about the history of where you live, why this matters, and how to contribute. 
-
-## Events
-
-26 Aug 2021 | [CARPA7, Uniarts Helsinki](https://sites.uniarts.fi/web/carpa/carpa7)
-30 Aug 2021 | [MUTEK Forum, Montreal](https://montreal.mutek.org/en/shows/2021/presentations-non-human-explorations-into-algorithmic-creativity)
-**1 Sep 2021** | [**HIIG Edit-A-Thon**](https://www.hiig.de/en/events/edit-a-thon-intersectional-ai-toolkit/)
-13-18 Sep 2021 | [POM Berlin](https://www.pomconference.org/pom-berlin-2021-overview/)
-
-<iframe src="https://player.vimeo.com/video/600258606" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 <!-- could become a how-to for CCC plus Code of Conduct -->
 </section>
 <section class="zine-page page-2" markdown="1">
@@ -84,10 +74,6 @@ This site does not track or gather any data on its viewers. If you choose to com
 
 <section class="zine-page page-7" markdown="1">
 
-</section>
-
-<section class="zine-page page-8" markdown="1">
-
 ## Imprint
 
 ### Individual contributors
@@ -128,5 +114,27 @@ In Living a Feminist Life, Sara Ahmed outlines “A Killjoy Survival Kit,” whi
 For additional input on the project or media inquiries, write to Sarah at <a href="mailto:ciston@usc.edu">ciston@usc.edu</a>
 
 </section>
+
+<section class="zine-page page-8" markdown="1">
+
+## Events
+
+13-18 Sep 2021 | [POM Berlin](https://www.pomconference.org/pom-berlin-2021-overview/)
+**1 Sep 2021** | [**HIIG Edit-A-Thon**](https://www.hiig.de/en/events/edit-a-thon-intersectional-ai-toolkit/)
+30 Aug 2021 | [MUTEK Forum, Montreal](https://montreal.mutek.org/en/shows/2021/presentations-non-human-explorations-into-algorithmic-creativity)
+26 Aug 2021 | [CARPA7, Uniarts Helsinki](https://sites.uniarts.fi/web/carpa/carpa7)
+
+### Panel discussion from first IAI Edit-a-thon
+
+#### Sarah Ciston in conversation with Nora Al-Badri, Ariana Dongus, Karla Zavarla, and Adriaan Orderaal on 1 Sep 2021
+<iframe src="https://player.vimeo.com/video/600258606" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Panel presentation from MUTEK Forum
+
+#### Sarah discusses how to make algorithmic creativity more intersectional and caring
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/803c4c327acb44369b9c8a06b5d1710c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+</section>
+
 </main>
 
