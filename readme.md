@@ -7,18 +7,20 @@
 
 ![logo](assets/img/LC-IAILogo.png){: width="100%" }
 
-{% for post in site.posts %}
-<div style="position: relative"> 
-	![covers](assets/img/zinecover.png){: width="32%" }
-	<div style="position: absolute; top: 10; left: 10;">
-		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
-		<h2>{{ post.title }}</h2>
-	</div>
+{% for p in site.pages %}
+{% if p.title %}
+<div class="thumbnail" style="position: relative; padding: 0 8px;">
+	<a href="{{ p.url | prepend:site.baseurl | prepend:site.url }}">
+		<img src="assets/img/zinecover.png" alt="cover" width="32%" style="z-index: -10;" />
+		<div class="cover" style="position: absolute; top: 10%; left: 5%; max-width: 25%; wrap: true; padding: 0 16px; z-index: 10;" >
+			<img src="assets/img/LC-IAILogo.png" alt="cover" width="100%" />
+			<h2>{{ p.title }}</h2>
+		</div>
+	</a>
 </div>
+{% endif %}
 {% endfor %}
 
-  
- ![covers](assets/img/zinecover.png){: width="32%" } ![covers](assets/img/zinecover.png){: width="32%" } 
 
 <!-- {% include tiles.html %} -->
 
