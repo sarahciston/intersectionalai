@@ -5,22 +5,7 @@
 <main>
 <section class="zine-page page-1" markdown="1">
 
-![logo](assets/img/LC-IAILogo.png){: width="100%" }
-
-{% for p in site.pages %}
-{% if p.title %}
-<div class="thumbnail" style="position: relative; padding: 0 8px;">
-	<a href="{{ p.url | prepend:site.baseurl | prepend:site.url }}">
-		<img src="assets/img/zinecover.png" alt="cover" width="32%" style="z-index: -10;" />
-		<div class="cover" style="position: absolute; top: 10%; left: 5%; max-width: 25%; wrap: true; padding: 0 16px; z-index: 10;" >
-			<img src="assets/img/LC-IAILogo.png" alt="cover" width="100%" />
-			<h2>{{ p.title }}</h2>
-		</div>
-	</a>
-</div>
-{% endif %}
-{% endfor %}
-
+<!-- ![logo](assets/img/LC-IAILogo.png){: width="100%" } -->
 
 <!-- {% include tiles.html %} -->
 
@@ -40,6 +25,17 @@
 		</a>
 	</article>
 {% endfor %} -->
+
+{% for p in site.pages %}
+{% if p.title %}
+<article class="thumbnail" style="position: relative; padding: 0 8px;">
+	<img class="thumb" src="assets/img/zinecover.png" width="100%" style="z-index: -10;" />
+	<img src="assets/img/LC-IAILogo.png" width="90%" style="position: absolute; padding: 0; left: 5%; top: 5%"/>
+	<a href="{{ p.url | prepend:site.baseurl | prepend:site.url }}"><h2>{{ p.title }}</h2></a>
+	<!-- <div class="cover thumb" style="position: absolute; top: 10%; left: 5%; wrap: true; padding: 0 16px; z-index: 10;" ></div> -->
+</article>
+{% endif %}
+{% endfor %}
 
 </section>
 
