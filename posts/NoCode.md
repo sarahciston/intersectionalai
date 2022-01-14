@@ -17,7 +17,7 @@ desc: Where do I even start?
 >A Non-Coder's Guide to Coding for Intersectional AI
 >I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
 
-![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png)
+<!-- ![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png) -->
 <!-- {: .small } -->
 
 </section>

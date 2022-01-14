@@ -55,6 +55,9 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 - [fast.ai course](https://course.fast.ai/videos/?lesson=1) Practical Deep Learning for Coders, Code-First Intro to NLP, Practical Data Ethics [fast.ai]
 - [Why.AI](https://www.hiig.de/en/dossier/why-ai/) dossier debunking myths in plain language
 - [Katrin Fritsch: Towards an Emancipatory Understanding of Widespread Datification](https://medium.com/@katrinfritsch/towards-an-emancipatory-understanding-of-widespread-datafication-5a53ed79eb0f)
+- [Dive Into Deep Learning](https://d2l.ai/) open source book, technical
+  
+- [Generative Engine](https://experiments.runwayml.com/generative_engine/) exploration of VQGAN-CLIP
 
 
 #### AI-adjacent but Intersectional Tech
