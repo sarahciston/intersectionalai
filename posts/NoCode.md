@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Code Basics for IAI 😍 
 nav_order: 05
 date: 2021-07-26

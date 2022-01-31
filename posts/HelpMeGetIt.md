@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Help Me Understand 🤩 
 nav_order: 06
 nav_exclude: true

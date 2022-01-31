@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: IAI A-to-Z 🍦 
 nav_order: 01
 date: 2021-07-23

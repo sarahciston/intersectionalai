@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Process Notes 🤓 
 nav_order: 10
 date: 2021-07-12

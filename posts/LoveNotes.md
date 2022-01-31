@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Who 💜s IAI
 nav_order: 03
 date: 2021-06-08

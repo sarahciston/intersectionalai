@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Tactics for IAI 🌶 
 nav_order: 04
 date: 2021-06-08

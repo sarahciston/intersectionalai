@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Why We Need IAI 🔥 
 nav_order: 02
 date: 2021-06-26

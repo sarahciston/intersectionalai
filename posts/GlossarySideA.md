@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: IAI A-to-Z Side A
 nav_exclude: true
 date: 2021-07-23

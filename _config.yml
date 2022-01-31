@@ -10,7 +10,51 @@ title: Intersectional AI Toolkit
 description: ideas, ethics, & tactics for more equitable tech from queer, anti-racist, & feminist communities
 #  | a zine collection and code library for artists, activists, engineers, and you
 email: ciston@usc.edu
-remote_theme: gollum/gollum
+remote_theme: Drassil/git-wiki-theme@master
+
+# git-wiki stuff
+show_wiki_pages: true
+show_wiki_pages_limit: 10
+blog_feature: true
+# (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
+show_wiki_posts: true
+# (integer) Maximum number of wiki posts to shown in sidebar
+show_wiki_posts_limit: 10
+# from jekyll (read jekyll doc)
+paginate: 5
+paginate_path: "/blog/page:num"
+permalink: /blog/posts/:year/:month/:day/:title:output_ext
+# (boolean) Enable/disable download buttons in sidebar
+show_downloads: true
+# (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
+git_branch: "wiki"
+# (string) folder where wiki pages are stored, it's needed for tool buttons
+wiki_folder: "wiki"
+# (boolean) if you're using github wiki as submodule then this config
+# must be enabled to allow tool buttons to work properly
+use_github_wiki: false
+# (boolean) Enable "Edit with Prose.io" button in tools, it's a 3rd party
+# service to edit github markdown pages easily
+use_prose_io: true
+# Select search_engine component from:
+# - js: it uses a built in javascript component that uses generated js object
+# - js_rss: it uses a built in javascript component that uses generated  sitemap_full.xml to search inside your wiki with lunr library (slow and experimental)
+# - github : it uses internal github repository search
+# - google : it uses cse search bar, you need to configure google_cse_token
+#
+search_engine : "js"
+# Setting google custom search engine for google
+# cse search bar (https://cse.google.it/cse/)
+google_cse_token: 
+
+# (string) path of site root. Normally it's must be empty because _config.yml resides in the root of your repository.
+# If you have _config.yml and your site in a subfolder, then change this config accordly 
+site_root: 
+
+# git-wiki includes some internal themes that you can choose
+# check _layouts folder
+#
+
 
 # Logo settings
 logo-image-url: assets/img/linked-paperclips_1f587-fe0f.png
@@ -25,7 +69,43 @@ home-link-in-menu: yes
 
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+#permalink: /:title/
+
+defaults:
+ - 
+    scope:
+      path: "wiki"
+    values:
+      permalink: /:basename
+ -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "git-wiki-default"
+ -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "git-wiki-default"
+ -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "git-wiki-post"
+ -
+    scope:
+      path: blog
+    values:
+      layout: "git-wiki-blog"
+sass:
+    style: compressed
+
+
 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
@@ -38,11 +118,6 @@ url: http://sarahciston.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/intersectionalai"
 
-
-
-#
-# Flags below are optional
-#
 
 # Aux links for the upper right navigation
 aux_links:
@@ -84,7 +159,21 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - github-pages
   - jekyll-remote-theme
-  - gollum
+  - jekyll-avatar
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-mentions
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-gitlab-metadata
 
 # Exclude these files from your production _site
 exclude:
@@ -93,3 +182,32 @@ exclude:
     - LICENSE
     - README.md
 
+# INCLUDING HOOKS
+# They are optional, change them only if you need
+# Check wiki documentation to learn how they work
+#
+
+inc_before_toc : 
+inc_after_toc : 
+inc_before_content : 
+inc_after_content : 
+inc_before_footer : 
+inc_after_footer : 
+inc_before_head : 
+inc_after_head : 
+inc_before_meta : 
+inc_after_meta : 
+inc_before_scripts : 
+inc_after_scripts : 
+inc_before_styles : 
+inc_after_styles : 
+inc_before_header : 
+inc_after_header : 
+inc_before_tail : 
+inc_after_tail : 
+inc_before_tools : 
+inc_after_tools : 
+inc_before_page_list :
+inc_after_page_list : # sidebar.html
+inc_before_post_list :
+inc_after_post_list :

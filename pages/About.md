@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: About
 nav_order: 50
 nav_exclude: true
