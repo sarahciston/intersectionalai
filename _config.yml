@@ -10,7 +10,7 @@ title: Intersectional AI Toolkit
 description: ideas, ethics, & tactics for more equitable tech from queer, anti-racist, & feminist communities
 #  | a zine collection and code library for artists, activists, engineers, and you
 email: ciston@usc.edu
-remote_theme: andrewbanchich/phantom-jekyll-theme
+remote_theme: gollum/gollum
 
 # Logo settings
 logo-image-url: assets/img/linked-paperclips_1f587-fe0f.png
@@ -71,32 +71,6 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 # footer_content: "Distributed by an <a href=\"https://anticapitalist.software\">Anti-Capitalist Software License.</a>"
 # Footer last edited timestamp
 
-# SEARCH 
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: true
-
-
 #
 # !! You don't need to change any of the configuration flags below !!
 #
@@ -104,18 +78,13 @@ search:
 # The release of Jekyll Now that you're using
 version: v1.0.0
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  sass_dir: _scss
-  style: :expanded # You might prefer to minify using :compressed
-
 # Use the following plug-ins
 gems:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - github-pages
-  - just-the-docs
   - jekyll-remote-theme
+  - gollum
 
 # Exclude these files from your production _site
 exclude:
@@ -124,80 +93,3 @@ exclude:
     - LICENSE
     - README.md
 
-## prose.io config
-prose:
-  # rooturl: 'posts' #add space for pages too? separate to make private? do i need prose for this site more/less?
-  siteurl: 'https://sarahciston.github.io/sarahciston/intersectionalai'
-  media: 'assets/img'
-  metadata:
-    posts:
-      - name: "layout"
-        field: 
-          element: "select"
-          value: "default"
-          options: 
-            - name: "default"
-              value: "default"
-            - name: "post"
-              value: "post"
-            - name: "page"
-              value: "page"
-      # - name: "layout"
-      #   field: 
-      #     element: "hidden"
-      #     value: "default" #"posts"
-      - name: "date"
-        field:
-          element: "text"
-          label: "date"
-          value: CURRENT_DATETIME
-          type: "text"
-      - name: "nav_order"
-        field:
-          element: "number"
-          label: "nav_order"
-          type: "number"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          type: "text"
-      - name: "desc"
-        field:
-          element: "textarea"
-          label: "desc"
-          type: "textarea"
-          help: "a brief description of the post, a subhead or dek"
-      - name: "author"
-        field: 
-          element: "hidden"
-          value: CURRENT_USER
-    pages:
-      - name: "layout"
-        field: 
-          element: "select"
-          value: "default"
-          options: 
-            - name: "default"
-              value: "default"
-            - name: "post"
-              value: "post"
-            - name: "page"
-              value: "page"
-      # - name: "layout"
-      #   field: 
-      #     element: "hidden"
-      #     value: "pages"
-      - name: "nav_order"
-        field:
-          element: "number"
-          label: "nav_order"
-          type: "number"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          type: "text"
-    users:
-      - login: "sarahciston"
-        user: "Sarah Ciston"
