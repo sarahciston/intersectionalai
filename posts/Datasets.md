@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: Datasets & Models
 nav_order: 20
 date: 2022-01-08
@@ -35,6 +35,7 @@ Garbage In, Garbage Out
 * [CommonCrawl](https://commoncrawl.org/the-data/) ?
 * [C4: Colossal Cleaned Crawled Corpus](), see [^T5] below
 * [Newsroom](https://lil.nlp.cornell.edu/newsroom/) (https://paperswithcode.com/paper/newsroom-a-dataset-of-13-million-summaries), "1.3 million articles and summaries written by authors and editors in the newsrooms of 38 major publications. The summaries are obtained from search and social metadata between 1998 and 2017 and use a variety of summarization strategies combining extraction and abstraction"
+* [Newsroom](https://github.com/lil-lab/newsroom) (https://paperswithcode.com/paper/newsroom-a-dataset-of-13-million-summaries), "1.3 million articles and summaries written by authors and editors in the newsrooms of 38 major publications. The summaries are obtained from search and social metadata between 1998 and 2017 and use a variety of summarization strategies combining extraction and abstraction"
 * [NYTimes Annotated Corpus](https://paperswithcode.com/dataset/new-york-times-annotated-corpus), "over 1.8 million articles written and published by the New York Times between January 1, 1987 and June 19, 2007 with article metadata"
 
 ### Audio Data
