@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Community 👏 
 nav_order: 00
 date: 2021-06-10
@@ -136,9 +136,9 @@ Have you made updates to the IAI Toolkit? Please do add your name here and link 
 
 This toolkit is a research project started by Sarah Ciston, but it includes the collaboration and support of oh-so-many. 
 
-[Sarah Ciston](https://sarahciston.com) (she/they) is a [Mellon Fellow](https://dornsife.usc.edu/digitalhumanities/ph-d-fellows/) and PhD Candidate in [Media Arts and Practice](https://map.usc.edu/phds/) at the University of Southern California and a Virtual Fellow at the [Humboldt Institute for Internet and Society](https://www.hiig.de/) in Berlin. Sarah's research investigates how to bring intersectionality to artificial intelligence by employing queer, anti-racist, anti-ableist, and feminist theories, ethics, and tactics. They also lead [Creative Code Collective](https://creativecodecollective.com)—a student community for co-learning programming using approachable, interdisciplinary strategies. Their creative-critical code-writing projects include an interactive poem of the quantified self and a chatbot that tries to explain feminism to online misogynists. They completed an MFA in Literature from UC San Diego and have been named one of *San Francisco Weekly*'s "Best Writers Without a Book." They are white, queer, and from the Ozarks (U.S.). Their favorite word is "we."
+[Sarah Ciston](https://sarahciston.com) (she/they) is a [Mellon Fellow](https://dornsife.usc.edu/digitalhumanities/ph-d-fellows/) and PhD Candidate in [Media Arts and Practice](https://map.usc.edu/phds/) at the University of Southern California and a Virtual Fellow at the [Humboldt Institute for Internet and Society](https://www.hiig.de/) in Berlin. Sarah's research investigates how to bring intersectionality to artificial intelligence by employing queer, anti-racist, anti-ableist, and feminist theories, ethics, and tactics. They also lead [Creative Code Collective](https://creativecodecollective.com)—a student community for co-learning programming using approachable, interdisciplinary strategies. Their creative-critical code-writing projects include an interactive poem of the quantified self and a chatbot that tries to explain feminism to online misogynists. They completed an MFA in Literature from UC San Diego and have been named one of *San Francisco Weekly*'s "Best Writers Without a Book." They are white, queer, and from the Ozarks, which is the ancestral home of the Osage and Kickapoo Nations. Their favorite word is "we."
 
-In Living a Feminist Life, Sara Ahmed outlines “A Killjoy Survival Kit,” which she says should contain books, things, tools, time, life, permission notes, other killjoys, humor, feelings, bodies, and your own survival kit (235–249). The Intersectional AI Toolkit is both inspired by the kind of cooperative survival she calls for–
+In Living a Feminist Life, Sara Ahmed outlines “A Killjoy Survival Kit,” which she says should contain books, things, tools, time, life, permission notes, other killjoys, humor, feelings, bodies, and your own survival kit (235–249). The Intersectional AI Toolkit is both inspired by the kind of cooperative survival she calls for-
 
 >"Protest can be a form of self-care as well as care for others: a refusal not to matter. Self-care can also be those ordinary ways we look out for each other [...] in queer, feminist, and antiracist work, self-care is about the creation of community, fragile communities [...] assembled out of the experiences of being shattered. We reassemble ourselves through the ordinary, everyday, and often painstaking work of looking after ourselves; looking after each other." (240)
 

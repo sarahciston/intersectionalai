@@ -114,7 +114,6 @@ How do I format my contribution?
 
 ---
 
-
 ## 🤖 See also: Code resource hub
   
 #### The code resource hub will be an ever-growing community-sourced collection of video tutorials, code libraries, and inspiring projects. 
@@ -122,7 +121,6 @@ How do I format my contribution?
 The IAI Toolkit is closely partnered with the Creative Code Collective [Code Resource Hub](https://creativecodecollective.com/resource-hub), which has been curated by members of [Creative Code Collective][CCC] and friends. It is an interactive, searchable, sortable database that will point you to the many different kinds of projects, tools, and research being made around creative coding, Intersectional AI and related topics. It's fed by a user-friendly spreadsheet where you can add your own resources and tell us why you like them. Get inspired and you can get cracking making your own intersectional projects and tools for others.
 
 ---
-
 
 Distributed by an [Anti-Capitalist Software License](https://anticapitalist.software").
 {:.caption }
