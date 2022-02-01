@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: Datasets & Models
 nav_order: 20
 date: 2022-01-08

@@ -102,7 +102,10 @@ Have you made updates to the IAI Toolkit? Please do add your name here and link 
 - Julian Klusmann-Rösner, edit-a-thon participant
 - Lucas LaRochelle, edit-a-thon participant
 - Laura Liebig, edit-a-thon participant
+- evelyn masso, zine workshop participant
+- Emily Martinez, zine workshop participant
 - [Leigh Montavon](https://instagram.com/lcmontavon), hand-lettering
+- Miguel Mercado, zine workshop participant
 - Katharina Mosene, edit-a-thon participant and mentor
 - [Adriaan Odendaal](https://internetteapot.com/), edit-a-thon panelist
 - Jason Perez, edit-a-thon participant
@@ -118,6 +121,7 @@ Have you made updates to the IAI Toolkit? Please do add your name here and link 
 - [Karla Zavala Barreda](https://internetteapot.com/), edit-a-thon panelist
 - Theresa Züger, edit-a-thon participant
 - Theresa Henne, edit-a-thon participant
+- Katherine Yang, zine workshop participant
 
 ### Institutional support
 
