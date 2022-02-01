@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Datasets & Models
-nav_order: 20
+nav_order: 10
 date: 2022-01-08
 desc: Feed your machines
 published: true
@@ -10,7 +10,13 @@ published: true
 
 # Datasets and Models, Ingredients and Recipes
 
+#### this curation is very much a work in progress.
+
+#### if you have ideas for interesting, more equitable datasets, let us know!
+
 It's not just a list of random choices and tools, it's a critical consideration... our choices matter for what we make.
+
+**What would make a more valid, more equitable dataset? Could such data exist? How would we know it when we encounter it, how would we use it, and how would it change our experiences of the world?**
 
 >> "When assessing whether a task is solvable, we first need to ask: should it be solved? And if so, should it be solved by AI?" (Jacobson et al. 2020)
 
