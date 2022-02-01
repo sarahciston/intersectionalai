@@ -1,12 +1,13 @@
 # Name of your site (displayed in the header)
 title: Intersectional AI Toolkit
 description: ideas, ethics, & tactics for more equitable tech from queer, anti-racist, & feminist communities
-email: ciston@usc.edu
 remote_theme: Drassil/git-wiki-theme@master
-
-# git-wiki stuff
+url: http://sarahciston.github.io
+baseurl: "/intersectionalai"
 show_wiki_pages: true
+# (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 10
+# (boolean) Enable/disable blog feature
 blog_feature: true
 # (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
 show_wiki_posts: true
@@ -20,6 +21,10 @@ permalink: /blog/posts/:year/:month/:day/:title:output_ext
 show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "wiki"
+# (string) Url of logo image, it can be full, absolute or relative.
+logo_url: "assets/img/linked-paperclips_1f587-fe0f.png"
+# (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
+google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
@@ -43,28 +48,21 @@ google_cse_token:
 # If you have _config.yml and your site in a subfolder, then change this config accordly 
 site_root: 
 
+#
+# Jekyll configurations
+#
+
+# You can customize it changing default layout for all pages
+# More info: https://jekyllrb.com/docs/configuration/
+#
 # git-wiki includes some internal themes that you can choose
 # check _layouts folder
 #
-
-
-# Logo settings
-logo-image-url: assets/img/linked-paperclips_1f587-fe0f.png
-font-awesome-icon-logo:
-
-# Social settings
-github_username: sarahciston
-twitter_username: sarahciston
-instagram_username: sarahciston
-# Layout settings
-home-link-in-menu: yes
-
 markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-#permalink: /:title/
 
 defaults:
  - 
@@ -96,57 +94,7 @@ defaults:
       layout: "git-wiki-blog"
 sass:
     style: compressed
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: http://sarahciston.github.io
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: "/intersectionalai"
-
-
-# Aux links for the upper right navigation
-aux_links:
-  # "PRINT Your Own":
-  #   - "TK"
-  # "EDIT on GitHub":
-  #   - "//github.com/sarahciston/intersectionalai"
-  # "markdown cheatsheet":
-  #   - "https://devhints.io/markdown"
-
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
-
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Comment, edit, or remix this page on GitHub."
-gh_edit_repository: "https://github.com/sarahciston/intersectionalai" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-
-# footer_content: "Distributed by an <a href=\"https://anticapitalist.software\">Anti-Capitalist Software License.</a>"
-# Footer last edited timestamp
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-# The release of Jekyll Now that you're using
-version: v1.0.0
-
-# Use the following plug-ins
-gems:
-  - jemoji # Emoji please!
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - github-pages
-  - jekyll-remote-theme
+plugins:
   - jekyll-avatar
   - jekyll-coffeescript
   - jekyll-default-layout
@@ -157,19 +105,16 @@ gems:
   - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-redirect-from
+  - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jemoji
   - jekyll-gitlab-metadata
 
-# Exclude these files from your production _site
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
 
+#
 # INCLUDING HOOKS
 # They are optional, change them only if you need
 # Check wiki documentation to learn how they work
@@ -195,7 +140,8 @@ inc_before_tail :
 inc_after_tail : 
 inc_before_tools : 
 inc_after_tools : 
+
 inc_before_page_list :
-inc_after_page_list : # sidebar.html
+inc_after_page_list : sidebar.html
 inc_before_post_list :
 inc_after_post_list :
