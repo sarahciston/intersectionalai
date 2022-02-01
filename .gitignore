@@ -3,3 +3,5 @@ _site/readme.md
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+Gemfile.*.lock
+.DS_Store

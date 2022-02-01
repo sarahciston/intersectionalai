@@ -1,14 +1,6 @@
-#
-# This file contains configuration flags to customize your site
-#
-
 # Name of your site (displayed in the header)
-#name: Intersectional AI Toolkit
 title: Intersectional AI Toolkit
-
-# Short bio or description (displayed in the header)
 description: ideas, ethics, & tactics for more equitable tech from queer, anti-racist, & feminist communities
-#  | a zine collection and code library for artists, activists, engineers, and you
 email: ciston@usc.edu
 remote_theme: Drassil/git-wiki-theme@master
 
@@ -105,13 +97,9 @@ defaults:
 sass:
     style: compressed
 
-
-
-
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://sarahciston.github.io
-
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
