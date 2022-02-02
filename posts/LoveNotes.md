@@ -17,7 +17,7 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 
 ## Love Notes to Intersectional AI
 
-![equalitytats](../assets/img/equalitytats.png)
+![equalitytats](../assets/img/equalitytats.png){: .small }
 
 </section>
 <section class="zine-page page-2" markdown="1">
@@ -77,6 +77,7 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 * [MOTIF feminist futures](https://feministfutures.net/)
 * [Superrr](https://superrr.net/) "building diverse & equal futures in tech and beyond"
 * [School of Machines, Making, & Make-Believe](http://schoolofma.org/) classes on art, tech, & design
+* [Data Justice Lab](https://datajusticelab.org/)
 
 
 ### Examples/Projects

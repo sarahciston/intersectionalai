@@ -1,7 +1,7 @@
 ---
-layout: post
+# layout: post
 title: Datasets & Models
-nav_order: 10
+nav_order: 20
 date: 2022-01-08
 desc: Feed your machines
 published: true
@@ -10,21 +10,16 @@ published: true
 
 # Datasets and Models, Ingredients and Recipes
 
-#### this curation is very much a work in progress.
-
-#### if you have ideas for interesting, more equitable datasets, let us know!
-
 It's not just a list of random choices and tools, it's a critical consideration... our choices matter for what we make.
 
-**What would make a more valid, more equitable dataset? Could such data exist? How would we know it when we encounter it, how would we use it, and how would it change our experiences of the world?**
+>>"All data are local. Indeed, data are cultural artifacts created by people, and their dutiful machines, at a time, in a place, and with the instruments at hand for audiences that are conditioned to receive them." [...] "[We must learn] to analyze data settings rather than data sets." (Loukissas)
 
->> "When assessing whether a task is solvable, we first need to ask: should it be solved? And if so, should it be solved by AI?" (Jacobson et al. 2020)
-
->> They perpetuate under-representation and "a range of harmful and problematic representation." They "use cheap tricks" "make ethically dubious questions seem answerable" "strips away context" (Paulladua et al. 2020) "failure to recognize annotation work as *interpretive work*". 
+>> Existing datasets perpetuate under-representation and "a range of harmful and problematic representation." They "use cheap tricks", "make ethically dubious questions seem answerable", and "strips away context" (Paulladua et al. 2020) 
+<!--"failure to recognize annotation work as *interpretive work*". -->
 
 ## Data: Every Input Was Someone Else's Output
 
-Garbage In, Garbage Out
+Note: This curation of datasets is a sketch in progress being continually updated, and will include a discussion of what makes a more ethical, more critical dataset--is such a thing possible?
 
 ### Text and Image 
 * [WIT, Wikipedia-based Image Text Dataset](https://github.com/google-research-datasets/wit), Google's open-source multimodal scraping of Wikipedia
@@ -48,6 +43,8 @@ Garbage In, Garbage Out
 * [WikiCommons](https://commons.wikimedia.org/wiki/Category:Audio_files)
 
 ## Models
+
+>> "When assessing whether a task is solvable, we first need to ask: should it be solved? And if so, should it be solved by AI?" (Jacobson et al. 2020)
 
 ### Language Processing
 * [DeepSpeech](), Mozilla (created from CommonVoice)
