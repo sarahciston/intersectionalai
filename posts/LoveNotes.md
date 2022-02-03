@@ -17,7 +17,7 @@ desc: Intersectional AI is already thriving. Here's a peek at some of the badass
 
 ## Love Notes to Intersectional AI
 
-![equalitytats](../assets/img/equalitytats.png){: .small }
+![equalitytats](../assets/img/equalitytats.png){: .img-small }
 
 </section>
 <section class="zine-page page-2" markdown="1">

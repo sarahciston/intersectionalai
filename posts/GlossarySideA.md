@@ -26,12 +26,16 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 
 >"it's often the way the technology is being used, rather than the technology itself, that determines whether it is appropriate to call it AI or not." (Elements of AI, Building AI)
 
+>"'[A]rtificial intelligence' means lots of things, depending on whether you’re reading science fiction or selling a new app or doing academic research. When someone says they have an AI-powered chatbot, should we expect it to have opinions and feelings like the fictional C-3PO? Or is it just an algorithm that learned to guess how humans are likely to respond to a given phrase? Or a spreadsheet that matches words in your question with a library of preformulated answers? Or an underpaid human who types all the answers from some remote location? Or—even—a completely scripted conversation where human and AI are reading human-written lines like characters in a play? Confusingly, at various times, all these have been referred to as AI. For the purposes of this book, I’ll use the term AI the way it’s mostly used by programmers today: to refer to a particular style of computer program called a machine learning algorithm." (Shane 2019, 7–8)
+
 </section>
 
 <section class="zine-page page-2" markdown="1">
 
 #### artificial intelligence 
 >The collection of programs that use machine learning...have qualities that allow them to operate autonomously (without constant instructions given by the programmer or user), ...
+
+
 
 <!--
 #### autonomous agents
@@ -140,6 +144,7 @@ A natural language processing method of analyzing and classifying text that look
 *[MacKenzie]: MacKenzie, A. 2018. Machine Learners. MIT Press. 
 *[Love Has No Labels]: https://lovehasnolabels.com/resources/glossary
 *[Excavating AI]: Crawford, K., & Paglen, T. (2019). Excavating AI: The Politics of Images in Machine Learning Training Sets. 2019, September 19. https://www.excavating.ai
+*[Shane]: Shane, Janelle. 2019. You Look Like a Thing and I Love You. Little, Brown and Company.
 
 
 </section>

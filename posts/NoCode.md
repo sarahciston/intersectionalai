@@ -14,15 +14,27 @@ desc: Where do I even start?
 
 ### Don't let { curly braces } intimidate you
 
->A Non-Coder's Guide to Coding for Intersectional AI
->I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
+#### A Non-Coder's Guide to Coding for Intersectional AI
 
-![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png)
-<!-- {: .small } -->
+####  I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
+
+![](../assets/img/zine-22nov/page-AIcoding.jpg){: .img-small }
+![](../assets/img/zine-22nov/page-variables.jpg){: .img-small }
+![](../assets/img/zine-22nov/page-arrays.jpg){: .img-small }
+![](../assets/img/zine-22nov/page-functions.jpg){: .img-small }
+![](../assets/img/zine-22nov/page-loops.jpg){: .img-small }
+![](../assets/img/zine-22nov/page-garb.jpg){: .img-small }
+
+#### This issue was created during a zine workshop on Nov 13, 2021 with Creative Code Collective participants and community.
+
+<hr>
+<hr>
 
 </section>
 
 <section class="zine-page page-2" markdown="1">
+
+## Earlier Draft 
 
 ### Why Would I Learn to Code?
 
@@ -33,7 +45,6 @@ desc: Where do I even start?
 ### Attitude: Fierce & Scrappy
 
 ### Overwhelm: Languages, Tools, Libraries, Oh My
-
 
 ### Which tools for which jobs?
 
@@ -107,6 +118,8 @@ modules / libraries
 <section class="zine-page page-8" markdown="1">
 
 ### References
+
+![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png) <!--{: .img-small} -->
 
 ### Resources
 *Don't stop, don't give up!*

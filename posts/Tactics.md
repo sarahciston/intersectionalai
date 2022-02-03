@@ -14,6 +14,8 @@ date: 2021-06-08
 ![No Coding Required](../assets/img/LC-NoCoding.png){: .img-small }
 {: .img-small }
 
+>"Pranking an AI—giving it a task and watching it fail—is a great way to learn about it" (Shane 2019, 4).
+
 ### So You Want to Make Better AI: Practical Strategies
 #### No coding required, bring your friends
 
