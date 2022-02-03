@@ -12,47 +12,131 @@ desc: Where do I even start?
 
 ## Code Basics for Cuties of All Kinds Who Want to Save AI
 
-A Non-Coder's Guide to Coding for Intersectional AI
-
 ![](../assets/img/zine-22nov/page-AIcoding.jpg){: .img-small }
 ![](../assets/img/zine-22nov/page-variables.jpg){: .img-small }
 
-## JUMP IN
+### Don't let { curly braces } intimidate you -- let's jump in!
 
-### Don't let { curly braces } intimidate you
+#### All Programs Combine Just a Few Basic Concepts
 
 AI and coding can be intimidating to learn. But the entrance is framed in some simple ideas.
 
-All code is built from just a few key components—no matter the scale or complexity!
+All code combines just a few key components—no matter the scale or complexity! Anything you want to build will be composed of these pieces layered together.
 
-### **DATA** are pieces of input to the machine. They are the information you are giving, manipulating, and getting back out.
+### Data
 
-Types of data
-**Strings** are "text" represented in quotes
-**Numbers** include **integers** aka whole numbers like 100; **Floats** are numbers with decimals like 0.25; sometimes other kinds too.
-**Booleans** are either TRUE or FALSE (or a sneaky NULL).
+Data are pieces of input to the machine. They are the information you are giving, manipulating, and getting back out.
 
-**VARIABLES** are labeled containers for information. If `let x = 1` here, `x` is a variable storing the data `1`. Later you can ask what does `x` equal. You can even use in a calculation, or change it to `x = 3` (and then next time you ask what `x` equals, the answer will be different.)  
+Data types are all the different kinds of information you can store. Some languages ask you to specify which kind of variable you're creating, like Javascript. Others, like Python, can tell just by how the data is formatted. 
 
-*Pssst... you decide what to name your variables.* **ENCODE <><> DECODE**
+**Strings** are simple lines of text (always seen in between single or double quotation marks). 
 
-Naming has power. You are deciding what information means. e.g. the weight of a feature in a machine learning model or the threshold that demarcates one color from another.
+**Numbers** include **integers** aka whole numbers like 100; **floats** are numbers with decimals like 0.25; sometimes other kinds too.
+
+**Booleans** are either `True` or `False` (or a sneaky `NULL`).
+
+### Variables 
+
+Variables are labeled containers for information. They are placeholders you can name and store things in to recall for later. Let's say `let x = 1`. That means we declared `x` is a variable storing the data `1`. Later we can ask, "What was `x`?" or say, "Change `x = 3` now." (And then next time we ask what `x` equals, the answer will be different.)
+
+#### Naming has power. ENCODE <><> DECODE
+
+*Pssst... you decide what to name your variables.*
+
+You are deciding what information means. e.g. the weight of a feature in a machine learning model or the threshold that demarcates one color from another.
 
 ![](../assets/img/zine-22nov/page-arrays.jpg){: .img-small }
 ![](../assets/img/zine-22nov/page-functions.jpg){: .img-small }
+
+#### Data in Groups
+
+There are different data types we use to *group* collections of data together. They each have different benefits:
+
+**Arrays** AKA **Lists** are simple run downs of data. They can usually be of any length and be of any kind of data: 
+  * `numberList = [3, 4, 5, 6]`
+  * `emojiList = ["peach", "eggplant", "heart"]`
+  * `mixedList = ["peach", 33, "heart", True, 0.314159]`
+**Dictionaries** contain *pairs of information*, where each pair has a *key* and a *value* assigned to match, like a label for each piece of info:
+  * `dict = {"key": "value", "name": "Sarah", "color": "teal"}`
+**Sets** are special lists that forbid duplicates, which can sometimes come in handy!
+
+Any of the above data types can be stored in a variable that you name (almost whatever you want).
+
+### Action! Calculations & Operations
+
+Now that you've got some data in your program, time to do something with it! One of the main things programs do is make calculations on data using mathematical operations like add, subtract, multiply, divide, etc. (`+ - * /`), as well as Boolean operations that act as filters, for example AND (`&&`) and OR (`||`).
+
+### Functions: Take It with You
+
+Functions are a way to organize and reuse code, along with its embedded ideas and values. Like putting snippets of code and ideas in a bag. 
+
+>> Wow that's some useful code!
+
+>> What about those ideas, though? 
+
+The more you organize your code into functions, the easier it is to reuse in later projects. And guess what, you also save your functions with almost any variable name you want!
+
+Like variables, functions store stuff, but instead they can save a whole phrase that expresses an action. They can execute and act on whatever data you feed into them when you put them to work later. 
+
+<!-- by using some placeholder variables that get replaced by the data you feed in when you run the function later on. Make sense yet? It will help to try an example: -->
+
+The best (and sometimes *worst*) part about computation is that it's designed to make patterns to apply to multiple situations. 
+
 ![](../assets/img/zine-22nov/page-loops.jpg){: .img-small }
 ![](../assets/img/zine-22nov/page-garb.jpg){: .img-small }
 
-#### This issue was created during a zine workshop on Nov 13, 2021 with Creative Code Collective participants and community.
+### Do It Again! Loops & Conditionals
 
-<hr>
-<hr>
+A **loop** helps you repeat an action many times. 
+
+>What factors are overlooked when working at a large scale?
+
+```python
+for (image in dataset):
+    // find out if blueberry muffin
+    // or chihuahua
+```
+
+>How do we treat different things? 
+
+A **conditional** helps you decide whether to do an action or not. 
+
+>How do you decide on the right judgment call? 
+
+```python
+if (object on plate):
+    //muffin!
+    //unless SOMETHING is horribly wrong
+```
+Computers can compound decision-making work at high speed and great volume, allowing for amazing automation but also enormous, unforeseen ethical impacts.
+
+<!-- > if/then and if/else -->
+
+<!-- >for loops for (let i=0; i<list.length;i++){} and for (let l in list){} -->
+
+<!-- >try/catch and the dreaded while loop -->
+
+### NO SUCH THING AS RAW DATA
+
+ **Input** | **Output**
+Data entered into a program, stored in variables, used and modified when the program is run. | Data the program sends out into "the world." 
+e.g. from sensors, keyboard, mouse, camera, microphone, database, API | e.g. `print()`, translation, recommendation, calculation, search result, prediction
+
+**Pro Tip:** The quality of the information coming out cannot be better than the quality of the information coming in.
+
+#### Garbage in, garbage out
+
+### This issue was created during a zine workshop on Nov 13, 2021 with Creative Code Collective participants and community.
 
 </section>
 
+<hr>
+<hr>
+
+
 <section class="zine-page page-2" markdown="1">
 
-## Earlier Draft 
+#### Earlier Draft Notes
 
 ####  I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
 
@@ -69,60 +153,11 @@ Naming has power. You are deciding what information means. e.g. the weight of a 
 ### Which tools for which jobs?
 
 #### Demistifying
-[Sharon Lee De La Cruz: Can computers understand slang?](https://www.youtube.com/watch?v=CFT6w9NKfCs)
-Code Slang: crowdsourced library, flexible, visual output. "Retaining a culture, meeting people where they're at, celebrating the way we communicate."
-& the [Digital Citizens Lab]() 
-<!-- all dead links? -->
+
 
 </section>
 
 <section class="zine-page page-4" markdown="1">
-
-### All Programs Combine Just a Few Basic Concepts
-
-No matter the complexity, any code is made up of these elements, and anything you want to build will be composed of these elements layered together. 
-
-variables (labeled containers for data)
-data types:
-    strings (text)
-    numbers (float/integer)
-    groups: list, dictionary, etc. (AKA array)
-    booleans: (true/false)
-decisions & loops
-	if/then
-	for loops, while loops, etc.
-functions & classes (labeled containers for actions)
-modules / libraries
-
-1. Variables & Data Types
-
->Variables are placeholders you can name and store information in to recall for later. Maybe you name a variable `x` and you make `x = 1` then later you can ask, "What was `x`?" or "Change `x = 3` now." 
-
->Data types are all the different kinds of information you can store. Some languages ask you to specify which kind of variable you're creating, like Javascript. Others, like Python, can tell just by how the data is formatted. **Strings** are simple lines of text (always seen in between quotation marks). **Integers** and **Floats** are whole numbers and decimals, respectively. There are also ways to store numbers so the computer can decode them in binary and other ways. Finally, **Booleans* are data types that are just `true` or `false`. 
-
->Then there are data types that group collections of data together. These are variously called lists, arrays, dictionaries, objects, sets, etc. They each have different benefits. Arrays and lists are simple rundowns of data: `list = [3, 4, 5, 6, 7]` or `emoji = ["peach", "eggplant", "heart"]` Dictionaries and objects have pairs of values, where each item has its own key, or "variable" so to speak, assigned to it: `dict = { "key": "value", "name": "Sarah", "color": "teal" }` And sets are special lists that forbid duplicates, which can occasionally come in handy.
-
->Any of the above data types can be stored in a variable that you name (almost) whatever you want.
-
-2. Calculations & Operators
-
->Now that you've got some data in your program, time to do something with it! One of the main things programs do is make calculations on data using mathematical operations like add, subtract, multiply, divide, etc. (`+ - * /`), as well as Boolean operations that act as filters, for example AND (`&&`) and OR (`||`)
-
-3. Loops & Conditionals
-
-> Computers can compound that calculation work at high speed and great volume, allowing for ...
-> if/then and if/else
-
->for loops for (let i=0; i<list.length;i++){} and for (let l in list){}
-
->try/catch and the dreaded while loop
-
-4. Functions & Classes
-> The best part about computation is that it's designed to  make patterns to apply to multiple situations. So now that you've written all this great code, you can adapt it slightly and "save" it in a function so that you can reuse it with some other data down the line. Functions are similar to variables in that they store information, but instead of storing data like a variable would, functions can store a whole phrase that expresses an action. They can execute and act on whatever data you feed into them by using some placeholder variables that get replaced by the data you feed in when you run the function later on. Make sense yet? It will help to try an example:
-
-> 
-
-
 
 </section>
 
@@ -143,9 +178,42 @@ modules / libraries
 
 ### Resources
 *Don't stop, don't give up!*
+
 Keep Going! Where to look next? 
+
+[Creative Code Collective, Resource Hub](https://creativecodecollective.github.io/resource-hub/)
+
+[Sharon Lee De La Cruz: Can computers understand slang?](https://www.youtube.com/watch?v=CFT6w9NKfCs)
+Code Slang: crowdsourced library, flexible, visual output. "Retaining a culture, meeting people where they're at, celebrating the way we communicate."
+& the [Digital Citizens Lab]() 
+<!-- all dead links? -->
+
+[Aesthetic Programming]()
+[Exploratory Programming for the Arts and Humanities, 2nd Ed]()
+
+
+
 
 </section>
 </main>
 
 <!-- references -->
+
+<!-- ```
+data: types include...
+    strings (text)
+    numbers (float/integer)
+    groups: list, dictionary, etc. (AKA array)
+    booleans: (true/false)
+groups of data:
+    arrays/lists
+    dictionaries/objects
+    sets & tuples
+variables (labeled containers for the above data)
+calculations & operations
+decisions & loops
+	if/then
+	for loops, while loops, etc.
+functions & classes (labeled containers for actions)
+modules / libraries
+``` -->
