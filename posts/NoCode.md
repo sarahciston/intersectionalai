@@ -12,14 +12,32 @@ desc: Where do I even start?
 
 ## Code Basics for Cuties of All Kinds Who Want to Save AI
 
-### Don't let { curly braces } intimidate you
-
-#### A Non-Coder's Guide to Coding for Intersectional AI
-
-####  I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
+A Non-Coder's Guide to Coding for Intersectional AI
 
 ![](../assets/img/zine-22nov/page-AIcoding.jpg){: .img-small }
 ![](../assets/img/zine-22nov/page-variables.jpg){: .img-small }
+
+## JUMP IN
+
+### Don't let { curly braces } intimidate you
+
+AI and coding can be intimidating to learn. But the entrance is framed in some simple ideas.
+
+All code is built from just a few key components—no matter the scale or complexity!
+
+### **DATA** are pieces of input to the machine. They are the information you are giving, manipulating, and getting back out.
+
+Types of data
+**Strings** are "text" represented in quotes
+**Numbers** include **integers** aka whole numbers like 100; **Floats** are numbers with decimals like 0.25; sometimes other kinds too.
+**Booleans** are either TRUE or FALSE (or a sneaky NULL).
+
+**VARIABLES** are labeled containers for information. If `let x = 1` here, `x` is a variable storing the data `1`. Later you can ask what does `x` equal. You can even use in a calculation, or change it to `x = 3` (and then next time you ask what `x` equals, the answer will be different.)  
+
+*Pssst... you decide what to name your variables.* **ENCODE <><> DECODE**
+
+Naming has power. You are deciding what information means. e.g. the weight of a feature in a machine learning model or the threshold that demarcates one color from another.
+
 ![](../assets/img/zine-22nov/page-arrays.jpg){: .img-small }
 ![](../assets/img/zine-22nov/page-functions.jpg){: .img-small }
 ![](../assets/img/zine-22nov/page-loops.jpg){: .img-small }
@@ -35,6 +53,8 @@ desc: Where do I even start?
 <section class="zine-page page-2" markdown="1">
 
 ## Earlier Draft 
+
+####  I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
 
 ### Why Would I Learn to Code?
 
