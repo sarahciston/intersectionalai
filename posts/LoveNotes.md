@@ -78,6 +78,8 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 * [Superrr](https://superrr.net/) "building diverse & equal futures in tech and beyond"
 * [School of Machines, Making, & Make-Believe](http://schoolofma.org/) classes on art, tech, & design
 * [Data Justice Lab](https://datajusticelab.org/)
+* [Read the Feminist Manual](https://psaroskalazines.gr/zines/RTFM/) chrome add-on to swap pronouns to gender-neutral
+* 
 
 
 ### Examples/Projects
