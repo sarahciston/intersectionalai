@@ -1,4 +1,4 @@
-let url = ''
+// let url = ''
 
 console.log('js reached')
 
@@ -16,7 +16,15 @@ var pdfDoc = null,
     scale = 1.5, //0.8
     // canvas = document.createElement("canvas"),
     canvas = document.getElementById("pdf-canvas"),
-    ctx = canvas.getContext('2d');
+    ctx = canvas.getContext('2d'),
+    url = canvas.getAttribute("data-url");
+
+console.log(url);
+
+// var preloadLink = document.createElement("link");
+// preloadLink.href = url;
+// preloadLink.rel = "preload";
+// document.head.appendChild(preloadLink);
 
 // canvas.id = "the-canvas"
 // preview.appendChild(canvas)

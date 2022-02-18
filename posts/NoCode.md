@@ -7,23 +7,33 @@ desc: Where do I even start?
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
 
+<div id="preview">
+<canvas id="pdf-canvas" data-url="../../assets/files/IAIWorkshopCodeCol-Digital.pdf"></canvas>
+<br>
+<button id="prev">last</button>
+<button id="next">next</button>
+<span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+</div>
+
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 
-## Code Basics for Cuties of All Kinds Who Want to Save AI
+# 😍 Help Me Code Intersectional AI
 
-![](../assets/img/zine-22nov/page-AIcoding.jpg){: .img-small }
-![](../assets/img/zine-22nov/page-variables.jpg){: .img-small }
+<!-- ### Code Basics for Cuties of All Kinds Who Want to Save AI -->
 
-### Don't let { curly braces } intimidate you -- let's jump in!
+<!-- ![](../assets/img/zine-22nov/page-AIcoding.jpg){: .img-small } -->
+<!-- ![](../assets/img/zine-22nov/page-variables.jpg){: .img-small } -->
 
-#### All Programs Combine Just a Few Basic Concepts
+## Don't let { curly braces } intimidate you -- let's jump in!
+
+## All Programs Combine Just a Few Basic Concepts
 
 AI and coding can be intimidating to learn. But the entrance is framed in some simple ideas.
 
 All code combines just a few key components—no matter the scale or complexity! Anything you want to build will be composed of these pieces layered together.
 
-### Data
+## Data
 
 Data are pieces of input to the machine. They are the information you are giving, manipulating, and getting back out.
 
@@ -35,7 +45,7 @@ Data types are all the different kinds of information you can store. Some langua
 
 **Booleans** are either `True` or `False` (or a sneaky `NULL`).
 
-### Variables 
+## Variables 
 
 Variables are labeled containers for information. They are placeholders you can name and store things in to recall for later. Let's say `let x = 1`. That means we declared `x` is a variable storing the data `1`. Later we can ask, "What was `x`?" or say, "Change `x = 3` now." (And then next time we ask what `x` equals, the answer will be different.)
 
@@ -45,10 +55,10 @@ Variables are labeled containers for information. They are placeholders you can 
 
 You are deciding what information means. e.g. the weight of a feature in a machine learning model or the threshold that demarcates one color from another.
 
-![](../assets/img/zine-22nov/page-arrays.jpg){: .img-small }
-![](../assets/img/zine-22nov/page-functions.jpg){: .img-small }
+<!-- ![](../assets/img/zine-22nov/page-arrays.jpg){: .img-small } -->
+<!-- ![](../assets/img/zine-22nov/page-functions.jpg){: .img-small } -->
 
-#### Data in Groups
+### Data in Groups
 
 There are different data types we use to *group* collections of data together. They each have different benefits:
 
@@ -62,11 +72,11 @@ There are different data types we use to *group* collections of data together. T
 
 Any of the above data types can be stored in a variable that you name (almost whatever you want).
 
-### Action! Calculations & Operations
+## Action! Calculations & Operations
 
 Now that you've got some data in your program, time to do something with it! One of the main things programs do is make calculations on data using mathematical operations like add, subtract, multiply, divide, etc. (`+ - * /`), as well as Boolean operations that act as filters, for example AND (`&&`) and OR (`||`).
 
-### Functions: Take It with You
+## Functions: Take It with You
 
 Functions are a way to organize and reuse code, along with its embedded ideas and values. Like putting snippets of code and ideas in a bag. 
 
@@ -82,10 +92,10 @@ Like variables, functions store stuff, but instead they can save a whole phrase 
 
 The best (and sometimes *worst*) part about computation is that it's designed to make patterns to apply to multiple situations. 
 
-![](../assets/img/zine-22nov/page-loops.jpg){: .img-small }
-![](../assets/img/zine-22nov/page-garb.jpg){: .img-small }
+<!-- ![](../assets/img/zine-22nov/page-loops.jpg){: .img-small } -->
+<!-- ![](../assets/img/zine-22nov/page-garb.jpg){: .img-small } -->
 
-### Do It Again! Loops & Conditionals
+## Do It Again! Loops & Conditionals
 
 A **loop** helps you repeat an action many times. 
 
@@ -116,7 +126,7 @@ Computers can compound decision-making work at high speed and great volume, allo
 
 <!-- >try/catch and the dreaded while loop -->
 
-### NO SUCH THING AS RAW DATA
+## NO SUCH THING AS RAW DATA
 
  **Input** | **Output**
 Data entered into a program, stored in variables, used and modified when the program is run. | Data the program sends out into "the world." 
@@ -136,23 +146,23 @@ e.g. from sensors, keyboard, mouse, camera, microphone, database, API | e.g. `pr
 
 <section class="zine-page page-2" markdown="1">
 
-#### Earlier Draft Notes
+<!-- #### Earlier Draft Notes
 
 ####  I Know NO Code: Where Do I Even Start? Help!! (Starter, How-Tos for Artists & Activists)
 
-### Why Would I Learn to Code?
+### Why Would I Learn to Code? -->
 
 </section>
 
 <section class="zine-page page-3" markdown="1">
 
-### Attitude: Fierce & Scrappy
+<!-- ### Attitude: Fierce & Scrappy
 
 ### Overwhelm: Languages, Tools, Libraries, Oh My
 
 ### Which tools for which jobs?
 
-#### Demistifying
+#### Demistifying -->
 
 
 </section>
@@ -172,7 +182,7 @@ e.g. from sensors, keyboard, mouse, camera, microphone, database, API | e.g. `pr
 
 <section class="zine-page page-8" markdown="1">
 
-### References
+<!-- ### References -->
 
 ![Perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png) <!--{: .img-small} -->
 
@@ -188,14 +198,15 @@ Code Slang: crowdsourced library, flexible, visual output. "Retaining a culture,
 & the [Digital Citizens Lab]() 
 <!-- all dead links? -->
 
-[Aesthetic Programming]()
-[Exploratory Programming for the Arts and Humanities, 2nd Ed]()
-
-
-
+[Aesthetic Programming](https://aesthetic-programming.net/)
+[Exploratory Programming for the Arts and Humanities, 2nd Ed](https://mitpress.ublish.com/ereader/12629?preview=#page/i)
 
 </section>
 </main>
+
+<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
+<script src="../../assets/js/loadpdf.js">
+
 
 <!-- references -->
 
