@@ -156,6 +156,8 @@ Many of these were used to make this here zine collection
 #### Historical zines of interest & related reading
 * [Radical Software](https://radicalsoftware.org/e/index.html)
 * [*Information Activism: A Queer History of Lesbian Media Technologies*, by Cait McKinney](http://caitmckinney.com/)
+* [Feminist Killjoy Survival Kit, by Sara Ahmed](https://beyond-human-scales.net/wp-content/uploads/2021/11/AHMED-Killjoy-survival-kit.pdf)
+* [Emergent Strategies, by adrienne marie brown]
   
 </section>
 

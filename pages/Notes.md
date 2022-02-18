@@ -2,7 +2,7 @@
 layout: page
 title: Process Notes 🤓 
 nav_order: 50
-date: 2021-07-12
+date: 2022-02-14
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
 
@@ -10,7 +10,32 @@ date: 2021-07-12
 <section class="zine-page page-1" markdown="1">
 
 # readme
-#### ongoing process notes
+
+### 
+####
+
+### 2022.02.17
+#### more for the toolchest 
+
+>>"The mere act of owning real tools and having the power to use them is a radical and rare idea that can help change the world around us and – if we are persistent – preserve the craft."
+>>"anarchism is the realization that all large institutions – governments, corporations, churches – have divided up the tasks we do in our jobs to the point where these institutions do wasteful, dehumanizing and stupid things. [...] It’s a desire to work for yourself and to run in social and economic circles made up of other individual artisans." (Christopher Schwarz, Anarchist Tool Chest, 2011)
+
+>"turn my dungeon of a workshop into a comfortable and inspiring place", "forsake any tool that won't fit into the chest" (26)
+
+### 2022.02.14
+#### toolkit as anarchist toolchest
+portable packet of resources, ideas and items, for survival and sustaining and surpassing the current circumstances. 50 tactics and ethics for AI that doesn't suck. what would the 50 things be? and how many would be aspirational stubs waiting to be made, another 50 I propose and describe? and where do the zines and workshops fit in, and the resource hub, is that how they are presented or???
+
+sara ahmed's feminist killjoy survival kit includes books, things, tools, time, life, permission notes, other killjoys, humor, feelings, bodies (wiggling, dancing). "putting together a survival kit is a survival strategy." (Ahmed 20XX, 249)
+
+in no particular order... 
+1. teachings from others, could be all 50. is that cheating?
+   1. adrienne mb, sara a, tara mcp, all the space holders and  
+2. ml5.js
+3. colab (pre google preferred)
+4. github (easier, pre microsoft, legible for everyone preferred)
+5. 
+6. friends to make with, from different spheres 
 
 ### 2021.08.27
 #### the unbearable learning curve of github
