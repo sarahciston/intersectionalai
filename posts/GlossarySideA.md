@@ -24,9 +24,9 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 
 ![MLchart](){: .small }
 
->"it's often the way the technology is being used, rather than the technology itself, that determines whether it is appropriate to call it AI or not." (Elements of AI, Building AI)
+>>"it's often the way the technology is being used, rather than the technology itself, that determines whether it is appropriate to call it AI or not." (Elements of AI, Building AI)
 
->"'[A]rtificial intelligence' means lots of things, depending on whether you’re reading science fiction or selling a new app or doing academic research. When someone says they have an AI-powered chatbot, should we expect it to have opinions and feelings like the fictional C-3PO? Or is it just an algorithm that learned to guess how humans are likely to respond to a given phrase? Or a spreadsheet that matches words in your question with a library of preformulated answers? Or an underpaid human who types all the answers from some remote location? Or—even—a completely scripted conversation where human and AI are reading human-written lines like characters in a play? Confusingly, at various times, all these have been referred to as AI. For the purposes of this book, I’ll use the term AI the way it’s mostly used by programmers today: to refer to a particular style of computer program called a machine learning algorithm." (Shane 2019, 7–8)
+>>"'[A]rtificial intelligence' means lots of things, depending on whether you’re reading science fiction or selling a new app or doing academic research. When someone says they have an AI-powered chatbot, should we expect it to have opinions and feelings like the fictional C-3PO? Or is it just an algorithm that learned to guess how humans are likely to respond to a given phrase? Or a spreadsheet that matches words in your question with a library of preformulated answers? Or an underpaid human who types all the answers from some remote location? Or—even—a completely scripted conversation where human and AI are reading human-written lines like characters in a play? Confusingly, at various times, all these have been referred to as AI. For the purposes of this book, I’ll use the term AI the way it’s mostly used by programmers today: to refer to a particular style of computer program called a machine learning algorithm." (Shane 2019, 7–8)
 
 </section>
 
@@ -34,8 +34,6 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 
 #### artificial intelligence 
 >The collection of programs that use machine learning...have qualities that allow them to operate autonomously (without constant instructions given by the programmer or user), ...
-
-
 
 <!--
 #### autonomous agents
@@ -50,7 +48,7 @@ This glossary of terms for Intersectional AI A-to-Z is a great place to get star
 A range of numbers that helps describe how uncertain an estimate is. Any confidence interval has a high (e.g. 95%) chance of containing the true* value (that is, the accurate answer to the question being asked). So the bigger the interval, the more uncertain and the more doubt. Confidence intervals are used in statistics and in AI to determine a model (formula)'s reliability. *Classically presumes a hidden but "true" unknown value that is independent of the model (and this is not always the case of course). Unfortunately, uncertainty remains inherent in prediction and difficult to comprehend in models, even for researchers who create them (D'Ignasio & Klein 2019). 
 
 #### data cleaning
-Data does not come in ready to go, it must be preprocessed. This includes many adjustments that can affect the outcome, including selecting a subset of data (sampling), standardizing and scaling it in relation to a baseline (normalization), handling missing data and outliers with decision trees (which Adrian MacKenzie cites as "affiliated with arbitrariness"), as well as feature creation and extraction (discussed in F). The transformation of real-world information into "data" is never a neutral process but relies heavily on the conditions and goals of the research in context.
+Data does not come in ready to go, it must be preprocessed. This includes many adjustments that can affect the outcome, including selecting a subset of data (sampling), standardizing and scaling it in relation to a baseline (normalization), handling missing data and outliers with decision trees (which Adrian MacKenzie calls "affiliated with arbitrariness"), as well as feature creation and extraction (discussed in F). The transformation of real-world information into "data" is never a neutral process but relies heavily on the conditions and goals of the research in context.
 
 >"there is no “neutral,” “natural,” or “apolitical” vantage point that training data can be built upon. There is no easy technical “fix” by shifting demographics, deleting offensive terms, or seeking equal representation by skin tone. The whole endeavor of collecting images, categorizing them, and labeling them is itself a form of politics, filled with questions about who gets to decide what images mean and what kinds of social and political work those representations perform." (Crawford & Paglen "Excavating AI" 2019)
 
@@ -94,7 +92,7 @@ GAN stands for generative adversarial network and is a now-popular kind of machi
 
 
 #### neural network
->
+> One type of machine learning that is designed with brain neurons as inspiration, neural networks move information through steps as many "nodes" in a process. ~~These are weighted with probabilities and adjusted according to the expected outcome.~~ 
 
 #### overfitting & underfitting
 >

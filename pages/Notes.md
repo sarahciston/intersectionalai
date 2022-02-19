@@ -11,8 +11,34 @@ date: 2022-02-14
 
 # readme
 
-### 
-####
+### 2022.02.18
+#### a toolchest index
+
+What kinds of stuff would be in the toolchest? 11 of each, 88... a diff number of each? I work well with constraint with the understanding there's always more more more (Billy Idol, thanks). An organization/extension of the Love Notes? With a blurb for each.
+
+1. objects to think with
+   1. 
+2. teachers, artists, thinkers
+   1. adrienne marie brown, sara ahmed, tara mcpherson, joy buolamwini everyone holding space for alternative possibilities
+   2. 
+3. oblique strategies
+   1. 
+4. practical tactics & techniques
+   1. anti-capitalist software license
+   2. feminist server, varia, homebrew cerver club, decentralization
+5. tools & libraries (code)
+   1. ml5.js
+   2. colab (pre google)
+6. key readings/tutorials (or all 1,000,000 references?)
+7. better datasets
+8. groups doing it better
+   1. 
+9.  keywords to clarify
+    1.  A is for another
+10. open platforms
+11. analog models
+
+and where do the zines fit in, workshops to make one section of these?
 
 ### 2022.02.17
 #### more for the toolchest 
@@ -24,7 +50,7 @@ date: 2022-02-14
 
 ### 2022.02.14
 #### toolkit as anarchist toolchest
-portable packet of resources, ideas and items, for survival and sustaining and surpassing the current circumstances. 50 tactics and ethics for AI that doesn't suck. what would the 50 things be? and how many would be aspirational stubs waiting to be made, another 50 I propose and describe? and where do the zines and workshops fit in, and the resource hub, is that how they are presented or???
+portable packet of resources, ideas and items, for survival and sustaining and surpassing the current circumstances. XX tactics and ethics for AI that doesn't suck. what would the 50(?) things be? and how many would be aspirational stubs waiting to be made, another 50 I propose and describe? and where do the zines and workshops fit in, and the resource hub, is that how they are presented or???
 
 sara ahmed's feminist killjoy survival kit includes books, things, tools, time, life, permission notes, other killjoys, humor, feelings, bodies (wiggling, dancing). "putting together a survival kit is a survival strategy." (Ahmed 20XX, 249)
 

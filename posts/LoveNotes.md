@@ -49,6 +49,7 @@ We're creating an ever-growing master list of projects, tools, resources to lear
 * [If AI, Then Feminist](https://netzforma.org/publikation-wenn-ki-dann-feministisch-impulse-aus-wissenschaft-und-aktivismus)
 * [Queer.AI](https://queer.ai/) "conversational agents for the advancement of new eroticisms
 * [Guidelines for Checking Essential Properties of AI-Based Systems](https://algorithmwatch.org/de/auto-hr/leitfaden/) in German
+* superrr's new feminist tech list...
 
 ### Learning AI
 - [Elements of AI](https://course.elementsofai.com/)

@@ -10,9 +10,11 @@ desc: Where do I even start?
 <div id="preview">
 <canvas id="pdf-canvas" data-url="../../assets/files/IAIWorkshopCodeCol-Digital.pdf"></canvas>
 <br>
-<button id="prev">last</button>
-<button id="next">next</button>
+<div id="page-turns">
+<button id="prev" class="btn">last</button>
 <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+<button id="next" class="btn">next</button>
+</div>
 </div>
 
 <main class="zine">
