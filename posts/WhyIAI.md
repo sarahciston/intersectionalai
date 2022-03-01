@@ -162,7 +162,7 @@ The algorithm itself is an ancient, not exclusive to high-tech startups. “[C]l
 
 Benjamin argues that, “what appears to be an absence in terms of being ‘cultureless’ works more like a superpower. Invisibility, with regard to Whiteness, offers immunity. To be unmarked by race allows you to reap the benefits but escape responsibility for your role in an unjust system” (2). Although invisible, whiteness is a determining factor shaping AI, “structuring whose literal voice gets embodied in AI. In celebrating diversity, tokenistic approaches to tech development fail to acknowledge how the White aesthetic colors AI. The ‘blandness’ of Whiteness […] is treated by programmers as normal, universal, and appealing” (15).
 
-![perfectionism is white supremacy](../_site/assets/img/LC-Perfectionism.png)
+![perfectionism is white supremacy](../../assets/img/LC-Perfectionism.png)
 
 ### Characteristics of white supremacy culture
 
