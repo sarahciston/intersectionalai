@@ -7,17 +7,12 @@ menu: wiki
 
 test page [[Home]]
 
-
-```{=html}
 <div class="zine-button">
-```
+
 **[PRINT THIS AS A
 ZINE](https://sarahciston.github.io/zinemaker/wiki.html?title=Intersectionality)**
-
-```{=html}
 </div>
-```
-\_\_NOTOC\_\_
+
 
 ## What Intersectionality Means to Me {#what_intersectionality_means_to_me}
 
