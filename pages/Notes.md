@@ -17,12 +17,9 @@ date: 2022-02-14
 What kinds of stuff would be in the toolchest? 11 of each, 88... a diff number of each? I work well with constraint with the understanding there's always more more more (Billy Idol, thanks). An organization/extension of the Love Notes? With a blurb for each.
 
 1. objects to think with
-   1. 
 2. teachers, artists, thinkers
    1. adrienne marie brown, sara ahmed, tara mcpherson, joy buolamwini everyone holding space for alternative possibilities
-   2. 
 3. oblique strategies
-   1. 
 4. practical tactics & techniques
    1. anti-capitalist software license
    2. feminist server, varia, homebrew cerver club, decentralization
@@ -32,11 +29,12 @@ What kinds of stuff would be in the toolchest? 11 of each, 88... a diff number o
 6. key readings/tutorials (or all 1,000,000 references?)
 7. better datasets
 8. groups doing it better
-   1. 
-9.  keywords to clarify
+9.  **keywords to clarify**
     1.  A is for another
 10. open platforms
 11. analog models
+12. **things AI should/nt be used for**
+13. 
 
 and where do the zines fit in, workshops to make one section of these?
 
