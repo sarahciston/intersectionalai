@@ -7,6 +7,14 @@ date: 2021-07-06
 ---
 {::options parse_block_html="true" parse_span_html="true" /}
 
+<ul class="wikiMenu">
+  {% for p in site.pages %}
+    {% if p.menu == "wiki" %}
+    <li><a class="post-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 <main class="zine">
 <section class="zine-page page-1" markdown="1">
 
