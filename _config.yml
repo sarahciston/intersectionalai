@@ -154,7 +154,8 @@ baseurl: "/intersectionalai"
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: kramdown
+# markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 permalink: /:title/
 
