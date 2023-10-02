@@ -5,45 +5,40 @@ wikiPageName: Second-page
 menu: wiki
 ---
 
-test page [[Home]]
-
 <div class="zine-button">
 
 **[PRINT THIS AS A
 ZINE](https://sarahciston.github.io/zinemaker/wiki.html?title=Intersectionality)**
+
 </div>
 
 
 ## What Intersectionality Means to Me {#what_intersectionality_means_to_me}
 
-### And me, and me, and me too {#and_me_and_me_and_me_too}
+### And me, and me, and me too 
 
-### Bringing the marginalized back to the center {#bringing_the_marginalized_back_to_the_center}
+### Bringing the marginalized back to the center 
 
-### I want to get it but \... {#i_want_to_get_it_but_...}
+### I want to get it but \... 
 
 ![Intersectionality Made
 Easy](EasyIntersect.gif "Intersectionality Made Easy")[^1]
 
-### If you\'re wondering, \"Why should I have to get it?\" {#if_youre_wondering_why_should_i_have_to_get_it}
+### If you\'re wondering, \"Why should I have to get it?\" 
 
 ![Audre Lorde](AudreLordeSingleIssue.jpg "Audre Lorde")
 
-#### Questions to answer in this section: {#questions_to_answer_in_this_section}
+#### Questions to answer in this section: 
 
 ![AI To-Do
 List\|400px\|right](LC-AIToDoList.png "AI To-Do List|400px|right")
 
 -   Why listen to academic, activist, or artistic approaches?
 -   Why take a specifically intersectional approach?
--   Why does considering multiple perspectives and different identities
-    matter so much for thinking about technology?
--   Why attach such convoluted-seeming phrases to these ideas, and what
-    do they even mean?
+-   Why does considering multiple perspectives and different identities matter so much for thinking about technology?
+-   Why attach such convoluted-seeming phrases to these ideas, and what do they even mean?
 -   Why a print zine or a digital platform where anyone can contribute?
--   Whose responsibility is it to make the effort to learn, to try
-    harder? (The difference between barriers to access and privileged
-    discomfort.)
+-   Whose responsibility is it to make the effort to learn, to try harder? (The difference between barriers to access and privileged discomfort.)
 
 > \"Many artists sought to provoke audiences by defamiliarizing the
 > opaque and proprietary nature of software tools commonly covered by
@@ -94,13 +89,9 @@ List\|400px\|right](LC-AIToDoList.png "AI To-Do List|400px|right")
 > social interactions and formal critiques.\" (Stark & Crawford 2019,
 > 451)[^8]
 
-[^1]: [Laci Green](https://twitter.com/gogreen18) & [Francesca
-    Ramsey](https://twitter.com/chescaleigh)
+[^1]: [Laci Green](https://twitter.com/gogreen18) & [Francesca Ramsey](https://twitter.com/chescaleigh)
 
-[^2]: Stark, L., & Crawford, K. (2019). The Work of Art in the Age of
-    Artificial Intelligence: What Artists Can Teach Us About the Ethics
-    of Data Practice. Surveillance & Society, 17(3/4), 442--455.
-    <https://doi.org/10.24908/ss.v17i3/4.10821>
+[^2]: Stark, L., & Crawford, K. (2019). The Work of Art in the Age of Artificial Intelligence: What Artists Can Teach Us About the Ethics of Data Practice. Surveillance & Society, 17(3/4), 442--455. <https://doi.org/10.24908/ss.v17i3/4.10821>
 
 [^3]:
 
