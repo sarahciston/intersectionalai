@@ -160,10 +160,17 @@ For additional input on the project or media inquiries, write to Sarah at <a hre
 
 ## Events
 
-13-18 Sep 2021 | [POM Berlin](https://www.pomconference.org/pom-berlin-2021-overview/)
-**1 Sep 2021** | [**HIIG Edit-A-Thon**](https://www.hiig.de/en/events/edit-a-thon-intersectional-ai-toolkit/)
-30 Aug 2021 | [MUTEK Forum, Montreal](https://montreal.mutek.org/en/shows/2021/presentations-non-human-explorations-into-algorithmic-creativity)
-26 Aug 2021 | [CARPA7, Uniarts Helsinki](https://sites.uniarts.fi/web/carpa/carpa7)
+Jun 2024 | Interdisciplinary Questions Between CS & SSH, Lorentz Center, Leiden, Netherlands
+
+Jan 2023 | Transmediale Vorspiele, Halfsister Gallery, Berlin, Germany
+Oct 2022 | AI Anarchies Autumn School, Berlin, Germany
+Sep 2022 | ZK/U, Berlin, Germany
+Mar 2022 | Mozilla Festival
+Nov 2021 | University of Southern California, Los Angeles, US
+Sep 2021 | [POM Berlin](https://www.pomconference.org/pom-berlin-2021-overview/)
+Sep 2021 | [HIIG Edit-A-Thon](https://www.hiig.de/en/events/edit-a-thon-intersectional-ai-toolkit/), Berlin, Germany
+Aug 2021 | [MUTEK Forum](https://montreal.mutek.org/en/shows/2021/presentations-non-human-explorations-into-algorithmic-creativity), Montreal, Canada
+Aug 2021 | [CARPA7, Uniarts Helsinki](https://sites.uniarts.fi/web/carpa/carpa7), Finland
 
 ### Panel discussion from first IAI Edit-a-thon
 
